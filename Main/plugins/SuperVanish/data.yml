@@ -1,6 +1,10 @@
 # SuperVanish v6.1.3 - Data file
-InvisiblePlayers: []
+InvisiblePlayers:
+- f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
 PlayerData:
   4d5778fb-7865-3891-83ed-fd26e2cd5d1d:
     information:
       name: hiemnguyno
+  f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7:
+    information:
+      name: ThanhVNHC

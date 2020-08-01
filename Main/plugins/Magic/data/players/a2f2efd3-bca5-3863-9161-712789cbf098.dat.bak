@@ -1,0 +1,578 @@
+id: a2f2efd3-bca5-3863-9161-712789cbf098
+name: blacksniper2705
+created: 1596306069910
+last_cast: 1596316683223
+cooldown_expiration: 0
+last_death_location: -38.68489803091603,103.11650136792812,-156.3294626961989,world,93.89933,54.900337
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: 171
+  material: dirt
+  data: 1
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  46c57ea4-38de-4713-b8ad-3c505aacb044: []
+spells:
+  arrow:
+    cast_count: 0
+    last_cast: 1596315919914
+    last_earn: 0
+    cooldown_expiration: 0
+  invincible:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  smite:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  entangle:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  cure:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fling:
+    cast_count: 1
+    last_cast: 1596316332773
+    last_earn: 1596316332772
+    cooldown_expiration: 1596316337773
+  flashbang:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  bomb:
+    cast_count: 0
+    last_cast: 1596316683224
+    last_earn: 0
+    cooldown_expiration: 1596316695224
+  whip:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  reflect:
+    cast_count: 2
+    last_cast: 1596316329561
+    last_earn: 1596316297114
+    cooldown_expiration: 0
+  pollinate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  frost:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 0
+    last_cast: 1596315523966
+    last_earn: 0
+    cooldown_expiration: 0
+  fire:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  hat:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  homing:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lightning:
+    cast_count: 2
+    last_cast: 1596316047860
+    last_earn: 1596315818018
+    cooldown_expiration: 0
+  rubberize:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  grenade:
+    cast_count: 0
+    last_cast: 1596316568765
+    last_earn: 0
+    cooldown_expiration: 1596316578765
+  chop:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  earthquake:
+    cast_count: 0
+    last_cast: 1596315762868
+    last_earn: 0
+    cooldown_expiration: 1596315782868
+  push:
+    cast_count: 0
+    last_cast: 1596316552865
+    last_earn: 0
+    cooldown_expiration: 0
+  blob:
+    cast_count: 9
+    last_cast: 1596316043660
+    last_earn: 1596315995648
+    cooldown_expiration: 0
+  shuriken:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  shell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  curse:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sticky:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lift:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  chainlightning:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  airscooter:
+    cast_count: 1
+    last_cast: 1596316328047
+    last_earn: 0
+    cooldown_expiration: 0
+  sponge:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boon:
+    cast_count: 1
+    last_cast: 1596315685297
+    last_earn: 1596315685297
+    cooldown_expiration: 0
+  blind:
+    cast_count: 0
+    last_cast: 1596315666360
+    last_earn: 0
+    cooldown_expiration: 0
+  petrify:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boom:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blink:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  sandblast:
+    cast_count: 1
+    last_cast: 1596315779419
+    last_earn: 1596315779750
+    cooldown_expiration: 0
+  platform:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wave:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  harden:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  lava:
+    cast_count: 2
+    last_cast: 1596316081358
+    last_earn: 1596316076097
+    cooldown_expiration: 0
+  wound:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  walls:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  laser:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  bubble:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  stream:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  flamethrower:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  recall:
+    cast_count: 0
+    last_cast: 1596316570364
+    last_earn: 0
+    cooldown_expiration: 0
+  heal:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  singularity:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  camera:
+    cast_count: 1
+    last_cast: 1596308597170
+    last_earn: 0
+    cooldown_expiration: 0
+  fireball:
+    cast_count: 0
+    last_cast: 1596315595012
+    last_earn: 0
+    cooldown_expiration: 0
+  mine:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  breach:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  poison:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  fury:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  counterspell:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  torch:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  disintegrate:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  kill:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  gatling:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  blast:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  peek:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  pull:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  torture:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  cloak:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  growth:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  arrowrain:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wither:
+    cast_count: 0
+    last_cast: 1596316069910
+    last_earn: 0
+    cooldown_expiration: 0
+  collapse:
+    cast_count: 1
+    last_cast: 1596315538019
+    last_earn: 1596315538054
+    cooldown_expiration: 0
+  stash:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+wands:
+  wand:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2230
+      type: WOODEN_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Carpet Bomb§f (§3Wand§f)
+        lore:
+        - §o§a§6Wizard §rMagic Wand
+        - §3§oBound to ~KnoxUni
+        - Knows 70 Spells
+        - '§eMana: 250'
+        - '§eMana Regeneration: 50/s'
+        attribute-modifiers:
+          GENERIC_ATTACK_SPEED:
+          - ==: org.bukkit.attribute.AttributeModifier
+            amount: 10.0
+            name: Equipment Modifier
+            slot: HAND
+            uuid: b996acc3-5d5b-4bfe-9732-53e60e0d3340
+            operation: 0
+        ItemFlags:
+        - HIDE_ENCHANTS
+        - HIDE_ATTRIBUTES
+        - HIDE_UNBREAKABLE
+        - HIDE_DESTROYS
+        - HIDE_PLACED_ON
+        - HIDE_POTION_EFFECTS
+        Unbreakable: true
+        Damage: 4
+        internal: H4sIAAAAAAAAAE1UaXPTMBDd4LRN04v7PoarwNBAnaNJynDf8JnPGdmWY00UychKQvnAb+etXGb49mTt7tt9++Q2UYOaMynLRpuaK2GyFrW8nJdaePnvw5pdGemo9ee7sb9+GNWibZF6tZSTqpRaUzOx8wQfZZ7L1E9Sq62j/eFokCT5YTyO8+wgOYzjQTyMx6N+fCC7/X4/y2M57g1AF6pPVEYPRDfvyjzrdZJUDDq90VGvM46P4s4w7g5H4xTVxqMWNVVqDW2vrM2kmRRWHvcj2pEmLYRh9oXxRPQxomYpphKQIlovrE+EAz4T0cZSukqhBtFGm/bCEBNlltJ4604iWhPO2RVuH0XUxndlUpVorvQZl9VcecaDiFrIEGYarm6CL104hhuIyrUyU+BmRJu5FlWRiHB+HNVyAV4EXBWqBLyDppzMNeTD6TxySqtRQQSm11zP2YrvziJyrqpK6dPJmrkKpJgrKgSHvArjzmv+IWppNS28qc+XcHaLJJFO/ea0EepNnTQi49M2D1FYbukGZpfC+eLnQsz47g0LuqgKwC0eQlse4jJUqIqFUzPJeh6wQAWbgugqMBSpOPkJeqq8SmcnOGBdTa1y7vUwol3sTZn/e+yAWihXpdZ6yTuLOLu0JmzzdlAwbG8dDAlkyoC/YpBSeqdypvhSB80B758GzYCvYfoKnk6wEaZvo3u2em4dhz7njYgls7xgEYXLwlQvuWGxFIBvUW0FizFlzFhoXQF3gVE0tHuM3AQahxXthsmdFExwJaJtuGEufQGHheBbuHcyFUGyHRAVUjC8G9FWBT0WWjjlT2pHt3jZSR27hlgsmTmuMyEoUl7OPg6lVVVQqMEGWThO/wTu8Dhg/rLe0EM0DcuHtKe4zhQYvZy62nc9JM9UiHzHNhH+1NTjIGkt4R7bQkpW91xwSIj/hnhU9vWDeM9O0FZw0Cbam2J4z6RH2Ed4bA4WwPkeLlfKF0GZC5gX/xItymChZ2wtL4IBP/BvawtbcLYsBYRu0F/B1+pfygQAAA==
+    wand:
+      template: wand
+      owner: ~KnoxUni
+      active_spell: bomb
+      effect_color: 785bbf0191fd,b01151719841,e2444df1e935
+      owner_id: a2f2efd3-bca5-3863-9161-712789cbf098
+      icon: wooden_hoe:4
+      enchant_count: 69
+      page: 0
+      hotbar: 2
+      version: 7
+      spell_inventory:
+        arrow: 39
+        invincible: 71
+        smite: 53
+        entangle: 28
+        cure: 7
+        fling: 4
+        flashbang: 40
+        bomb: 20
+        whip: 31
+        reflect: 18
+        pollinate: 63
+        frost: 16
+        missile: 0
+        fire: 2
+        hat: 62
+        homing: 55
+        lightning: 21
+        rubberize: 56
+        grenade: 12
+        chop: 27
+        earthquake: 64
+        push: 11
+        blob: 22
+        shuriken: 44
+        shell: 24
+        curse: 41
+        sticky: 52
+        lift: 48
+        chainlightning: 45
+        airscooter: 3
+        sponge: 30
+        boon: 6
+        blind: 73
+        petrify: 72
+        boom: 35
+        blink: 25
+        sandblast: 10
+        platform: 47
+        wave: 59
+        harden: 61
+        lava: 65
+        wound: 49
+        walls: 50
+        laser: 58
+        bubble: 14
+        stream: 23
+        flamethrower: 29
+        recall: 13
+        heal: 33
+        singularity: 69
+        fireball: 5
+        mine: 26
+        breach: 38
+        poison: 1
+        fury: 70
+        counterspell: 37
+        torch: 43
+        disintegrate: 51
+        kill: 66
+        gatling: 57
+        blast: 15
+        peek: 17
+        pull: 74
+        torture: 67
+        cloak: 9
+        growth: 54
+        arrowrain: 34
+        wither: 19
+        collapse: 46
+        stash: 68
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 30
+properties:
+  version: 7
+classes:
+  caster:
+    mana_timestamp: 1596316722113
+    mana: 250.0
+    spells:
+    - arrow
+    - invincible
+    - smite
+    - entangle
+    - cure
+    - fling
+    - flashbang
+    - bomb
+    - whip
+    - reflect
+    - pollinate
+    - frost
+    - missile
+    - fire
+    - hat
+    - homing
+    - lightning
+    - rubberize
+    - grenade
+    - chop
+    - earthquake
+    - push
+    - blob
+    - shuriken
+    - shell
+    - curse
+    - sticky
+    - lift
+    - chainlightning
+    - airscooter
+    - sponge
+    - boon
+    - blind
+    - petrify
+    - boom
+    - blink
+    - sandblast
+    - platform
+    - wave
+    - harden
+    - lava
+    - wound
+    - walls
+    - laser
+    - bubble
+    - stream
+    - flamethrower
+    - recall
+    - heal
+    - singularity
+    - fireball
+    - mine
+    - breach
+    - poison
+    - fury
+    - counterspell
+    - torch
+    - disintegrate
+    - kill
+    - gatling
+    - blast
+    - peek
+    - pull
+    - torture
+    - cloak
+    - growth
+    - arrowrain
+    - wither
+    - collapse
+    - stash
+    mana_regeneration: 50.0
+    mana_max: 250.0
+  mage:
+    hotbar_count: 3.0
+    path: master
+modifiers: {}
+active_class: mage
+health: 20.0

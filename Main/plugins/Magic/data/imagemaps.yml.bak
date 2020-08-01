@@ -1,0 +1,24 @@
+'170':
+  world: world
+  url: http://textures.minecraft.net/texture/8fb37ca996c35a1e2d36f43d6ef9e094a07759f692d97c79bde5e0ac9714c27f
+  x: 8
+  y: 8
+  width: 8
+  height: 8
+  enabled: false
+  name: Photo of hiemnguyno
+  player: hiemnguyno
+  x_overlay: 40
+  y_overlay: 8
+'171':
+  world: world
+  url: http://textures.minecraft.net/texture/e63f5264a79ce8f53795d0cdf153f5ea01875214198d9741509f3f503b17cf98
+  x: 8
+  y: 8
+  width: 8
+  height: 8
+  enabled: false
+  name: Photo of blacksniper2705
+  player: blacksniper2705
+  x_overlay: 40
+  y_overlay: 8
