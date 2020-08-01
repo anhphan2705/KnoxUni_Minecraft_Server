@@ -1,54 +1,54 @@
-[13:51:12] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[13:51:12] [Server thread/INFO]: Loading properties
-[13:51:12] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-800b93f-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[13:51:12] [Server thread/INFO]: Debug logging is disabled
-[13:51:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:02:28] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[16:02:29] [Server thread/INFO]: Loading properties
+[16:02:29] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-800b93f-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[16:02:29] [Server thread/INFO]: Debug logging is disabled
+[16:02:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[13:51:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:51:12] [Server thread/INFO]: Default game type: SURVIVAL
-[13:51:12] [Server thread/INFO]: Generating keypair
-[13:51:13] [Server thread/INFO]: Starting Minecraft server on 25.103.221.93:25566
-[13:51:13] [Server thread/INFO]: Using default channel type
-[13:51:24] [Server thread/INFO]: [PluginManager] Loading PluginManager v1.3
-[13:51:24] [Server thread/INFO]: [NoPlugins] Loading NoPlugins v7.2
-[13:51:24] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.52
-[13:51:24] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.2
-[13:51:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[13:51:24] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4eee4c9b]
-[13:51:24] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
-[13:51:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
-[13:51:24] [Server thread/INFO]: [SimplePortals] Loading SimplePortals v1.4.5
-[13:51:24] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
-[13:51:24] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
-[13:51:24] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.15.2) has not yet been tested! Proceed with caution.
-[13:51:24] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[13:51:24] [Server thread/INFO]: [nLogin] Loading nLogin v7.6.0
-[13:51:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[13:51:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[13:51:25] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[13:51:25] [Server thread/WARN]: [WorldEdit] ====================================================
-[13:51:25] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
-[13:51:25] [Server thread/WARN]: [WorldEdit]  as your server software. 
-[13:51:25] [Server thread/WARN]: [WorldEdit]   
-[13:51:25] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
-[13:51:25] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
-[13:51:25] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
-[13:51:25] [Server thread/WARN]: [WorldEdit]   
-[13:51:25] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[13:51:25] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
-[13:51:25] [Server thread/WARN]: [WorldEdit]   
-[13:51:25] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
-[13:51:25] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[13:51:25] [Server thread/WARN]: [WorldEdit]   
-[13:51:25] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[13:51:25] [Server thread/WARN]: [WorldEdit] ====================================================
-[13:51:25] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
-[13:51:25] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[13:51:25] [Server thread/INFO]: [nLogin] Enabling nLogin v7.6.0
-[13:51:25] [Server thread/INFO]: [CoreLibs] Loaded successfully by org.bukkit.plugin.java.PluginClassLoader
+[16:02:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:02:29] [Server thread/INFO]: Default game type: SURVIVAL
+[16:02:29] [Server thread/INFO]: Generating keypair
+[16:02:29] [Server thread/INFO]: Starting Minecraft server on 25.103.221.93:25566
+[16:02:29] [Server thread/INFO]: Using default channel type
+[16:02:39] [Server thread/INFO]: [PluginManager] Loading PluginManager v1.3
+[16:02:39] [Server thread/INFO]: [NoPlugins] Loading NoPlugins v7.2
+[16:02:39] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.52
+[16:02:39] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.2
+[16:02:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[16:02:39] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2408326a]
+[16:02:39] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[16:02:39] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[16:02:39] [Server thread/INFO]: [SimplePortals] Loading SimplePortals v1.4.5
+[16:02:39] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[16:02:39] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
+[16:02:39] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.15.2) has not yet been tested! Proceed with caution.
+[16:02:40] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[16:02:40] [Server thread/INFO]: [nLogin] Loading nLogin v7.6.0
+[16:02:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[16:02:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:02:40] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[16:02:40] [Server thread/WARN]: [WorldEdit] ====================================================
+[16:02:40] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[16:02:40] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[16:02:40] [Server thread/WARN]: [WorldEdit]   
+[16:02:40] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[16:02:40] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[16:02:40] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[16:02:40] [Server thread/WARN]: [WorldEdit]   
+[16:02:40] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[16:02:40] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[16:02:40] [Server thread/WARN]: [WorldEdit]   
+[16:02:40] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[16:02:40] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[16:02:40] [Server thread/WARN]: [WorldEdit]   
+[16:02:40] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[16:02:40] [Server thread/WARN]: [WorldEdit] ====================================================
+[16:02:40] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
+[16:02:40] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[16:02:40] [Server thread/INFO]: [nLogin] Enabling nLogin v7.6.0
+[16:02:40] [Server thread/INFO]: [CoreLibs] Loaded successfully by org.bukkit.plugin.java.PluginClassLoader
 
-[13:51:25] [Server thread/INFO]: [CoreLibs] Enabling CoreLibs v1.3
-[13:51:27] [Server thread/ERROR]: Error occurred while enabling nLogin v7.6.0 (Is it up to date?)
+[16:02:40] [Server thread/INFO]: [CoreLibs] Enabling CoreLibs v1.3
+[16:02:42] [Server thread/ERROR]: Error occurred while enabling nLogin v7.6.0 (Is it up to date?)
 com.nickuc.libs.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
 	at com.nickuc.libs.json.JSONTokener.syntaxError(JSONTokener.java:502) ~[?:?]
 	at com.nickuc.libs.json.JSONObject.<init>(JSONObject.java:214) ~[?:?]
@@ -64,172 +64,190 @@ com.nickuc.libs.json.JSONException: A JSONObject text must begin with '{' at 1 [
 	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:204) [Spigot.jar:git-Spigot-800b93f-8160e29]
 	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:784) [Spigot.jar:git-Spigot-800b93f-8160e29]
 	at java.lang.Thread.run(Thread.java:830) [?:?]
-[13:51:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:51:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:51:27] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[13:51:27] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[13:51:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:51:27] [Server thread/INFO]: Preparing level "world"
-[13:51:27] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[13:51:27] [Server thread/INFO]: Loaded 6 recipes
-[13:51:28] [Server thread/INFO]: -------- World Settings For [world] --------
-[13:51:28] [Server thread/INFO]: View Distance: 10
-[13:51:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:51:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:51:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:51:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:51:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:51:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:51:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:51:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:51:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[13:51:28] [Server thread/INFO]: Max TNT Explosions: 100
-[13:51:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:51:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:51:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:51:28] [Server thread/INFO]: Mob Spawn Range: 4
-[13:51:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:51:28] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[13:51:28] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[13:51:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:29] [Server thread/INFO]: Time elapsed: 1488 ms
-[13:51:29] [Server thread/INFO]: [PluginManager] Enabling PluginManager v1.3
-[13:51:30] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;32;1mENABLED[m
+[16:02:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:02:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:02:42] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[16:02:42] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[16:02:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:02:42] [Server thread/INFO]: Preparing level "world"
+[16:02:42] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[16:02:43] [Server thread/INFO]: Loaded 6 recipes
+[16:02:43] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:02:43] [Server thread/INFO]: View Distance: 10
+[16:02:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:02:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:02:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:02:43] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:02:43] [Server thread/INFO]: Mob Spawn Range: 4
+[16:02:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:02:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:02:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:02:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:02:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:02:43] [Server thread/INFO]: Max TNT Explosions: 100
+[16:02:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:02:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[16:02:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:02:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:02:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:02:43] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[16:02:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:44] [Server thread/INFO]: Time elapsed: 807 ms
+[16:02:44] [Server thread/INFO]: [PluginManager] Enabling PluginManager v1.3
+[16:02:44] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;32;1mENABLED[m
 
-[13:51:30] [Server thread/INFO]: [NoPlugins] Enabling NoPlugins v7.2
-[13:51:30] [Server thread/INFO]: [NoPlugins] Minecraft version: v1_15_R1
-[13:51:30] [Server thread/INFO]: [NoPlugins] --------------------------------
-[13:51:30] [Server thread/INFO]: [NoPlugins] New Version: 7.3
-[13:51:30] [Server thread/INFO]: [NoPlugins] Current Version: 7.2
-[13:51:30] [Server thread/INFO]: [NoPlugins] Download link: https://www.spigotmc.org/resources/12965
-[13:51:30] [Server thread/INFO]: [NoPlugins] This plugin is seriously recommended to update if you want to keep your plugins private.
-[13:51:30] [Server thread/INFO]: [NoPlugins] --------------------------------
-[13:51:30] [Server thread/INFO]: [NoPlugins] Successfully loaded.
-[13:51:30] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.52
-[13:51:30] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.2
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
+[16:02:44] [Server thread/INFO]: [NoPlugins] Enabling NoPlugins v7.2
+[16:02:44] [Server thread/INFO]: [NoPlugins] Minecraft version: v1_15_R1
+[16:02:44] [Server thread/INFO]: [NoPlugins] --------------------------------
+[16:02:44] [Server thread/INFO]: [NoPlugins] New Version: 7.3
+[16:02:44] [Server thread/INFO]: [NoPlugins] Current Version: 7.2
+[16:02:44] [Server thread/INFO]: [NoPlugins] Download link: https://www.spigotmc.org/resources/12965
+[16:02:44] [Server thread/INFO]: [NoPlugins] This plugin is seriously recommended to update if you want to keep your plugins private.
+[16:02:44] [Server thread/INFO]: [NoPlugins] --------------------------------
+[16:02:44] [Server thread/INFO]: [NoPlugins] Successfully loaded.
+[16:02:44] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.52
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.2
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
 
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
 
-[13:53:11] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_15_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[16:02:44] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_15_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
 
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] -------------------------/Warning\-------------------------
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] This plugin is running in Bungee mode!
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] You have to do all configuration at config file
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] inside your Bungeecord server.
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] (Bungeecord-Server/plugins/SkinsRestorer/).
-[13:53:11] [Server thread/INFO]: [SkinsRestorer] -------------------------\Warning/-------------------------
-[13:53:11] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
-[13:53:11] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[13:53:11] [Server thread/INFO]: No kits found to migrate.
-[13:53:11] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[13:53:11] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
-[13:53:11] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[13:53:11] [Server thread/INFO]: Loaded 21018 items from items.json.
-[13:53:11] [Server thread/INFO]: Using locale en_US
-[13:53:11] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[13:53:11] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[13:53:11] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[13:53:11] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
-[13:53:11] [Server thread/INFO]: [SimplePortals] Enabling SimplePortals v1.4.5
-[13:53:11] [Server thread/INFO]: [SimplePortals] Everything inside the configuration seems to be up to date. (Took 2ms)
-[13:53:11] [Server thread/INFO]: [SimplePortals] All packets have been successfully setup for v1_15_R1!
-[13:53:11] [Server thread/INFO]: [SimplePortals] The plugin has enabled successfully!
-[13:53:11] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
-[13:53:11] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[13:53:11] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[13:53:11] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[13:53:11] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[13:53:11] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[13:53:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[13:53:11] [Server thread/INFO]: [WorldGuard] Loading region data...
-[13:53:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:53:12] [Server thread/INFO]: Done (104.887s)! For help, type "help"
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] -------------------------/Warning\-------------------------
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] This plugin is running in Bungee mode!
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] You have to do all configuration at config file
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] inside your Bungeecord server.
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] (Bungeecord-Server/plugins/SkinsRestorer/).
+[16:02:44] [Server thread/INFO]: [SkinsRestorer] -------------------------\Warning/-------------------------
+[16:02:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[16:02:44] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[16:02:44] [Server thread/INFO]: No kits found to migrate.
+[16:02:44] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:02:44] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[16:02:44] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:02:45] [Server thread/INFO]: Loaded 21018 items from items.json.
+[16:02:45] [Server thread/INFO]: Using locale en_US
+[16:02:45] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:02:45] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:02:45] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[16:02:45] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[16:02:45] [Server thread/INFO]: [SimplePortals] Enabling SimplePortals v1.4.5
+[16:02:45] [Server thread/INFO]: [SimplePortals] Everything inside the configuration seems to be up to date. (Took 3ms)
+[16:02:45] [Server thread/INFO]: [SimplePortals] All packets have been successfully setup for v1_15_R1!
+[16:02:45] [Server thread/INFO]: [SimplePortals] The plugin has enabled successfully!
+[16:02:45] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[16:02:45] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[16:02:45] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:02:45] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:02:45] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:02:45] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:02:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:02:45] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:02:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:02:45] [Server thread/INFO]: Done (3.259s)! For help, type "help"
+[16:02:45] [Craft Scheduler Thread - 1/INFO]: [SimplePortals] The version 1.4.5 is doesn't match the latest version!
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |  [0;33;1mBungee Mode[0;32;1m  |[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |  [0;33;1mBungee Mode[0;32;1m  |[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.2[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.2[m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
 
-[13:53:12] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[16:02:46] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
 
-[13:53:12] [Craft Scheduler Thread - 1/INFO]: [SimplePortals] The version 1.4.5 is doesn't match the latest version!
-[14:05:33] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:06:04] [User Authenticator #1/INFO]: UUID of player ThanhVNHC is f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
+[16:06:04] [Server thread/INFO]: ThanhVNHC[/25.94.17.215:49442] logged in with entity id 1 at ([world]1771.4127161813972, 7.0, 909.4458610718192)
+[16:06:14] [Server thread/INFO]: ThanhVNHC lost connection: Disconnected
+[16:06:14] [Server thread/INFO]: ThanhVNHC left the game
+[16:56:25] [User Authenticator #2/INFO]: UUID of player blacksniper2705 is a2f2efd3-bca5-3863-9161-712789cbf098
+[16:56:26] [Server thread/INFO]: blacksniper2705[/25.103.221.93:50156] logged in with entity id 3 at ([world]1752.3095141736235, 8.558573218429013, 909.5060442803837)
+[16:56:34] [Server thread/INFO]: blacksniper2705 lost connection: Disconnected
+[16:56:34] [Server thread/INFO]: blacksniper2705 left the game
+[17:12:03] [User Authenticator #3/INFO]: UUID of player hiemnguyno is 4d5778fb-7865-3891-83ed-fd26e2cd5d1d
+[17:12:03] [Server thread/INFO]: hiemnguyno[/25.55.187.237:50259] logged in with entity id 4 at ([world]1751.9899391013012, 8.5, 909.4080280732815)
+[17:12:11] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
+[17:12:12] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
+[17:12:13] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
+[17:12:13] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
+[17:12:13] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
+[17:12:13] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
+[17:12:13] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
+[17:12:45] [Server thread/INFO]: hiemnguyno lost connection: Disconnected
+[17:12:45] [Server thread/INFO]: hiemnguyno left the game
+[18:59:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
-[14:05:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:59:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
-[14:05:51] [Server thread/INFO]: Stopping the server
-[14:05:51] [Server thread/INFO]: Stopping server
-[14:05:51] [Server thread/INFO]: [CoreLibs] Disabling CoreLibs v1.3
-[14:05:51] [Server thread/INFO]: [nLogin] Disabling nLogin v7.6.0
-[14:05:51] [ncore#nlogin-update-service/WARN]: Exception in thread "ncore#nlogin-update-service" 
-[14:05:51] [Server thread/INFO]: [nCore] Successful plugin shutdown. Took 2ms[m
+[18:59:20] [Server thread/INFO]: Stopping the server
+[18:59:20] [Server thread/INFO]: Stopping server
+[18:59:20] [Server thread/INFO]: [CoreLibs] Disabling CoreLibs v1.3
+[18:59:20] [Server thread/INFO]: [nLogin] Disabling nLogin v7.6.0
+[18:59:20] [Server thread/INFO]: [nCore] Successful plugin shutdown. Took 2ms[m
 
-[14:05:51] [Server thread/INFO]: [0;37;22m[nLogin] [m
+[18:59:20] [ncore#nlogin-update-service/WARN]: Exception in thread "ncore#nlogin-update-service" 
+[18:59:20] [Server thread/INFO]: [0;37;22m[nLogin] [m
 
-[14:05:51] [ncore#nlogin-update-service/WARN]: java.lang.NullPointerException
+[18:59:20] [ncore#nlogin-update-service/WARN]: java.lang.NullPointerException
 
-[14:05:51] [ncore#nlogin-update-service/WARN]: 	at com.nickuc.login.VoRNNNDJToXTLkeu.XiVPDPmowHuuoeya(UpdaterManager.java:142)
+[18:59:20] [ncore#nlogin-update-service/WARN]: 	at com.nickuc.login.VoRNNNDJToXTLkeu.XiVPDPmowHuuoeya(UpdaterManager.java:142)
 
-[14:05:51] [ncore#nlogin-update-service/WARN]: 	at com.nickuc.login.qNBcFRZuDqTsJiec.lambda$onDisable$1(AbstractPlugin.java:181)
+[18:59:20] [ncore#nlogin-update-service/WARN]: 	at com.nickuc.login.qNBcFRZuDqTsJiec.lambda$onDisable$1(AbstractPlugin.java:181)
 
-[14:05:51] [ncore#nlogin-update-service/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:830)
+[18:59:20] [ncore#nlogin-update-service/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:830)
 
-[14:05:51] [Server thread/INFO]: [0;37;22m[nLogin] [0;31;1mDesativando módulos do nLogin V 7.6.0...[m
+[18:59:20] [Server thread/INFO]: [0;37;22m[nLogin] [0;31;1mDesativando módulos do nLogin V 7.6.0...[m
 
-[14:05:51] [Server thread/INFO]: [0;37;22m[nLogin] [m
+[18:59:20] [Server thread/INFO]: [0;37;22m[nLogin] [m
 
-[14:05:51] [Server thread/INFO]: Impossível concluir o report de erro no nLogin [Uma falha crítica foi detectada?]
+[18:59:20] [Server thread/INFO]: Impossível concluir o report de erro no nLogin [Uma falha crítica foi detectada?]
 
-[14:05:51] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[14:05:51] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[14:05:51] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.0
-[14:05:51] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
-[14:05:51] [Server thread/INFO]: [SimplePortals] Disabling SimplePortals v1.4.5
-[14:05:51] [Server thread/INFO]: [SimplePortals] All portals have been saved!
-[14:05:51] [Server thread/INFO]: [SimplePortals] The plugin has been disabled.
-[14:05:51] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
-[14:05:51] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[14:05:51] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[14:05:51] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[14:05:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.2
-[14:05:51] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.52
-[14:05:51] [Server thread/INFO]: [NoPlugins] Disabling NoPlugins v7.2
-[14:05:51] [Server thread/INFO]: [NoPlugins] disabled.
-[14:05:51] [Server thread/INFO]: [PluginManager] Disabling PluginManager v1.3
-[14:05:51] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;31;1mDISABLED[m
+[18:59:20] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[18:59:20] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[18:59:20] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.0
+[18:59:20] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[18:59:20] [Server thread/INFO]: [SimplePortals] Disabling SimplePortals v1.4.5
+[18:59:20] [Server thread/INFO]: [SimplePortals] All portals have been saved!
+[18:59:20] [Server thread/INFO]: [SimplePortals] The plugin has been disabled.
+[18:59:20] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[18:59:20] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[18:59:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[18:59:20] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:59:20] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.2
+[18:59:20] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.52
+[18:59:20] [Server thread/INFO]: [NoPlugins] Disabling NoPlugins v7.2
+[18:59:20] [Server thread/INFO]: [NoPlugins] disabled.
+[18:59:20] [Server thread/INFO]: [PluginManager] Disabling PluginManager v1.3
+[18:59:20] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;31;1mDISABLED[m
 
-[14:05:51] [Server thread/INFO]: Saving players
-[14:05:52] [Server thread/INFO]: Saving worlds
-[14:05:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:05:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:05:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:59:20] [Server thread/INFO]: Saving players
+[18:59:20] [Server thread/INFO]: Saving worlds
+[18:59:20] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:59:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:59:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

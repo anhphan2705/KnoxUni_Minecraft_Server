@@ -1,0 +1,133 @@
+id: f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
+name: ThanhVNHC
+created: 1596309041608
+last_cast: 1596316254338
+cooldown_expiration: 0
+last_death_location: -217.66097391260715,117.87107447124336,-63.99247843885075,world,26.999695,28.650145
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 1
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  46c57ea4-38de-4713-b8ad-3c505aacb044: []
+spells:
+  blind:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  boon:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  frost:
+    cast_count: 0
+    last_cast: 1596316067603
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 0
+    last_cast: 1596316254338
+    last_earn: 0
+    cooldown_expiration: 0
+  fire:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  torch:
+    cast_count: 3
+    last_cast: 1596316092504
+    last_earn: 1596315785939
+    cooldown_expiration: 1596316102504
+  fireball:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  peek:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+wands:
+  wand:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2230
+      type: WOODEN_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Torch§f (§3Wand§f)
+        lore:
+        - §o§a§7Beginner §rMagic Wand
+        - §3§oBound to ThanhVNHC
+        - Knows 8 Spells
+        - '§eMana: 50'
+        - '§eMana Regeneration: 5/s'
+        attribute-modifiers:
+          GENERIC_ATTACK_SPEED:
+          - ==: org.bukkit.attribute.AttributeModifier
+            amount: 10.0
+            name: Equipment Modifier
+            slot: HAND
+            uuid: dd1f2e42-692b-46af-93d9-d9084423d119
+            operation: 0
+        ItemFlags:
+        - HIDE_ENCHANTS
+        - HIDE_ATTRIBUTES
+        - HIDE_UNBREAKABLE
+        - HIDE_DESTROYS
+        - HIDE_PLACED_ON
+        - HIDE_POTION_EFFECTS
+        Unbreakable: true
+        Damage: 1
+        internal: H4sIAAAAAAAAADVQy07DMBDc4ISGUMRPIE6NVOddrlw4cUJcIz/WilXXjpK0FX/PpoLbzuxoZnYzgAjiI+IYZRBfhdcppAueRicW/CeScPU4wcPXIPzw/fnxnsJWqMVesJ9HdA6SJUxqIBaNQbX0KrgwwWt7aBTvyr3kVb0rtKyLQjX7Q9fual7KUqmqq3lBgTf/3mp4MQfFDddlbmSh81KIKpfYyLxruamKRmot2hRiq4KH7TUEjb4fAr5xBk/oFRVc089+AYANg80Fp9mSllAGz7e2vfUX9NT4h0EinfWatgmDWIab8J5oM4V5tYjI4mTn2TokBCQydlpHxv6OpvmOQbrSUtArAGJSjYjHNXP97uPZ6ymMo5AOI/gFnV0bzXEBAAA=
+    wand:
+      template: wand
+      owner: ThanhVNHC
+      active_spell: torch
+      effect_color: 796c1830b145,2db522c60987,513b3cc48512
+      owner_id: f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
+      icon: wooden_hoe:1
+      enchant_count: 7
+      version: 7
+      spell_inventory:
+        blind: 5
+        boon: 6
+        frost: 1
+        missile: 0
+        fire: 3
+        torch: 2
+        fireball: 4
+        peek: 7
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 2
+properties:
+  version: 7
+classes:
+  caster:
+    mana_timestamp: 1596322911070
+    mana: 50.0
+    spells:
+    - blind
+    - boon
+    - frost
+    - missile
+    - fire
+    - torch
+    - fireball
+    - peek
+  mage: {}
+modifiers: {}
+active_class: mage
+health: 20.0

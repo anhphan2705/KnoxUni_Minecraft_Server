@@ -1,4 +1,3 @@
-prevent_proxy_connections: false
 listeners:
 - query_port: 25565
   motd: '&1Another Bungee server'
@@ -12,7 +11,7 @@ listeners:
   - lobby
   - Wizard
   bind_local_address: true
-  host: 25.55.187.237:25565
+  host: 25.103.221.93:25565
   max_players: 1
   tab_size: 60
   force_default_server: true
@@ -32,6 +31,7 @@ log_pings: true
 connection_throttle_limit: 3
 server_connect_timeout: 5000
 timeout: 30000
+stats: 0a154c7d-d2a1-43bc-94b7-f2a994cfb616
 player_limit: -1
 ip_forward: true
 groups:
@@ -40,17 +40,17 @@ groups:
 remote_ping_timeout: 5000
 connection_throttle: 4000
 log_commands: false
-stats: 0a154c7d-d2a1-43bc-94b7-f2a994cfb616
+prevent_proxy_connections: false
 online_mode: false
 forge_support: false
 disabled_commands:
 - disabledcommandhere
 servers:
   lobby:
-    address: 25.55.187.237:25566
+    address: 25.103.221.93:25566
     restricted: false
     motd: '&cNOTHING'
   Wizard:
     motd: '&cCAM VAO :))'
-    address: 25.55.187.237:25567
+    address: 25.103.221.93:25567
     restricted: false

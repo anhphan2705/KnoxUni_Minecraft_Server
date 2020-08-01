@@ -20,7 +20,7 @@ skills:
   cast_count: 0
   last_cast: 0
 reflect:
-  cast_count: 0
+  cast_count: 2
   last_cast: 0
 jeweller:
   cast_count: 0
@@ -44,7 +44,7 @@ farm:
   cast_count: 0
   last_cast: 0
 fire:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 wandbuffshop:
   cast_count: 0
@@ -53,7 +53,7 @@ homing:
   cast_count: 0
   last_cast: 0
 magichat:
-  cast_count: 0
+  cast_count: 3
   last_cast: 0
 silence:
   cast_count: 0
@@ -62,7 +62,7 @@ throwsword:
   cast_count: 0
   last_cast: 0
 lightning:
-  cast_count: 0
+  cast_count: 2
   last_cast: 0
 repairequipment:
   cast_count: 0
@@ -164,13 +164,13 @@ railgun:
   cast_count: 0
   last_cast: 0
 meteor:
-  cast_count: 0
+  cast_count: 2
   last_cast: 0
 familiar:
   cast_count: 0
   last_cast: 0
 blast:
-  cast_count: 0
+  cast_count: 4
   last_cast: 0
 boomerang:
   cast_count: 0
@@ -212,7 +212,7 @@ bomb:
   cast_count: 0
   last_cast: 0
 fling:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 secure:
   cast_count: 0
@@ -311,7 +311,7 @@ blind:
   cast_count: 0
   last_cast: 0
 boon:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 axeshop:
   cast_count: 0
@@ -341,7 +341,7 @@ fx:
   cast_count: 0
   last_cast: 0
 lava:
-  cast_count: 0
+  cast_count: 2
   last_cast: 0
 buyshop:
   cast_count: 0
@@ -374,7 +374,7 @@ holylight:
   cast_count: 0
   last_cast: 0
 masterattack:
-  cast_count: 0
+  cast_count: 3
   last_cast: 0
 arrow_poison:
   cast_count: 0
@@ -479,7 +479,7 @@ chop:
   cast_count: 0
   last_cast: 0
 push:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 tosurvival:
   cast_count: 0
@@ -575,7 +575,7 @@ add_fall_protection:
   cast_count: 0
   last_cast: 0
 camera:
-  cast_count: 0
+  cast_count: 7
   last_cast: 0
 map:
   cast_count: 0
@@ -602,7 +602,7 @@ counterspell:
   cast_count: 0
   last_cast: 0
 torch:
-  cast_count: 0
+  cast_count: 3
   last_cast: 0
 kill:
   cast_count: 0
@@ -737,7 +737,7 @@ backflip:
   cast_count: 0
   last_cast: 0
 broom:
-  cast_count: 0
+  cast_count: 2
   last_cast: 0
 add_fire_protection:
   cast_count: 0
@@ -770,7 +770,7 @@ rainbow:
   cast_count: 0
   last_cast: 0
 blob:
-  cast_count: 0
+  cast_count: 9
   last_cast: 0
 note24:
   cast_count: 0
@@ -797,7 +797,7 @@ dash:
   cast_count: 0
   last_cast: 0
 airscooter:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 note:
   cast_count: 0
@@ -821,7 +821,7 @@ appearanceshop:
   cast_count: 0
   last_cast: 0
 sandblast:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 platform:
   cast_count: 0
@@ -887,7 +887,7 @@ arrowrain:
   cast_count: 0
   last_cast: 0
 collapse:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 snap:
   cast_count: 0
