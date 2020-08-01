@@ -1,0 +1,6 @@
+BarsEnabled:
+- Bar1
+DisabledWorlds:
+- ExampleWorldName
+PermissionEnabled: false
+Permission: simplebossbar.use

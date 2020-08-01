@@ -1,0 +1,18 @@
+setting:
+  priority: 1
+  advanced: false
+
+assignment:
+  default-permissions:
+    type: PERMISSION
+    permission: "kiteboard.group.default"
+    default: true
+header:
+  - "&b&lMC&a&lmine"
+  - "2|&e<pulse pause=1 color=multi>REN chode</pulse>"
+  - ""
+footer:
+  - ""
+  - "&eWebsite"
+  - "3|<glow normal=&b start=&9 middle=&1 end=&9 size=5 pause=10>lozren.net</glow>"
+  - ""

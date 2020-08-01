@@ -1,0 +1,92 @@
+# NoPlugins
+# Version: 7.2
+# Developer(s): [Xanium]
+# Main configuration file. 
+# 
+# Copyrighted under (All Rights Reserved)!
+# 
+# The first setting 'enable-tab-blocker' is where you can decide if you want to use it or not.
+# You must add all commands that you want to remove from the command list when typing '/'
+# 
+# Then you have the single line messages that pop up when you type /plugins or so. These can you edit as much as you'd like.
+# 
+# Now you have the custom commands section, where you can enable or disable it, and add or remove commands to it's list.
+# 
+# Now you have the multi line messages section. Here can you add as many messages as you want to the existing lists.
+# It is not recommended to disable the updater for this plugin due to the reason that new updates will patch bugs that most likely are critical. 
+# If you don't notice the update you won't have 100% protection. You can always see the console for updates, if you have disabled update notifications ingame.
+debug: false
+updater: true
+update-notification: true
+block-opped-players: true
+disable_help_command: true
+enable-multi_line-messages: false
+enable-tab-blocker: true
+tab-block-everything: false
+tab-blocked-commands:
+- about
+- ver
+- '?'
+- version
+- pl
+- plugins
+- bukkit:pl
+- bukkit:plugins
+- bukkit:ver
+- bukkit:version
+- bukkit:?
+- bukkit:about
+- bukkit:help
+enable-custom-commands: true
+custom-command-blocked: '&cBLOCKED'
+custom-commands:
+- /spigot
+- /essentials
+- /kill hiemnguyno
+enable-console-only-commands: true
+console-only-message: '&cThis command is locked to console only!'
+console-only-commands:
+- /op
+- /deop
+- /stop
+nopermission: You don't have permission to this.
+pluginsMessage: ''
+plMessage: ''
+iCanHasBukkitMessage: ''
+aboutMessage: ''
+versionMessage: ''
+verMessage: ''
+questionMarkMessage: ''
+bukkitMessage: ''
+pluginsMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'
+plMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'
+iCanHasBukkitMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'
+aboutMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'
+versionMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'
+verMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'
+questionMarkMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'
+bukkitMessageList:
+- '&aNot'
+- '&aYour'
+- '&aBusiness'

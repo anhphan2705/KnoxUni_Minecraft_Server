@@ -1,0 +1,7 @@
+dungeon:
+  location: world, -167.201, 57.000, -142.463
+  lines:
+  - '&u&oDungeon'
+  - '&f&k|&eChào mừng đến với động quái vật'
+  - '&bBạn dám xông vào đấu với những con quái vật khủng khiếp không?'
+  - '&4&l⚠ &cHãy thử xem'

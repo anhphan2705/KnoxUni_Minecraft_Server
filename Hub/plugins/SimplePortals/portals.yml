@@ -1,0 +1,23 @@
+Go:
+  last-fill-material: AIR
+  point-1:
+    world: world
+    x: 1750.0
+    y: 8.0
+    z: 916.0
+  point-2:
+    world: world
+    x: 1750.0
+    y: 13.0
+    z: 902.0
+  teleport-location:
+    world: world
+    x: 1750.0
+    y: 10.0
+    z: 916.0
+    yaw: 0.0
+    pitch: 0.0
+  commands-only: false
+  commands: []
+  disabled: false
+  portal-server: Wizard

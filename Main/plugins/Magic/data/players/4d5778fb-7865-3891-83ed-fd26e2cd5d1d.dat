@@ -1,0 +1,76 @@
+id: 4d5778fb-7865-3891-83ed-fd26e2cd5d1d
+name: hiemnguyno
+created: 1595965404227
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: ''
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 1
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  46c57ea4-38de-4713-b8ad-3c505aacb044: []
+spells:
+  missile:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+wands:
+  wand:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 1976
+      type: WOODEN_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§a§7Beginner §rMagic Wand
+        - §3§oBound to hiemnguyno
+        - '§eMana: 50'
+        - '§eMana Regeneration: 5/s'
+        attribute-modifiers:
+          GENERIC_ATTACK_SPEED:
+          - ==: org.bukkit.attribute.AttributeModifier
+            amount: 10.0
+            name: Equipment Modifier
+            slot: HAND
+            uuid: 34fb79b8-1a4c-4638-99cc-bc88095b06b4
+            operation: 0
+        ItemFlags:
+        - HIDE_ENCHANTS
+        - HIDE_ATTRIBUTES
+        - HIDE_UNBREAKABLE
+        - HIDE_DESTROYS
+        - HIDE_PLACED_ON
+        - HIDE_POTION_EFFECTS
+        Unbreakable: true
+        Damage: 1
+        internal: H4sIAAAAAAAAADWOyw6CMBAAl4iRoJ9hPElCi33oz5C2u1UidgmixL+XmHidw8yUABnkd6IhKyGfXcICiokeQ+8m+oM1z4lGKG8dPdL19UlcwI5ipDC1gXse4eB0lNpbFZvaHcWpkUbUaGuDRyOE0sEoI71f3D9V2yHsT6iMsdFXxmpVNfYsKtsQVhGlJhlQoVjaeRc4wW5mRkrtjekiVrB50/jsFg6wWf63r4QjD4PzPWXwBW0GHZrTAAAA
+    wand:
+      template: wand
+      owner: hiemnguyno
+      effect_color: a6f26b85f30a,1432710d807d,71156c7572bb
+      owner_id: 4d5778fb-7865-3891-83ed-fd26e2cd5d1d
+      icon: wooden_hoe:1
+      version: 7
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 0
+properties: {}
+classes:
+  caster:
+    mana_timestamp: 1595966997071
+    mana: 50.0
+  mage: {}
+modifiers: {}
+active_class: mage
+health: 20.0

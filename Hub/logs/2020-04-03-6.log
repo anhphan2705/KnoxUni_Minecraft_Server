@@ -1,0 +1,157 @@
+[09:09:03] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[09:09:03] [Server thread/INFO]: Loading properties
+[09:09:03] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[09:09:03] [Server thread/INFO]: Debug logging is disabled
+[09:09:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:09:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:09:04] [Server thread/INFO]: Default game type: SURVIVAL
+[09:09:04] [Server thread/INFO]: Generating keypair
+[09:09:04] [Server thread/INFO]: Starting Minecraft server on 25.115.248.128:25566
+[09:09:04] [Server thread/INFO]: Using default channel type
+[09:09:11] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[09:09:11] [Server thread/INFO]: [nLogin] Loading nLogin v7.6.0
+[09:09:11] [Server thread/INFO]: [NoPlugins] Loading NoPlugins v7.2
+[09:09:11] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.51
+[09:09:11] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.7.5
+[09:09:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[09:09:12] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2df9eace]
+[09:09:12] [Server thread/INFO]: [Music] Loading Music v2.7.34
+[09:09:12] [Server thread/INFO]: [SimplePortals] Loading SimplePortals v1.4.5
+[09:09:12] [Server thread/INFO]: [GPack] Loading GPack v[2.6.1.0]
+[09:09:12] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[09:09:12] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[09:09:12] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[09:09:12] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.0.72[m
+[09:09:12] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[09:09:12] [Server thread/INFO]: [m
+[09:09:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:09:13] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:09:14] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:09:14] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:09:14] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2089ms)
+[09:09:14] [Server thread/INFO]: [nLogin] Enabling nLogin v7.6.0
+[09:09:14] [Server thread/INFO]: [CoreLibs] Loaded successfully by org.bukkit.plugin.java.PluginClassLoader
+[09:09:14] [Server thread/INFO]: [CoreLibs] Enabling CoreLibs v1.3
+[09:09:16] [Server thread/INFO]: [nCore] Successful plugin start. Took 2168ms[m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m         __             _       [m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m _ __   / /  ___   __ _(_)_ __  [m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m| '_ \ / /  / _ \ / _` | | '_ \ [m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m| | | / /__| (_) | (_| | | | | |[m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m|_| |_\____/\___/ \__, |_|_| |_|[m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m                  |___/            [m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m By: www.nickuc.com - V 7.6.0 Release Build[m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [m
+[09:09:17] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1mInicializando tarefas para inicialização...[m
+[09:09:19] [Server thread/INFO]: [0;37;22m[nLogin] [0;37;22mTodas as mensagens foram carregadas em 153 ms.[m
+[09:09:19] [Server thread/INFO]: [0;37;22m[nLogin] [0;34;1m[BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)[m
+[09:09:19] [Server thread/INFO]: [0;37;22m[nLogin] [0;33;1mnLogin foi carregado em 2273ms.[m
+[09:09:19] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[09:09:19] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[09:09:20] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R4 as the Bukkit adapter
+[09:09:20] [Server thread/WARN]: [WorldEdit] ====================================================
+[09:09:20] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[09:09:20] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[09:09:20] [Server thread/WARN]: [WorldEdit]   
+[09:09:20] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[09:09:20] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[09:09:20] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[09:09:20] [Server thread/WARN]: [WorldEdit]   
+[09:09:20] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[09:09:20] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[09:09:20] [Server thread/WARN]: [WorldEdit]   
+[09:09:20] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[09:09:20] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[09:09:20] [Server thread/WARN]: [WorldEdit]   
+[09:09:20] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[09:09:20] [Server thread/WARN]: [WorldEdit] ====================================================
+[09:09:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:09:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:09:20] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[09:09:20] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[09:09:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:09:20] [Server thread/INFO]: Preparing level "world"
+[09:09:21] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[09:09:21] [Server thread/INFO]: Loaded 6 recipes
+[09:09:21] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:09:21] [Server thread/INFO]: View Distance: 10
+[09:09:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[09:09:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:09:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:09:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:09:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:09:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:09:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:09:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:09:21] [Server thread/INFO]: Mob Spawn Range: 4
+[09:09:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[09:09:21] [Server thread/INFO]: Max TNT Explosions: 100
+[09:09:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:09:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[09:09:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[09:09:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:09:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[09:09:22] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[09:09:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:24] [Server thread/INFO]: Preparing spawn area: 83%
+[09:09:24] [Server thread/INFO]: Time elapsed: 2017 ms
+[09:09:24] [Server thread/INFO]: [NoPlugins] Enabling NoPlugins v7.2
+[09:09:24] [Server thread/INFO]: [NoPlugins] Minecraft version: v1_14_R1
+[09:09:24] [Server thread/INFO]: [NoPlugins] Successfully loaded.
+[09:09:24] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.51
+[09:09:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.7.5
+[09:09:24] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_14_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[09:09:24] [Server thread/INFO]: [SkinsRestorer] -------------------------/Warning\-------------------------
+[09:09:24] [Server thread/INFO]: [SkinsRestorer] This plugin is running in Bungee mode!
+[09:09:24] [Server thread/INFO]: [SkinsRestorer] You have to do all configuration at config file
+[09:09:24] [Server thread/INFO]: [SkinsRestorer] inside your Bungeecord server.
+[09:09:24] [Server thread/INFO]: [SkinsRestorer] (Bungeecord-Server/plugins/SkinsRestorer/).
+[09:09:24] [Server thread/INFO]: [SkinsRestorer] -------------------------\Warning/-------------------------
+[09:09:24] [Server thread/INFO]: [Music] Enabling Music v2.7.34
+[09:09:26] [Server thread/INFO]: [SimplePortals] Enabling SimplePortals v1.4.5
+[09:09:26] [Server thread/INFO]: [SimplePortals] Everything inside the configuration seems to be up to date. (Took 5ms)
+[09:09:26] [Server thread/INFO]: [SimplePortals] All packets have been successfully setup for v1_14_R1!
+[09:09:26] [Server thread/INFO]: [SimplePortals] The plugin has enabled successfully!
+[09:09:26] [Server thread/INFO]: [GPack] Enabling GPack v[2.6.1.0]
+[09:09:26] [Server thread/INFO]: [0;37;22m[[0;33;22mGPack[0;37;22m][0;32;1m The Plugin was successfully enabled.[m
+[09:09:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[09:09:26] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[09:09:26] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[09:09:26] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[09:09:26] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[09:09:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[09:09:26] [Server thread/INFO]: [WorldGuard] Loading region data...
+[09:09:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:09:26] [Server thread/INFO]: Done (5.724s)! For help, type "help"
+[23:09:26] [Craft Scheduler Thread - 2/INFO]: [SimplePortals] Everything looks like it is up to date!
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |  [0;33;1mBungee Mode[0;32;1m  |[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.7.5[m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+[23:09:26] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[09:09:31] [Server thread/INFO]: [0;37;22m[nLogin] Inicialização do nLogin v7.6.0 finalizada.[m
+[09:09:37] [Server thread/INFO]: [0;33;22m[WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128![m
+[09:09:39] [Server thread/INFO]: hiemnguyno[/25.115.248.128:53088] logged in with entity id 1 at ([world]1762.5426480422552, 6.0625, 908.9044389162848)
+[23:11:43] [nlogin#command_exec('CONSOLE', 'nlogin'), cid=54abc70e/INFO]: [0;37;22m[nLogin] [0;37;22mTodas as mensagens foram carregadas em 19 ms.[m
+[23:11:44] [nlogin#command_exec('CONSOLE', 'nlogin'), cid=54abc70e/INFO]: [0;33;1mPlugin foi recarregado com sucesso.[m

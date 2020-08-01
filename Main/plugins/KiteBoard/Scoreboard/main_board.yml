@@ -1,0 +1,22 @@
+setting:
+  priority: 2
+  advanced: false
+
+# Scoreboard criteria, see the wiki for more information.
+criteria:
+  default-permissions:
+    type: PERMISSION
+    permission: "kiteboard.group.default"
+    default: true
+
+# Scoreboard content, configured simply
+# Adding "100|" sets the refresh rate for this line.
+content:
+  - "&b&lMC&a&lmine&5&l"
+  - "&f&m--------------------------"
+  - "&b❁ &fPlayer: &a{player}"
+  - "&b❁ &fMoney: &a%vault_eco_balance%"
+  - "&b❁ &fToken: &a%playerpoints_points%"
+  - "&b❁ &fClass: &a%error1%"
+  - "&b❁ &fLevel: &a%error2%"
+  - "&f&m--------------------------"

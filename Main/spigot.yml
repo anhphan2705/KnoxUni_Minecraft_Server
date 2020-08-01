@@ -1,0 +1,144 @@
+# This is the main configuration file for Spigot.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# For a reference for any variable inside this file, check out the Spigot wiki at
+# http://www.spigotmc.org/wiki/spigot-configuration/
+# 
+# If you need help with the configuration or have any questions related to Spigot,
+# join us at the IRC or drop by our forums and leave a post.
+# 
+# IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
+# Forums: http://www.spigotmc.org/
+
+config-version: 12
+settings:
+  log-villager-deaths: true
+  debug: false
+  save-user-cache-on-stop-only: false
+  filter-creative-items: true
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  bungeecord: true
+  late-bind: true
+  int-cache-limit: 1024
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+  item-dirty-ticks: 20
+  sample-count: 12
+  timeout-time: 60
+  restart-on-crash: false
+  restart-script: ./bin/sh start.sh
+  user-cache-size: 1000
+  player-shuffle: 0
+messages:
+  whitelist: Lần Sau Nhé, Server Đang Bao Tri
+  unknown-command: Không Có Lệnh. Ghi "/huongdan" để biết thêm.
+  server-full: Server Đã Đầy
+  outdated-client: Phiên Bản Không Phù Hợp! Hãy Dùng {0}
+  outdated-server: Máy Chủ Dùng Phiên Bản Cũ! Version {0}
+  restart: Server Đang Khởi Động Lại
+commands:
+  send-namespaced: true
+  tab-complete: 0
+  silent-commandblock-console: false
+  log: true
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
+stats:
+  disable-saving: false
+  forced-stats: {}
+world-settings:
+  default:
+    view-distance: default
+    trident-despawn-rate: 1200
+    seed-desert: 14357617
+    seed-igloo: 14357618
+    seed-jungle: 14357619
+    seed-swamp: 14357620
+    seed-shipwreck: 165745295
+    seed-ocean: 14357621
+    seed-outpost: 165745296
+    verbose: true
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    hanging-tick-frequency: 100
+    arrow-despawn-rate: 1200
+    merge-radius:
+      item: 3.5
+      exp: 6.0
+    item-despawn-rate: 6000
+    nerf-spawner-mobs: false
+    zombie-aggressive-towards-villager: true
+    mob-spawn-range: 3
+    growth:
+      beetroot-modifier: 100
+      carrot-modifier: 100
+      potato-modifier: 100
+      bamboo-modifier: 100
+      sweetberry-modifier: 100
+      kelp-modifier: 100
+      cactus-modifier: 40
+      cane-modifier: 40
+      melon-modifier: 20
+      mushroom-modifier: 40
+      pumpkin-modifier: 20
+      sapling-modifier: 30
+      wheat-modifier: 35
+      netherwart-modifier: 40
+      vine-modifier: 30
+      cocoa-modifier: 30
+    ticks-per:
+      hopper-transfer: 24
+      hopper-check: 1
+    hopper-amount: 3
+    random-light-updates: false
+    save-structure-info: true
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    hunger:
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: 6.0
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: 0.0
+    max-tick-time:
+      tile: 50
+      entity: 50
+    squid-spawn-range:
+      min: 45.0
+    entity-activation-range:
+      raiders: 48
+      animals: 6
+      monsters: 16
+      misc: 2
+      tick-inactive-villagers: true
+    max-tnt-per-tick: 100
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    seed-monument: 10387313
+    seed-slime: 987234911
+    max-entity-collisions: 2
+  worldeditregentempworld:
+    verbose: false

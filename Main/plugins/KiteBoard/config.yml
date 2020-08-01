@@ -1,0 +1,6 @@
+# KiteBoard 3
+# (C) Niall7459 2015-2019
+general:
+  enable-update-check: true
+  enable-scoreboard: true
+  enable-tablist: true

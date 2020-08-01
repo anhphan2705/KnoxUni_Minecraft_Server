@@ -1,0 +1,66 @@
+lastAccountName: emlacobedamdang
+timestamps:
+  login: 1586058626070
+  lastteleport: 1586059921863
+  logout: 1586061628789
+ipAddress: 25.122.249.88
+lastlocation:
+  world: world
+  x: -119.69999998807907
+  y: 43.0
+  z: -133.69999998807907
+  yaw: -200.01862
+  pitch: 23.030428
+afk: false
+nickname: §bRen
+homes:
+  home:
+    world: world
+    x: -118.95146025127158
+    y: 27.0
+    z: -114.79344280676858
+    yaw: -270.64154
+    pitch: 33.725082
+  dungeon1:
+    world: world
+    x: -118.95146025127158
+    y: 27.0
+    z: -114.79344280676858
+    yaw: -270.64154
+    pitch: 33.725082
+  dungeon2:
+    world: world
+    x: -52.06172854863553
+    y: 21.0625
+    z: -114.08573216710599
+    yaw: -121.30524
+    pitch: 36.563225
+  dungeon3:
+    world: world
+    x: 25.04889620880352
+    y: 23.0
+    z: -115.68875110051823
+    yaw: -221.44844
+    pitch: 14.859802
+  caves:
+    world: world
+    x: -189.03683661290097
+    y: 43.0
+    z: -157.0554760557159
+    yaw: -103.903564
+    pitch: 36.95004
+  onglaocauca:
+    world: world
+    x: -186.38118737086947
+    y: 45.0
+    z: -169.44871706075494
+    yaw: -86.61688
+    pitch: 39.88966
+logoutlocation:
+  world: world
+  x: -296.0848937398359
+  y: 81.0
+  z: 6.2380103757873435
+  yaw: -268.86987
+  pitch: 39.664783
+money: '1'

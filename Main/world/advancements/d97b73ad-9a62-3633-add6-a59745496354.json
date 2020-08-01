@@ -1,0 +1,74 @@
+{
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-03-30 13:47:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2020-04-02 16:04:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-04-02 16:04:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2020-04-02 15:58:34 +0700",
+      "bread": "2020-04-02 16:31:59 +0700"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-04-02 15:58:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2020-03-30 13:47:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-04-01 10:25:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-04-02 16:04:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-04-02 16:04:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-03-30 13:02:29 +0700",
+      "minecraft:taiga": "2020-03-30 13:19:18 +0700",
+      "minecraft:desert_hills": "2020-04-02 15:53:39 +0700",
+      "minecraft:desert": "2020-04-02 15:53:23 +0700",
+      "minecraft:savanna_plateau": "2020-04-02 15:55:00 +0700",
+      "minecraft:beach": "2020-03-30 13:19:06 +0700",
+      "minecraft:river": "2020-03-30 13:05:12 +0700",
+      "minecraft:wooded_mountains": "2020-03-30 13:14:07 +0700",
+      "minecraft:stone_shore": "2020-03-30 13:05:04 +0700",
+      "minecraft:savanna": "2020-04-02 15:53:38 +0700",
+      "minecraft:plains": "2020-04-02 15:54:15 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}

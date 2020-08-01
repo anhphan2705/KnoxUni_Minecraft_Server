@@ -1,0 +1,1315 @@
+# .
+# !! IMPORTANT !!
+# .
+# If you wish to customize this plugin, edit the "wands.yml" file instead.
+# .
+# DO NOT JUST COPY THIS WHOLE FILE INTO YOUR wands.yml !!!!
+# If you do this, updating the plugin in the future may not work as expected.
+# .
+# This file is merged from the files in the following folder:
+# .
+# https://github.com/elBukkit/MagicPlugin/tree/master/Magic/src/main/resources/defaults/wands
+# .
+base_bound:
+  hidden: true
+  bound: true
+  keep: true
+  invulnerable: true
+  immortal: true
+  track: true
+  undroppable: true
+  indestructible: true
+base_wand:
+  hidden: true
+  inherit: base_bound
+  mode: inventory
+  drop: cycle_hotbar
+  left_click: cast
+  right_click: toggle
+  swap: cycle_hotbar
+  quiet: 1
+  effect_bubbles: false
+  item_attributes:
+    GENERIC_ATTACK_SPEED: 10
+  item_attribute_slot: mainhand
+base_sword:
+  hidden: true
+  inherit: base_bound
+  mode: inventory
+  drop: cycle_hotbar
+  left_click: none
+  right_click: toggle
+  swap: cycle_hotbar
+  quick_cast: true
+  quiet: 1
+base_bow:
+  hidden: true
+  inherit: base_bound
+  mode: inventory
+  drop: toggle
+  left_click: none
+  right_click: none
+  swap: cycle_hotbar
+  quiet: 1
+testwand:
+  inherit: base_wand
+  icon: wood_hoe:1
+  mana: 500
+  mana_max: 500
+  mana_regeneration: 50
+admin:
+  inherit: conduit
+  path: staff
+  icon: wand_icon:6
+  migrate_icon: monster_eggs:2
+  cost_reduction: 2
+  cooldown_reduction: 1
+  protected: true
+  effect_color: '888888'
+  effect_bubbles: true
+  active_spell: levitate
+  spells:
+  - levitate
+  - superbroom
+  - blink|4
+  - missile|4
+  - cloak
+  - time
+  - heal
+  - phase
+  - gather
+  - supergather
+  - regenerate
+  - superregenerate
+  - pickpocket
+  - backup
+  - phasebackup
+  - repair
+  - superrepair
+appearance_beginner:
+  upgrade: true
+  icon: wand_icon:1
+  upgrade_icon: wand_icon:1
+appearance_student:
+  upgrade: true
+  icon: wand_icon:2
+  upgrade_icon: wand_icon:2
+appearance_apprentice:
+  upgrade: true
+  icon: wand_icon:3
+  upgrade_icon: wand_icon:3
+appearance_master:
+  upgrade: true
+  icon: wand_icon:4
+  upgrade_icon: wand_icon:4
+appearance_engineer:
+  upgrade: true
+  icon: wand_icon:5
+  upgrade_icon: wand_icon:5
+appearance_architect:
+  upgrade: true
+  icon: wand_icon:39
+  upgrade_icon: wand_icon:39
+appearance_conduit:
+  upgrade: true
+  icon: wand_icon:6
+  upgrade_icon: wand_icon:6
+appearance_magicka:
+  upgrade: true
+  icon: wand_icon:9
+  upgrade_icon: wand_icon:9
+appearance_moon:
+  upgrade: true
+  icon: wand_icon:10
+  upgrade_icon: wand_icon:10
+appearance_green:
+  upgrade: true
+  icon: wand_icon:41
+  upgrade_icon: wand_icon:41
+appearance_spire:
+  upgrade: true
+  icon: wand_icon:35
+  upgrade_icon: wand_icon:35
+appearance_claw:
+  upgrade: true
+  icon: wand_icon:36
+  upgrade_icon: wand_icon:36
+appearance_orb:
+  upgrade: true
+  icon: wand_icon:37
+  upgrade_icon: wand_icon:37
+appearance_magma:
+  upgrade: true
+  icon: wand_icon:44
+  upgrade_icon: wand_icon:44
+appearance_bow1:
+  upgrade: true
+  icon: bow_icon:1
+  upgrade_icon: bow_icon:1
+appearance_bow2:
+  upgrade: true
+  icon: bow_icon:2
+  upgrade_icon: bow_icon:2
+appearance_longbow:
+  upgrade: true
+  icon: bow_icon:3
+  upgrade_icon: bow_icon:3
+apprentice:
+  inherit: student
+  icon: wand_icon:3
+  migrate_icon: wand_icon
+  effect_color: 22FF22
+  hotbar_count: 2
+  mana_regeneration: 40
+  mana_max: 200
+  mana: 200
+  spells:
+  - missile
+  - blink
+  - arrowrain
+  - boom
+  - familiar
+  - fling
+  - fire
+  - frost
+  - grenade
+  - heal
+  - monster
+  - lightning
+  - lava
+  - portal
+  - stream
+  - flamethrower
+  - wither
+  - mine
+  - chop
+  - shell
+  - tag
+  - blob
+  - disarm
+  - entangle
+  - poison
+  - laser
+  - tracking
+  - rocket
+  - shrink
+  - emp
+  - blessing
+  - breach
+  - disintegrate
+  - force
+  - hat
+  - music
+  - sandblast
+  - phase
+  - grow
+  - counterspell
+  - tent
+  - disc
+  - rubberize
+  - wound
+  - harden
+  - sponge
+  - flashbang
+  - gatling
+  - walls
+apprenticeboots:
+  icon: leather_boots:#00AAFF
+  indestructible: false
+  locked: true
+  keep: true
+  mana_max_boost: 0.05
+apprenticechestplate:
+  icon: leather_chestplate:#00AAFF
+  indestructible: false
+  locked: true
+  keep: true
+  mana_max_boost: 0.05
+apprenticehelmet:
+  icon: leather_helmet:#00AAFF
+  indestructible: false
+  locked: true
+  keep: true
+  mana_max_boost: 0.05
+apprenticeleggings:
+  icon: leather_leggings:#00AAFF
+  indestructible: false
+  locked: true
+  keep: true
+  mana_max_boost: 0.05
+battle:
+  hidden: true
+  migrate_to: magicsword
+beginner:
+  migrate_to: wand
+borealis:
+  inherit: master
+  icon: wand_icon:10
+  migrate_icon: gold_axe
+  quiet: 2
+  effect_color: 00AACC
+  mode: chest
+  active_spell: levitate
+  cost_reduction: 2
+  cooldown_reduction: 2
+  consume_reduction: 1
+  protected: true
+  spells:
+  - levitate
+  - fling|2
+  - blink|3
+  - missile|4
+  - boon|2
+  - push
+  - heal
+  - pull
+  - day
+  - shell
+  - blob
+  - blast|4
+  - curse
+  - collapse|2
+  - recall
+  - tag
+  - pollinate
+  - torch|2
+  - weather
+  - ghast
+  - repair
+  - superalter
+  - tunnel
+  - familiar
+  - grow
+  - shrink
+  - force
+broomstick:
+  class: broomrider
+  path: broom
+  mode: cast
+  keep: true
+  locked: true
+  locked_allow_upgrades: true
+  indestructible: true
+  active_spell: broom
+  migrate_icon: gold_spade
+  icon: wand_icon:11
+  effect_color: '880088'
+  spells:
+  - broom
+camera:
+  mode: cast
+  active_spell: camera
+  icon: skull:http://textures.minecraft.net/texture/e49b4f3261328c05350ee4031212d2fc7555f211af91c0f0278a5aaf9cec65
+  indestructible: false
+  locked: true
+  effect_color: '888888'
+  spells:
+  - camera
+  lore:
+  - $description
+  - '&3Takes 5 seconds to charge'
+  - '&bRequires 1 &fPaper'
+clericchestplate:
+  icon: chainmail_chestplate
+  indestructible: true
+  locked: true
+  keep: true
+  passive: true
+  mana_regeneration_boost: -0.2
+  cast_spell: healing
+  cast_interval: 2000
+crackedbroomstick:
+  mode: cast
+  uses: 10
+  active_spell: broom
+  migrate_icon: gold_spade
+  icon: wand_icon:11
+  locked: true
+  keep: true
+  effect_color: '220022'
+  indestructible: true
+  spells:
+  - broom
+cursedmeat:
+  icon: rotten_flesh
+  locked: true
+  potion_effects: hunger:20
+default:
+  migrate_to: wand
+developer:
+  inherit: conduit
+  icon: wand_icon:10
+  migrate_icon: monster_eggs:4
+  cost_reduction: 2
+  cooldown_reduction: 2
+  protected: true
+  effect_color: FFAA00
+  effect_bubbles: true
+  active_spell: levitate
+  spells:
+  - levitate
+  - superbroom
+  - blink|4
+  - missile|4
+  - projectile
+  - debugger
+  - testdummy
+  - time
+  - heal
+  - phase
+  - gather
+  - supergather
+  - phasebackup
+  - backup
+  - repair
+  - superrepair
+divinghelmet:
+  mode: cast
+  active_spell: wear
+  icon: stained_glass:3
+  indestructible: true
+  locked: true
+  keep: true
+  quiet: 2
+  mana_regeneration_boost: -0.1
+  potion_effects: water_breathing
+  passive: true
+  enchantments:
+    oxygen: 3
+    water_worker: 1
+    depth_strider: 3
+  spells:
+  - wear
+whiteeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:0
+  effect_color: FFFFFF
+orangeeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:1
+  effect_color: FFAA00
+magentaeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:2
+  effect_color: FF00FF
+lightblueeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:3
+  effect_color: ADD8E6
+yelloweffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:4
+  effect_color: FFFF00
+greeneffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:5
+  effect_color: 00FF00
+pinkeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:6
+  effect_color: FAAFBE
+grayeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:7
+  effect_color: '808080'
+lightgrayeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:8
+  effect_color: D0D0D0
+aquaeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:9
+  effect_color: 00FFFF
+purpleeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:10
+  effect_color: '800080'
+blueeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:11
+  effect_color: 0000FF
+browneffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:12
+  effect_color: '806517'
+darkgreeneffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:13
+  effect_color: '254117'
+redeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:14
+  effect_color: FF0000
+blackeffects:
+  upgrade: true
+  indestructible: false
+  icon: carpet:15
+  effect_color: '010101'
+randomeffects:
+  upgrade: true
+  indestructible: false
+  icon: skull:http://textures.minecraft.net/texture/1adaf6e6e387bc18567671bb82e948488bbacff97763ee5985442814989f5d
+  effect_color: random
+bubbleeffects:
+  upgrade: true
+  indestructible: false
+  icon: glass_bottle
+  effect_bubbles: true
+cleareffects:
+  force: true
+  upgrade: true
+  effect_bubbles: false
+  effect_particle: ''
+  icon: barrier
+rainboweffects:
+  upgrade: true
+  indestructible: false
+  icon: magma_cream
+  effect_particle: spell_mob
+  effect_particle_data: 2
+  effect_particle_count: 10
+  effect_particle_radius: 2
+  effect_particle_interval: 500
+  effect_particle_offset: 0.5
+haloeffects:
+  upgrade: true
+  indestructible: false
+  icon: magma_cream
+  effect_particle: redstone
+  effect_particle_count: 6
+  effect_particle_interval: 100
+  effect_particle_data: 0
+  effect_particle_radius: 0.4
+  effect_particle_offset: 0.5
+empty:
+  hidden: true
+  icon: stick
+extinguisher:
+  mode: cast
+  icon: wand_icon:32
+  indestructible: true
+  undroppable: true
+  spells: extinguish
+  uses: 10
+  cost_reduction: 2
+  locked: true
+flashboots:
+  icon: chainmail_boots
+  indestructible: true
+  locked: true
+  keep: true
+  passive: true
+  mana_regeneration_boost: -0.5
+  potion_effects: speed:10,jump:2
+  glow: true
+  effect_particle: lava
+  effect_particle_count: 4
+  effect_particle_interval: 100
+  effect_particle_min_velocity: 5
+  effect_particle_offset: -1.5
+gamemode:
+  hidden: true
+  inherit: base_wand
+  icon: diamond_axe:79
+  quick_cast: true
+  mode: chest
+  name: Game Mode
+  spells:
+  - tocreative
+  - tosurvival
+gauntlet:
+  inherit: base_wand
+  bound: false
+  undroppable: false
+  icon: wooden_hoe:43
+  alternate_spell: powerstone
+  mode: cast
+  right_click: cast
+  left_click: alt_cast
+  track: false
+goggles:
+  mode: cast
+  icon: wand_icon:16
+  migrate_icon: monster_eggs:1
+  indestructible: true
+  locked: true
+  keep: true
+  passive: true
+  mana_regeneration_boost: -0.1
+  potion_effects: night_vision:3
+  glow: true
+  active_spell: wear
+  quiet: 2
+  spells:
+  - wear
+heroes:
+  effect_color: random
+  quiet: 1
+  icon: stick
+  indestructible: true
+  heroes: true
+  undroppable: true
+  mode: inventory
+  right_click: toggle
+  drop: none
+  left_click: cast
+hulkboots:
+  icon: diamond_boots
+  indestructible: true
+  locked: true
+  keep: true
+  passive: true
+  mana_regeneration_boost: -0.3
+  glow: true
+  protection:
+    fall: 1
+  cast_spell: fling
+  cast_parameters: min_speed 5 max_speed 5
+  cast_interval: 5000
+  cast_min_velocity: 0.5
+  cast_velocity_direction: 0,1,0
+invisiblecloak:
+  mode: cast
+  active_spell: invisiblecloak
+  icon: wand_icon:15
+  migrate_icon: ender_pearl
+  indestructible: true
+  locked: true
+  keep: true
+  mana_regeneration_boost: -0.5
+  potion_effects: invisibility
+  passive: true
+  glow: true
+  spells:
+  - invisiblecloak
+ledger:
+  active_spell: ledger
+  migrate_icon: paper
+  icon: written_book
+  undroppable: true
+  keep: true
+  indestructible: false
+  mode: cast
+  locked: true
+  spells:
+  - ledger
+magicbow:
+  inherit: base_bow
+  class: archer_mage
+  icon: bow_icon:1
+  protection:
+    projectile: 0.5
+  tags:
+  - transformablebow
+magichat:
+  mode: cast
+  active_spell: magichat
+  icon: wand_icon:17
+  migrate_icon: ender_portal_frame
+  indestructible: true
+  locked: true
+  keep: true
+  effect_color: '888888'
+  mana_max_boost: 0.2
+  mana_regeneration_boost: 0.1
+  spells:
+  - magichat
+magicsword:
+  inherit: base_sword
+  class: battle_mage
+  icon: sword_icon:8
+  migrate_icon: sword_icon
+  effect_color: 11FF11
+  hide_flags: 62
+  active_spell: missile
+  limit_spells_to_path: true
+  limit_brushes_to_path: true
+  protection:
+    physical: 0.4
+  item_attributes:
+    GENERIC_ATTACK_DAMAGE: 6
+  tags:
+  - buffable
+  - sharpenable
+magictorch:
+  icon: torch
+  locked: true
+  cast_spell: magictorch
+  cast_interval: 500
+  lore:
+  - $description
+magneticleggings:
+  icon: iron_leggings
+  indestructible: true
+  locked: true
+  keep: true
+  passive: true
+  mana_regeneration_boost: -0.3
+  cast_spell: grab
+  cast_interval: 5000
+master:
+  inherit: apprentice
+  icon: wand_icon:4
+  migrate_icon: gold_axe
+  mana_regeneration: 50
+  mana_max: 250
+  mana: 250
+  hotbar_count: 3
+  spells:
+  - missile
+  - blink
+  - arrowrain
+  - boom
+  - familiar
+  - fling
+  - fire
+  - frost
+  - grenade
+  - heal
+  - monster
+  - lightning
+  - lava
+  - portal
+  - stream
+  - flamethrower
+  - wither
+  - mine
+  - chop
+  - shell
+  - tag
+  - blob
+  - disarm
+  - entangle
+  - poison
+  - laser
+  - tracking
+  - rocket
+  - shrink
+  - emp
+  - blessing
+  - breach
+  - disintegrate
+  - force
+  - hat
+  - music
+  - sandblast
+  - phase
+  - grow
+  - counterspell
+  - tent
+  - disc
+  - rubberize
+  - wound
+  - harden
+  - sponge
+  - flashbang
+  - gatling
+mastersword:
+  inherit: base_bound
+  icon: sword_icon:1
+  effect_color: 11FF88
+  hide_flags: 62
+  alternate_spell: masterattack
+  drop: alt_cast
+  protection:
+    physical: 0.5
+  item_attributes:
+    GENERIC_ATTACK_DAMAGE: 10
+  tags:
+  - buffable
+  - sharpenable
+minister:
+  mode: cast
+  path: broom
+  bound: true
+  active_spell: broom
+  migrate_icon: gold_spade
+  icon: wand_icon:11
+  indestructible: true
+  locked: true
+  keep: true
+  effect_color: 00AAFF
+  overrides:
+  - broom.mount_boost 4
+  - broom.mount_boost_ticks 600
+  - broom.mount_health 20
+  - broom.slow_ticks 1
+  - broom.steer_speed 0
+  - broom.slow_steer_speed 0.05
+  - broom.mount_boost_per_jump 0.5
+  - broom.effect_confusion 0
+  spells:
+  - broom
+miniwolf:
+  inherit: master
+  icon: wand_icon:8
+  migrate_icon: gold_axe
+  hotbar_count: 2
+  effect_color: 00AACC
+  mode: inventory
+  active_spell: levitate
+  mana_max: 250
+  mana_regeneration: 50
+  spells:
+  - blast|3@0
+  - collapse|2@1
+  - harden|2@2
+  - missile|4@3
+  - levitate|5@4
+  - fling|4@5
+  - blink|6@6
+  - counterspell|2@7
+  - reflect|3@8
+  - day@9
+  - arrow|4@10
+  - boom|2@11
+  - disarm@12
+  - push@13
+  - grenade@14
+  - curse@15
+  - boon|2
+  - lightning
+  - stash
+  - emp
+  - force
+  - fireball
+  - torch
+  - fire
+  - pull
+  - shell
+  - shrink
+  - blob
+  - blessing
+  - heal
+  - wither
+  - recall
+  - phase
+  - portal
+  - disintegrate
+  - neutron
+  - laser
+  - flamethrower
+  - tag
+  - mount
+mirrorshield:
+  icon: shield:1
+  indestructible: true
+  mode: none
+  bound: true
+  keep: true
+  block_reflect_chance: 0.75
+  block_chance: 1
+  block_fov: 0.5
+  block_mage_cooldown: 3000
+  block_cooldown: 5000
+ocarina:
+  icon: wand_icon:18
+  locked: true
+  keep: false
+  quick_cast: true
+  mode: inventory
+  right_click: toggle
+  swap: cycle_hotbar
+  left_click: cast
+  undroppable: false
+  indestructible: true
+  hotbar_count: 3
+  spells:
+  - note01
+  - note02
+  - note03
+  - note04
+  - note05
+  - note06
+  - note07
+  - note08
+  - note09
+  - note10
+  - note11
+  - note12
+  - note13
+  - note14
+  - note15
+  - note16
+  - note17
+  - note18
+  - note19
+  - note20
+  - note21
+  - note22
+  - note23
+  - note24
+student_upgrade:
+  icon: wand_icon:2
+  upgrade: true
+  hidden: true
+  indestructible: false
+  hotbar_count: 2
+apprentice_upgrade:
+  icon: wand_icon:3
+  upgrade: true
+  hidden: true
+  indestructible: false
+  hotbar_count: 2
+master_upgrade:
+  icon: wand_icon:4
+  upgrade: true
+  hidden: true
+  indestructible: false
+  hotbar_count: 3
+squire_upgrade:
+  upgrade: true
+  hidden: true
+  indestructible: false
+  hotbar_count: 2
+soldier_upgrade:
+  upgrade: true
+  hidden: true
+  indestructible: false
+  hotbar_count: 2
+knight_upgrade:
+  upgrade: true
+  hidden: true
+  indestructible: false
+  hotbar_count: 3
+potion_sp100:
+  icon: potion:FFD700
+  consume_spell: addsp
+purger:
+  inherit: base_wand
+  icon: wand_icon:3
+  path: apprentice
+  spell_levels:
+    missile: 3
+    blink: 3
+    fling: 3
+    blast: 2
+  mana: 200.0
+  mana_regeneration: 40.0
+  effect_color: e7af8f15e46d,a2d692205c9e,375aa4521cf2
+  mana_max: 200.0
+  spells:
+  - blink
+  - fling
+  - disintegrate
+  - missile
+  - blast
+  - collapse
+  - boom
+  - grenade
+  - heal
+  - boon
+  - cure
+  - rubberize
+  - harden
+  - smite
+  - fireball
+  - shell
+  - blob
+  - breach
+  - bubble
+  - push
+  - pull
+  - peek
+  - recall
+  - reflect
+  - frost
+  - lava
+  - stream
+  - sandblast
+  - counterspell
+  - platform
+  - wound
+  - walls
+  hotbar_count: 2
+  active_spell: blast
+questscompass:
+  active_spell: quests
+  icon: compass
+  undroppable: true
+  indestructible: false
+  mode: cast
+  locked: true
+  keep: true
+  spells:
+  - quests
+rabbitboots:
+  icon: leather_boots
+  indestructible: false
+  locked: true
+  keep: false
+  passive: true
+  mana_regeneration_boost: -0.1
+  potion_effects: speed:4,jump:4
+  enchantments:
+    protection_fall: 5
+rage:
+  inherit: base_sword
+  icon: diamond_sword
+  effect_color: 11FF11
+  path: battle
+  locked: true
+  mana_regeneration: 0
+  mana_max: 200
+  mana: 100
+  mana_per_damage: 5
+  glow: true
+  spells:
+  - missile
+  - arrow
+  - boom
+  - curse
+  - fire
+  - fireball
+  - grenade
+  - push
+recalltoken:
+  mode: cast
+  active_spell: recall
+  icon: compass
+  indestructible: false
+  locked: true
+  uses: 5
+  keep: true
+  effect_color: FF0000
+  spells:
+  - recall
+respawntoken:
+  mode: cast
+  active_spell: respawn
+  icon: compass
+  indestructible: false
+  locked: true
+  uses: 10
+  keep: true
+  effect_color: FF0000
+  spells:
+  - respawn
+rocketboots:
+  icon: diamond_boots
+  indestructible: true
+  locked: true
+  keep: true
+  passive: true
+  mana_regeneration_boost: -0.1
+  potion_effects: speed:2,jump:20
+  glow: true
+  protection:
+    fall: 1
+skillbook:
+  mode: cast
+  active_spell: skills
+  icon: book
+  indestructible: false
+  locked: true
+  spells:
+  - skills
+spellbook:
+  mode: skills
+  icon: wand_icon:31
+  indestructible: true
+  right_click: toggle
+  undroppable: true
+  keep: true
+  bound: true
+  class: mage
+  skills:
+    keep: true
+spleef:
+  inherit: base_wand
+  locked: true
+  icon: stick
+  glow: true
+  uses: 100
+  effect_color: '880000'
+  indestructible: false;
+  mana_max: 100
+  mana_regeneration: 10
+  active_spell: blast
+  spells:
+  - blast
+  - collapse
+  - harden
+staff:
+  inherit: base_wand
+  path: staff
+  hotbar_count: 2
+  active_spell: levitate|4
+  cost_reduction: 2
+  effect_color: 00FFAA
+  protected: true
+  icon: wand_icon:6
+  migrate_icon: gold_pickaxe
+  sp_multiplier: 0
+  spells:
+  - blink|6
+  - cloak
+  - gather
+  - heal
+  - levitate|4
+  - missile|4
+  - pickpocket
+  - lockpick
+  - snoop
+  - time
+  - torch|4
+  - fling|4
+starter:
+  inherit: wand
+  max_enchant_count: 3
+student:
+  inherit: base_wand
+  active_spell: missile
+  icon: wand_icon:2
+  migrate_icon: wand_icon
+  effect_color: 00FF00
+  mana_regeneration: 30
+  mana_max: 150
+  mana: 150
+  spells:
+  - missile
+  - blink
+  - arrowrain
+  - boom
+  - familiar
+  - fling
+  - fire
+  - frost
+  - grenade
+  - heal
+  - monster
+  - lightning
+  - lava
+  - portal
+  - stream
+  - flamethrower
+  - wither
+  - mine
+  - chop
+  - shell
+  - tag
+  - blob
+  - disarm
+  - entangle
+  - poison
+  - laser
+  - tracking
+  - rocket
+  - shrink
+talisman:
+  icon: wand_icon:30
+  indestructible: true
+  mana_max_boost: 0.3
+  mana_regeneration_boost: 0.2
+  earn_multiplier: 1.5
+  color: random
+  effect_bubbles: true
+  keep: true
+  locked: true
+quickcast_enable:
+  icon: diamond_axe:206
+  upgrade: true
+  force: true
+  quick_cast: true
+quickcast_disable:
+  icon: diamond_axe:207
+  upgrade: true
+  force: true
+  quick_cast: disable
+quickcast_manual:
+  icon: diamond_axe:208
+  upgrade: true
+  force: true
+  quick_cast: manual
+quickcast_normal:
+  icon: diamond_axe:209
+  upgrade: true
+  force: true
+  quick_cast: normal
+mode_drop:
+  icon: diamond_axe:210
+  upgrade: true
+  force: true
+  drop: toggle
+  right_click: none
+  left_click: cast
+  swap: cycle_hotbar
+  quick_cast: false
+mode_rightclick:
+  icon: diamond_axe:211
+  upgrade: true
+  force: true
+  drop: cycle_hotbar
+  right_click: toggle
+  left_click: cast
+  swap: none
+  quick_cast: false
+mode_sword:
+  icon: diamond_axe:212
+  upgrade: true
+  force: true
+  drop: toggle
+  right_click: none
+  left_click: none
+  swap: cycle_hotbar
+  quick_cast: true
+mode_swap:
+  icon: diamond_axe:213
+  upgrade: true
+  force: true
+  drop: cycle_hotbar
+  right_click: none
+  left_click: cast
+  swap: toggle
+  quick_cast: false
+chestmode:
+  icon: diamond_axe:205
+  upgrade: true
+  indestructible: false
+  mode: chest
+inventorymode:
+  icon: diamond_axe:214
+  upgrade: true
+  indestructible: false
+  mode: inventory
+cyclemode:
+  icon: diamond_axe:215
+  upgrade: true
+  indestructible: false
+  mode: cycle
+organizer:
+  icon: diamond_axe:216
+  upgrade: true
+  indestructible: false
+  organize: true
+alphabetizer:
+  icon: diamond_axe:217
+  upgrade: true
+  indestructible: false
+  alphabetize: true
+loud:
+  icon: diamond_axe:218
+  upgrade: true
+  indestructible: false
+  quiet: 0
+quiet:
+  icon: diamond_axe:219
+  upgrade: true
+  indestructible: false
+  quiet: 1
+silent:
+  icon: diamond_axe:220
+  upgrade: true
+  indestructible: false
+  quiet: 2
+uberwand:
+  inherit: master
+  path: staff
+  hotbar_count: 3
+  fill: true
+  protected: true
+  cost_reduction: 2.0
+  cooldown_reduction: 2.0
+  sp_multiplier: 0
+  mode: inventory
+  effect_particle: ENCHANTMENT_TABLE
+  potion_effects:
+  - SATURATION
+  - REGENERATION
+  - SPEED
+  active_spell: missile|4
+  spells:
+  - levitate@0
+  - blink|3@1
+  - fling|2@2
+  - missile|4@3
+  - day@4
+  - superkill@5
+  - testdummy@6
+  - debugger@7
+  - recall@8
+  - push@9
+hotbar1:
+  icon: diamond_axe:221
+  upgrade: true
+  hotbar_count: 1
+  force: true
+hotbar2:
+  icon: diamond_axe:222
+  upgrade: true
+  indestructible: false
+  hotbar_count: 2
+hotbar3:
+  icon: diamond_axe:223
+  upgrade: true
+  indestructible: false
+  hotbar_count: 3
+undroppable:
+  icon: diamond_axe:224
+  upgrade: true
+  indestructible: false
+  undroppable: true
+antihunger:
+  icon: diamond_axe:225
+  upgrade: true
+  potion_effects: saturation
+wand:
+  inherit: base_wand
+  class: mage
+  icon: wand_icon:1
+  migrate_icon: wand_icon
+  effect_color: random
+  active_spell: missile
+  tags:
+  - buffable
+  - transformable
+  - effectable
+  - tweakable
+wizardboots:
+  icon: chainmail_boots
+  indestructible: true
+  locked: true
+  keep: true
+  mana_max_boost: 0.1
+  enchantments:
+    protection_fall: 5
+wizardchestplate:
+  icon: chainmail_chestplate
+  indestructible: true
+  locked: true
+  keep: true
+  mana_max_boost: 0.1
+  enchantments:
+    protection_explosions: 2
+    protection_environmental: 1
+wizardhelmet:
+  icon: chainmail_helmet
+  indestructible: true
+  locked: true
+  keep: true
+  mana_max_boost: 0.1
+  enchantments:
+    protection_projectile: 2
+wizardleggings:
+  icon: chainmail_leggings
+  indestructible: true
+  locked: true
+  keep: true
+  mana_max_boost: 0.1
+  enchantments:
+    protection_fire: 2

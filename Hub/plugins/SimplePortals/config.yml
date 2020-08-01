@@ -1,0 +1,51 @@
+# The general task handles things like auto-saving and update checking. This value is the delay in between
+# running these tasks in seconds. (Note: setting this value to -1 will disable the general task entirely.)
+general-task-duration: 300
+# If this option is enabled, the general task will completely reload all portals by saving found portals than quickly loading them back in.
+# (Note: If you plan to run the server for an extremely long period of time without restarts, this can be useful as reloading can prevent weird bugs)
+reload-plugin-timer: true
+# If this is enabled when the player is teleport they will keep their current Yaw and Pitch.
+keep-teleport-head-axis: false
+# If this is enabled, all players will be able to use all portals.
+bypass-portal-permissions: true
+# If this is enabled, the player can teleport through portals with vehicles, such as Horses and Boats.
+vehicle-teleportation: true
+# IF this is enabled, portal usage for creative mode players will be blocked entirely.
+block-creative-portal-entrance: false
+
+# The creatures in the list below will be blocked from spawning inside portal regions.
+creature-spawning-blacklist:
+  - "PUFFERFISH"
+  - "TROPICAL_FISH"
+  - "DOLPHIN"
+
+# Should players have a cooldown for portal usage?
+use-portal-cooldown: true
+# If this option is enabled, players who join the server will automatically be placed on portal cooldown
+# and thrown out of the portal region (if within a portal region).
+join-protection: true
+# This is the duration of the join protection cooldown.
+join-protection-cooldown: 5
+# How long should the player have to wait in between portal usages in seconds?
+portal-cooldown-duration: 5
+# This is the force/multiplier of the portal throw back feature (Set to -1 or lower to disable).
+throw-velocity: 1.35
+
+# This is the sound that is played when the player teleports.
+# You may need to change this based on your minecraft version.
+teleport-sound: "ENTITY_GHAST_SHOOT"
+# This is the effect that is used for your teleportation visual.
+# You can find a complete particle list here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Particle.html
+teleport-visual-effect: "CLOUD"
+
+# This is the effect that is used for your selection visual.
+# You can find a complete particle list here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Particle.html
+selection-visual-effect: "REDSTONE"
+# This is how long the visual will appear on screen.
+selection-visual-duration: 10
+
+# This is the effect that is used for your region visual.
+# You can find a complete particle list here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Particle.html
+region-visual-effect: "REDSTONE"
+# This is how long the visual will appear on screen.
+region-visual-duration: 20

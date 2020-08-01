@@ -1,0 +1,30 @@
+# Available Color's:
+# PINK
+# BLUE
+# RED
+# GREEN
+# YELLOW
+# PURPLE
+# WHITE
+# 
+# Available Style's:
+# PROGRESS
+# NOTCHED_6
+# NOTCHED_10
+# NOTCHED_12
+# NOTCHED_20
+
+
+
+Title: '&aCustom Title'
+Progress: 0.5
+Color: BLUE
+Style: PROGRESS
+CreateFog: false
+DarkenSky: false
+PlayMusic: false
+AnimatedTextEnabled: false
+AnimatedTextDelay: 5
+AnimatedText:
+- '&aLine 1'
+- '&bLine 2'

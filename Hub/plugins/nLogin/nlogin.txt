@@ -1,0 +1,438 @@
+[03/04/2020 09:09:17]: [nLogin]          __             _       
+[03/04/2020 09:09:17]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 09:09:17]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 09:09:17]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 09:09:17]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 09:09:17]: [nLogin]                   |___/            
+[03/04/2020 09:09:17]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 09:09:17]: [nLogin] 
+[03/04/2020 09:09:17]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 09:09:19]: [nLogin] Todas as mensagens foram carregadas em 153 ms.
+[02/04/2020 23:09:19]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[02/04/2020 23:09:19]: [nLogin] nLogin foi carregado em 2273ms.
+[02/04/2020 23:09:31]: [nLogin] Inicialização do nLogin v7.6.0 finalizada.
+[02/04/2020 23:09:37]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[02/04/2020 23:09:37]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[02/04/2020 23:11:43]: [nLogin] Todas as mensagens foram carregadas em 19 ms.
+[02/04/2020 23:13:25]: [nLogin] 
+[02/04/2020 23:13:25]: [nLogin] Desativando módulos do nLogin V 7.6.0...
+[02/04/2020 23:13:25]: [nLogin] 
+[02/04/2020 23:13:25]: [nLogin] nLogin foi descarregado em 8ms.
+[03/04/2020 09:14:09]: [nLogin]          __             _       
+[03/04/2020 09:14:09]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 09:14:09]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 09:14:09]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 09:14:09]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 09:14:09]: [nLogin]                   |___/            
+[03/04/2020 09:14:09]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 09:14:09]: [nLogin] 
+[03/04/2020 09:14:09]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 09:14:11]: [nLogin] Todas as mensagens foram carregadas em 266 ms.
+[03/04/2020 09:14:11]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 09:14:11]: [nLogin] nLogin was loaded in 2074ms.
+[03/04/2020 09:15:30]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 09:15:30]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 09:16:43]: [nLogin] 
+[03/04/2020 09:16:43]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 09:16:43]: [nLogin] 
+[03/04/2020 09:16:43]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 09:22:40]: [nLogin]          __             _       
+[03/04/2020 09:22:41]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 09:22:41]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 09:22:41]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 09:22:41]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 09:22:41]: [nLogin]                   |___/            
+[03/04/2020 09:22:41]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 09:22:41]: [nLogin] 
+[03/04/2020 09:22:41]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 09:22:42]: [nLogin] Todas as mensagens foram carregadas em 240 ms.
+[03/04/2020 09:22:42]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 09:22:42]: [nLogin] nLogin was loaded in 1947ms.
+[03/04/2020 09:23:05]: [nLogin] 
+[03/04/2020 09:23:05]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 09:23:05]: [nLogin] 
+[03/04/2020 09:23:05]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 09:26:27]: [nLogin]          __             _       
+[03/04/2020 09:26:27]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 09:26:27]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 09:26:27]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 09:26:27]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 09:26:27]: [nLogin]                   |___/            
+[03/04/2020 09:26:27]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 09:26:27]: [nLogin] 
+[03/04/2020 09:26:27]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 09:26:29]: [nLogin] Todas as mensagens foram carregadas em 230 ms.
+[03/04/2020 09:26:29]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 09:26:29]: [nLogin] nLogin was loaded in 1859ms.
+[03/04/2020 09:26:43]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 09:26:43]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 09:31:21]: [nLogin] 
+[03/04/2020 09:31:21]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 09:31:21]: [nLogin] 
+[03/04/2020 09:31:21]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 09:32:11]: [nLogin]          __             _       
+[03/04/2020 09:32:11]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 09:32:11]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 09:32:11]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 09:32:11]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 09:32:11]: [nLogin]                   |___/            
+[03/04/2020 09:32:11]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 09:32:11]: [nLogin] 
+[03/04/2020 09:32:11]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 09:32:12]: [nLogin] Todas as mensagens foram carregadas em 238 ms.
+[03/04/2020 09:32:13]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 09:32:13]: [nLogin] nLogin was loaded in 2010ms.
+[03/04/2020 09:32:44]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 09:32:44]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 09:39:53]: [nLogin] Todas as mensagens foram carregadas em 24 ms.
+[03/04/2020 09:40:03]: [nLogin] 
+[03/04/2020 09:40:03]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 09:40:03]: [nLogin] 
+[03/04/2020 09:40:03]: [nLogin] nLogin was unloaded in 7ms.
+[03/04/2020 09:40:53]: [nLogin]          __             _       
+[03/04/2020 09:40:53]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 09:40:53]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 09:40:53]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 09:40:53]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 09:40:53]: [nLogin]                   |___/            
+[03/04/2020 09:40:53]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 09:40:53]: [nLogin] 
+[03/04/2020 09:40:53]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 09:40:55]: [nLogin] Todas as mensagens foram carregadas em 290 ms.
+[03/04/2020 09:40:55]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 09:40:55]: [nLogin] nLogin was loaded in 2206ms.
+[03/04/2020 09:41:02]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 09:41:02]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 10:02:00]: [nLogin] 
+[03/04/2020 10:02:00]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 10:02:00]: [nLogin] 
+[03/04/2020 10:02:00]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 10:03:13]: [nLogin]          __             _       
+[03/04/2020 10:03:13]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 10:03:13]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 10:03:13]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 10:03:13]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 10:03:13]: [nLogin]                   |___/            
+[03/04/2020 10:03:13]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 10:03:13]: [nLogin] 
+[03/04/2020 10:03:13]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 10:03:13]: [nLogin] Todas as mensagens foram carregadas em 114 ms.
+[03/04/2020 10:03:14]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 10:03:14]: [nLogin] nLogin was loaded in 1051ms.
+[03/04/2020 10:05:36]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 10:05:36]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 10:12:28]: [nLogin] 
+[03/04/2020 10:12:28]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 10:12:28]: [nLogin] 
+[03/04/2020 10:12:28]: [nLogin] nLogin was unloaded in 6ms.
+[03/04/2020 10:14:47]: [nLogin]          __             _       
+[03/04/2020 10:14:47]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 10:14:47]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 10:14:47]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 10:14:47]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 10:14:47]: [nLogin]                   |___/            
+[03/04/2020 10:14:47]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 10:14:47]: [nLogin] 
+[03/04/2020 10:14:47]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 10:14:48]: [nLogin] Todas as mensagens foram carregadas em 199 ms.
+[03/04/2020 10:14:48]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 10:14:48]: [nLogin] nLogin was loaded in 1610ms.
+[03/04/2020 10:16:06]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 10:16:06]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 10:26:26]: [nLogin] 
+[03/04/2020 10:26:26]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 10:26:26]: [nLogin] 
+[03/04/2020 10:26:26]: [nLogin] nLogin was unloaded in 5ms.
+[03/04/2020 10:26:30]: [nLogin]          __             _       
+[03/04/2020 10:26:30]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 10:26:30]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 10:26:30]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 10:26:30]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 10:26:30]: [nLogin]                   |___/            
+[03/04/2020 10:26:30]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 10:26:30]: [nLogin] 
+[03/04/2020 10:26:30]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 10:26:31]: [nLogin] Todas as mensagens foram carregadas em 92 ms.
+[03/04/2020 10:26:31]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 10:26:31]: [nLogin] nLogin was loaded in 968ms.
+[03/04/2020 10:28:41]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão d97b73ad-9a62-3633-add6-a59745496354 @ 25.50.225.219!
+[03/04/2020 10:28:41]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 10:48:38]: [nLogin] 
+[03/04/2020 10:48:38]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 10:48:38]: [nLogin] 
+[03/04/2020 10:48:38]: [nLogin] nLogin was unloaded in 3ms.
+[03/04/2020 10:49:30]: [nLogin]          __             _       
+[03/04/2020 10:49:30]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 10:49:30]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 10:49:31]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 10:49:31]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 10:49:31]: [nLogin]                   |___/            
+[03/04/2020 10:49:31]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 10:49:31]: [nLogin] 
+[03/04/2020 10:49:31]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 10:49:32]: [nLogin] Todas as mensagens foram carregadas em 230 ms.
+[03/04/2020 10:49:32]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 10:49:32]: [nLogin] nLogin was loaded in 1733ms.
+[03/04/2020 10:59:04]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 10:59:04]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 11:25:08]: [nLogin] 
+[03/04/2020 11:25:08]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 11:25:08]: [nLogin] 
+[03/04/2020 11:25:08]: [nLogin] nLogin was unloaded in 6ms.
+[03/04/2020 11:29:32]: [nLogin]          __             _       
+[03/04/2020 11:29:32]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 11:29:32]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 11:29:32]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 11:29:32]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 11:29:32]: [nLogin]                   |___/            
+[03/04/2020 11:29:32]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 11:29:32]: [nLogin] 
+[03/04/2020 11:29:32]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 11:29:33]: [nLogin] Todas as mensagens foram carregadas em 251 ms.
+[03/04/2020 11:29:34]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 11:29:34]: [nLogin] nLogin was loaded in 1556ms.
+[03/04/2020 11:30:10]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 11:30:10]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 11:40:07]: [nLogin] 
+[03/04/2020 11:40:07]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 11:40:07]: [nLogin] 
+[03/04/2020 11:40:07]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 11:41:49]: [nLogin]          __             _       
+[03/04/2020 11:41:49]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 11:41:49]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 11:41:49]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 11:41:49]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 11:41:49]: [nLogin]                   |___/            
+[03/04/2020 11:41:49]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 11:41:49]: [nLogin] 
+[03/04/2020 11:41:49]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 11:41:50]: [nLogin] Todas as mensagens foram carregadas em 181 ms.
+[03/04/2020 11:41:50]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 11:41:50]: [nLogin] nLogin was loaded in 1343ms.
+[03/04/2020 11:42:59]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 11:42:59]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 15:26:14]: [nLogin] 
+[03/04/2020 15:26:14]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 15:26:14]: [nLogin] 
+[03/04/2020 15:26:14]: [nLogin] nLogin was unloaded in 5ms.
+[03/04/2020 15:28:15]: [nLogin]          __             _       
+[03/04/2020 15:28:15]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 15:28:15]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 15:28:15]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 15:28:15]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 15:28:15]: [nLogin]                   |___/            
+[03/04/2020 15:28:15]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 15:28:15]: [nLogin] 
+[03/04/2020 15:28:15]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 15:28:15]: [nLogin] Todas as mensagens foram carregadas em 123 ms.
+[03/04/2020 15:28:16]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 15:28:16]: [nLogin] nLogin was loaded in 1378ms.
+[03/04/2020 15:28:48]: [nLogin] 
+[03/04/2020 15:28:48]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 15:28:48]: [nLogin] 
+[03/04/2020 15:28:48]: [nLogin] nLogin was unloaded in 6ms.
+[03/04/2020 15:50:39]: [nLogin]          __             _       
+[03/04/2020 15:50:39]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 15:50:39]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 15:50:39]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 15:50:39]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 15:50:39]: [nLogin]                   |___/            
+[03/04/2020 15:50:39]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 15:50:39]: [nLogin] 
+[03/04/2020 15:50:39]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 15:50:40]: [nLogin] Todas as mensagens foram carregadas em 226 ms.
+[03/04/2020 15:50:41]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 15:50:41]: [nLogin] nLogin was loaded in 2112ms.
+[03/04/2020 15:50:52]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 15:50:52]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 16:18:59]: [nLogin] 
+[03/04/2020 16:18:59]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 16:18:59]: [nLogin] 
+[03/04/2020 16:18:59]: [nLogin] nLogin was unloaded in 7ms.
+[03/04/2020 16:52:02]: [nLogin]          __             _       
+[03/04/2020 16:52:03]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 16:52:03]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 16:52:03]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 16:52:03]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 16:52:03]: [nLogin]                   |___/            
+[03/04/2020 16:52:03]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 16:52:03]: [nLogin] 
+[03/04/2020 16:52:03]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 16:52:07]: [nLogin] Todas as mensagens foram carregadas em 364 ms.
+[03/04/2020 16:52:09]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 16:52:09]: [nLogin] nLogin was loaded in 6183ms.
+[03/04/2020 17:21:42]: [nLogin] 
+[03/04/2020 17:21:42]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 17:21:42]: [nLogin] 
+[03/04/2020 17:21:42]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 17:41:27]: [nLogin]          __             _       
+[03/04/2020 17:41:27]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 17:41:27]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 17:41:27]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 17:41:27]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 17:41:27]: [nLogin]                   |___/            
+[03/04/2020 17:41:27]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 17:41:27]: [nLogin] 
+[03/04/2020 17:41:27]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 17:41:29]: [nLogin] Todas as mensagens foram carregadas em 206 ms.
+[03/04/2020 17:41:29]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 17:41:29]: [nLogin] nLogin was loaded in 2151ms.
+[03/04/2020 17:42:29]: [nLogin] 
+[03/04/2020 17:42:29]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 17:42:29]: [nLogin] 
+[03/04/2020 17:42:29]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 17:43:14]: [nLogin]          __             _       
+[03/04/2020 17:43:14]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 17:43:14]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 17:43:14]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 17:43:14]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 17:43:14]: [nLogin]                   |___/            
+[03/04/2020 17:43:14]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 17:43:14]: [nLogin] 
+[03/04/2020 17:43:14]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 17:43:15]: [nLogin] Todas as mensagens foram carregadas em 124 ms.
+[03/04/2020 17:43:15]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 17:43:15]: [nLogin] nLogin was loaded in 1698ms.
+[03/04/2020 17:46:15]: [nLogin] 
+[03/04/2020 17:46:15]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 17:46:15]: [nLogin] 
+[03/04/2020 17:46:15]: [nLogin] nLogin was unloaded in 4ms.
+[03/04/2020 17:53:16]: [nLogin]          __             _       
+[03/04/2020 17:53:16]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 17:53:16]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 17:53:16]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 17:53:16]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 17:53:16]: [nLogin]                   |___/            
+[03/04/2020 17:53:16]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 17:53:16]: [nLogin] 
+[03/04/2020 17:53:16]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 17:53:17]: [nLogin] Todas as mensagens foram carregadas em 126 ms.
+[03/04/2020 17:53:18]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 17:53:18]: [nLogin] nLogin was loaded in 1857ms.
+[03/04/2020 18:15:24]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 18:15:24]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 18:30:40]: [nLogin] 
+[03/04/2020 18:30:40]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 18:30:40]: [nLogin] 
+[03/04/2020 18:30:40]: [nLogin] nLogin was unloaded in 5ms.
+[03/04/2020 18:31:28]: [nLogin]          __             _       
+[03/04/2020 18:31:28]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 18:31:28]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 18:31:28]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 18:31:28]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 18:31:28]: [nLogin]                   |___/            
+[03/04/2020 18:31:28]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 18:31:28]: [nLogin] 
+[03/04/2020 18:31:28]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 18:31:29]: [nLogin] Todas as mensagens foram carregadas em 154 ms.
+[03/04/2020 18:31:30]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 18:31:30]: [nLogin] nLogin was loaded in 1720ms.
+[03/04/2020 18:31:52]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 18:31:52]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 18:40:09]: [nLogin] Todas as mensagens foram carregadas em 25 ms.
+[03/04/2020 18:40:24]: [nLogin] 
+[03/04/2020 18:40:24]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 18:40:24]: [nLogin] 
+[03/04/2020 18:40:24]: [nLogin] nLogin was unloaded in 3ms.
+[03/04/2020 18:40:26]: [nLogin]          __             _       
+[03/04/2020 18:40:26]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 18:40:26]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 18:40:26]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 18:40:26]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 18:40:26]: [nLogin]                   |___/            
+[03/04/2020 18:40:26]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 18:40:26]: [nLogin] 
+[03/04/2020 18:40:26]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 18:40:26]: [nLogin] Todas as mensagens foram carregadas em 74 ms.
+[03/04/2020 18:40:26]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 18:40:26]: [nLogin] nLogin was loaded in 683ms.
+[03/04/2020 18:40:39]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[03/04/2020 18:40:39]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 19:26:16]: [nLogin] 
+[03/04/2020 19:26:16]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 19:26:16]: [nLogin] 
+[03/04/2020 19:26:16]: [nLogin] nLogin was unloaded in 5ms.
+[03/04/2020 20:23:17]: [nLogin]          __             _       
+[03/04/2020 20:23:17]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[03/04/2020 20:23:17]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[03/04/2020 20:23:17]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[03/04/2020 20:23:17]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[03/04/2020 20:23:17]: [nLogin]                   |___/            
+[03/04/2020 20:23:17]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[03/04/2020 20:23:17]: [nLogin] 
+[03/04/2020 20:23:17]: [nLogin] Inicializando tarefas para inicialização...
+[03/04/2020 20:23:19]: [nLogin] Todas as mensagens foram carregadas em 344 ms.
+[03/04/2020 20:23:20]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[03/04/2020 20:23:20]: [nLogin] nLogin was loaded in 3737ms.
+[03/04/2020 20:23:34]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão d97b73ad-9a62-3633-add6-a59745496354 @ 25.50.225.219!
+[03/04/2020 20:23:34]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[03/04/2020 20:33:50]: [nLogin] 
+[03/04/2020 20:33:50]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[03/04/2020 20:33:50]: [nLogin] 
+[03/04/2020 20:33:50]: [nLogin] nLogin was unloaded in 4ms.
+[04/04/2020 00:26:31]: [nLogin]          __             _       
+[04/04/2020 00:26:31]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[04/04/2020 00:26:31]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[04/04/2020 00:26:31]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[04/04/2020 00:26:31]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[04/04/2020 00:26:31]: [nLogin]                   |___/            
+[04/04/2020 00:26:31]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[04/04/2020 00:26:31]: [nLogin] 
+[04/04/2020 00:26:31]: [nLogin] Inicializando tarefas para inicialização...
+[04/04/2020 00:26:36]: [nLogin] Todas as mensagens foram carregadas em 1253 ms.
+[04/04/2020 00:26:37]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[04/04/2020 00:26:37]: [nLogin] nLogin was loaded in 5505ms.
+[04/04/2020 00:29:06]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[04/04/2020 00:29:06]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[04/04/2020 03:18:02]: [nLogin] 
+[04/04/2020 03:18:02]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[04/04/2020 03:18:02]: [nLogin] 
+[04/04/2020 03:18:02]: [nLogin] nLogin was unloaded in 9ms.
+[04/04/2020 17:39:59]: [nLogin]          __             _       
+[04/04/2020 17:39:59]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[04/04/2020 17:39:59]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[04/04/2020 17:39:59]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[04/04/2020 17:39:59]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[04/04/2020 17:39:59]: [nLogin]                   |___/            
+[04/04/2020 17:39:59]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[04/04/2020 17:39:59]: [nLogin] 
+[04/04/2020 17:39:59]: [nLogin] Inicializando tarefas para inicialização...
+[04/04/2020 17:40:03]: [nLogin] Todas as mensagens foram carregadas em 482 ms.
+[04/04/2020 17:40:04]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[04/04/2020 17:40:04]: [nLogin] nLogin was loaded in 5506ms.
+[04/04/2020 17:41:39]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 4d5778fb-7865-3891-83ed-fd26e2cd5d1d @ 25.115.248.128!
+[04/04/2020 17:41:39]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[04/04/2020 21:00:58]: [nLogin] 
+[04/04/2020 21:00:58]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[04/04/2020 21:00:58]: [nLogin] 
+[04/04/2020 21:00:58]: [nLogin] nLogin was unloaded in 6ms.
+[05/04/2020 10:44:08]: [nLogin]          __             _       
+[05/04/2020 10:44:08]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[05/04/2020 10:44:08]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[05/04/2020 10:44:08]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[05/04/2020 10:44:08]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[05/04/2020 10:44:08]: [nLogin]                   |___/            
+[05/04/2020 10:44:08]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[05/04/2020 10:44:08]: [nLogin] 
+[05/04/2020 10:44:08]: [nLogin] Inicializando tarefas para inicialização...
+[05/04/2020 10:44:10]: [nLogin] Todas as mensagens foram carregadas em 288 ms.
+[05/04/2020 10:44:11]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[05/04/2020 10:44:11]: [nLogin] nLogin was loaded in 3217ms.
+[05/04/2020 10:50:06]: [WARNING] [nLogin] [BungeeGuard] Nenhum token foi configurado. Permitindo e adicionando o primeiro token da conexão 2343e106-252e-3dba-9aa3-bb171b3a8a89 @ 25.122.249.88!
+[05/04/2020 10:50:06]: [WARNING] [nLogin] [BungeeGuard] Para mais informações, siga o tutorial: https://nickuc.com/wiki/nlogin-bungee
+[05/04/2020 12:05:49]: [nLogin] 
+[05/04/2020 12:05:49]: [nLogin] Unloading resources from nLogin V 7.6.0...
+[05/04/2020 12:05:49]: [nLogin] 
+[05/04/2020 12:05:49]: [nLogin] nLogin was unloaded in 4ms.
+[19/07/2020 14:55:05]: [nLogin]          __             _       
+[19/07/2020 14:55:05]: [nLogin]  _ __   / /  ___   __ _(_)_ __  
+[19/07/2020 14:55:05]: [nLogin] | '_ \ / /  / _ \ / _` | | '_ \ 
+[19/07/2020 14:55:05]: [nLogin] | | | / /__| (_) | (_| | | | | |
+[19/07/2020 14:55:05]: [nLogin] |_| |_\____/\___/ \__, |_|_| |_|
+[19/07/2020 14:55:05]: [nLogin]                   |___/            
+[19/07/2020 14:55:05]: [nLogin]  By: www.nickuc.com - V 7.6.0 Release Build
+[19/07/2020 14:55:05]: [nLogin] 
+[19/07/2020 14:55:05]: [nLogin] Inicializando tarefas para inicialização...
+[19/07/2020 14:55:06]: [nLogin] Todas as mensagens foram carregadas em 157 ms.
+[19/07/2020 14:55:07]: [nLogin] [BungeeGuard] Inicializando BungeeGuard v1.0... (Todos os direitos reservados para lucko - MIT License https://github.com/lucko/BungeeGuard)
+[19/07/2020 14:55:07]: [nLogin] nLogin was loaded in 2277ms.

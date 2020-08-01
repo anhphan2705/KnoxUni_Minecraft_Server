@@ -1,0 +1,132 @@
+# Citizens NPC Storage
+
+
+
+
+last-created-npc-id: 10
+npc:
+  '7':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODU5OTg4MDEwODQsInByb2ZpbGVJZCI6IjQ4NDU1MTJiNTQ5ODQ4N2I4ZDY2ZDdiOWU5ZjE0NDdkIiwicHJvZmlsZU5hbWUiOiIxeTlzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMmY1MWI1NTc1YzliNTAzNGYxNTEyNjc2ZmM1MzVkN2Q1ZWQ2NzQwNzE1ODdjYjg1YTY3NTA4NDNkMjM0N2JhIn19fQ==
+      cached-skin-uuid-name: 1y9s
+      cached-skin-uuid: 4845512b-5498-487b-8d66-d7b9e9f1447d
+      player-skin-name: 1y9s
+      player-skin-signature: nneXdfEucDb8yDd3VzABfcFC5+xhmJ1rvpPkOMMWgP7Xe8zQuiSez+dZsJdxRVr1A+b8CLoOWXcdGXl9c6fI3fuM4arFlVqFNtEG5QEfVWQ9xdf5o88wgR4wO+2ZzEXE+nJk4vBh9tG2znY1uPRd4GMCwtVxAXDhZdx7Q7yPL2WRYi+VbXER96/LEar1TV96zzysrQQIximM/nYgD8f+LdAasy2sUm8QVCw7psEPH4U9YXJkRuIvqKdY1Z//YTd43r/T8ac6hK7YgmpMCQyMW4qYWmfZ4eM2Lhp02P1i4zvPVhnTuEreVJ4GXvR/xJBOtX26QTHgm+ImTNk5InrzG6Erlxg5Kn4xeziT4ZWRCN89ydQ/KhKTTqoJucyJoNNQGhAWQJXp+oABf9AqYYRsWIVyeEZmbhJ5og85/GYC7NTEY19rUFYKAxPTho57JWGUIQgJwluvOVuJoGmQ3+AaT/F4pjCTN5wg5orRvayBvp/BYIInuoVSa4P4Hsk5E/K6MtuTfS6S5jtfPmfE78VrOcv/YjoqHnuVggfTd4EQvlyCwkl0pTLTwoanJcCsXq5pr4pxCzfc5755XfEgPvrl/xHG9/Hz2MloTOqJol4qoaFY17ADN2eOMTTTjV6Iti3TvjxitmOCe3MLETJ4ayLo0HWCI+ySjto0JEdAhj07NJo=
+    name: §cNgư Lão
+    uuid: 012ea8a3-3d6f-4d79-8ac2-023b27daddf9
+    traits:
+      spawned: true
+      location:
+        headYaw: 0.0
+        world: world
+        x: '-185.5398'
+        y: '45.0'
+        z: '-168.347'
+        yaw: '0.0'
+        pitch: '-26.0987'
+      type: PLAYER
+      gravity:
+        enabled: false
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: emlacobedamdang
+        uuid: 2343e106-252e-3dba-9aa3-bb171b3a8a89
+    traitnames: location,scoreboardtrait,gravity,equipment,lookclose,type,owner,inventory,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODYwNTk2NTk4MDgsInByb2ZpbGVJZCI6ImIyYjVlNDJjM2MxZDQ2ZTdhOWU5Yjk2OGU1YjJhZjEzIiwicHJvZmlsZU5hbWUiOiJLaW5nIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Njk1NzM4MDZlMGFkZjQ3MGVhMTQwMmRmNTA5MWQ1OTU2YmNkN2RhOGFhY2ZmNmUxOTA0NTI4NmE1NGE0ZTBjIn0sIkNBUEUiOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMmU4ZDk3ZWM3OTEwMGU5MGE3NWQzNjlkMWIzYmE4MTI3M2M0ZjgyYmMxYjczN2U5MzRlZWQ0YTg1NGJlMWI2In19fQ==
+      cached-skin-uuid-name: king
+      cached-skin-uuid: b2b5e42c-3c1d-46e7-a9e9-b968e5b2af13
+      player-skin-name: king
+      player-skin-signature: D5HcgsJXSJQSIJ6phMtKEDBJKVwYNRM80dJ01XrUuaIxmJtJHEn7MBkzEYMEPY6E+Doy0RH8KikXPwKUz25aj/VLGwOWQ2q/3vZK5y8Wu65GjP1k1Y/ueEue2S2gFfsoXLNsVH8nBJWsZl1s/HkX0u5PYRbJInfUye4vbDwugLS5tCIYucZVs/13J9C1HVubpy/uljqPkg09ZEXZrXWfGBfhWY529fQxyA/8l/mbhYmPnHYTJkCUvQL02k6kBEHLriqjytfpguflG6kDi1+isnYbYCdV/FnEVfKY068kNwqvMYYas0n7CXKTX0NUWbG/W7rXarpU5aJQWPluEfWCwYzx22CqGn3pV++CZaARLG3pDRWt/qxyiqIHxWlLvNgRf0qjnPMy6K0jj6Nt80EJ2oKMa3ANYi1h/G7pIks/wqPCoW3NVzNJd8n6rjLSZnHSjQcjBHY7ah0TiGLiJfDmJHmbojnfwhfn8haeXBs6nMFY/6V5YzeRWAgf2KcDPbPKEJBaz8dLKCF3PZTzeFX/DURikd7FjR5EiQt9rfmGdCGS1kj7euHOcuuofjuAn8zNX0LR0A03Qa6otEQgvUXXRpSdih5BCaKopjnc9W0MCESvVALL6Fn3WXU6dMmJ6tbWO++kh/d2C18Id7JDVPmXQ9hBdUnS5Zh1SkZYTl+4pGo=
+    name: §cChúa Quỷ
+    uuid: 04ef1e72-cee9-4ded-a44e-60be7fafeda2
+    traits:
+      gravity:
+        enabled: false
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        headYaw: 0.0
+        world: world
+        x: '-42.3232'
+        y: '33.0625'
+        z: '-114.6748'
+        yaw: '0.0'
+        pitch: '-23.2591'
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: emlacobedamdang
+        uuid: 2343e106-252e-3dba-9aa3-bb171b3a8a89
+    traitnames: location,scoreboardtrait,gravity,equipment,lookclose,type,owner,inventory,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODYwNTkwNzI4MjIsInByb2ZpbGVJZCI6ImFhMGRiMDIyOTU3YzRhODA4MGJmMTY5NWU0MzBlZDYwIiwicHJvZmlsZU5hbWUiOiJXaXRjaCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6e319
+      cached-skin-uuid-name: witch
+      cached-skin-uuid: aa0db022-957c-4a80-80bf-1695e430ed60
+      player-skin-signature: b1Rjbjw7LxinOBEayOYGF22igdb9Qay/erVV8eibZUX2c8UZ7D0qw3r1GBELaeFNBTpUU2tWip+nwkT9vI+kEaGPgIzLnJzZab6KXcr1+t8IakmmzR5o/JKZzMaUpuEVeEnpXtWcn0EoFP6sL6eITumSoyQEDQGUNDIfcTneLiY6CRlyZTFa8GJOzYSWWAV9X54Ahr51hs1nZssCL76M2h5ZhcnWt4AWW5pl1marPh9NyEoZRCJGBSWGyU6I+WBJe/5wdSytj6XYFrRllmO0cuRN25laijkBkKof2QuXRRAW5Vd1qHRatSu2ZMuyFkZwoRn3zj9O05zhn+/w03h1AEXpeyD0bb/lOQyGvC30+VC3e0/CECytsheQ7jkgNfVnevoH/lsvmamSShVKagT1uHha5rnXDfNG4kwdi/pSc6m/BPVpYArQYZNgJKLDwzN/9yuBN/+FjPjhpxjULGzsU0F2big7DCcDEoHdGSz+8aNKbw7oN2cMeaseZx4am8D5/nB1HCBcGwJNs+/Os0GVqyriuiV3cij8WwogMxRtzTNTmL8neutQ/gEg0sxOkTnn1toPBr/YOIZl09FOt8Q78H5+ZY2At8AwFq81IIR5h+Mx+iDNZVBf6OqDOPx6x0L4mISkhMLT/gQOoTbuQ8LxVSovw54mkU5uskQl5Lyx/pw=
+    name: §cPhù Thủy
+    uuid: c09d832c-e589-4cdf-9449-ebb81296e9b9
+    traits:
+      gravity:
+        enabled: false
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        headYaw: 0.0
+        world: world
+        x: '-117.3'
+        y: '43.0'
+        z: '-133.7'
+        yaw: '0.0'
+        pitch: '0.0'
+      type: WITCH
+      spawned: true
+      owner:
+        owner: emlacobedamdang
+        uuid: 2343e106-252e-3dba-9aa3-bb171b3a8a89
+    traitnames: location,scoreboardtrait,gravity,anchors,equipment,lookclose,type,owner,inventory,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

@@ -1,0 +1,17 @@
+# resetConfigOnEnable: Not supported on BUNGEECORD.
+
+resetConfigOnEnable: true
+cmdspy:
+  msg: '&8[&6Spy&8] &7%player >> %cmd'
+  hiddenCommands:
+  - heal
+  - feed
+  - warp
+  - tp
+  - tpa
+  - tpaccept
+  - tpdeny
+  - home
+  - f
+  - anycommandhere
+  - notcasesensetive

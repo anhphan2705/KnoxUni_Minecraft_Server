@@ -1,0 +1,19 @@
+setting:
+  priority: 2
+  advanced: false
+
+assignment:
+  on-player-join:
+    type: EVENT
+    event: "org.bukkit.event.player.PlayerJoinEvent"
+    event-player: "getPlayer"
+    stay-seconds: 6
+
+content:
+  - "2|<glow pause=100>KiteBoard</glow>"
+  - "&8&m--------------------------"
+  - ""
+  - "    &eWelcome to our server"
+  - "    &7Powered by &dKite&eBoard"
+  - ""
+  - "&8&m--------------------------"

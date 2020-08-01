@@ -1,0 +1,65 @@
+#          __             _
+#  _ __   / /  ___   __ _(_)_ __
+# | '_ \ / /  / _ \ / _` | | '_ \
+# | | | / /__| (_) | (_| | | | | |
+# |_| |_\____/\___/ \__, |_|_| |_|
+#                   |___/
+
+# Site oficial: https://www.nickuc.com
+# Spigot: https://www.spigotmc.org/resources/nlogin.57272/ #
+# GamersBoard: https://gamersboard.com.br/topic/60312-nlogin-um-plugin-avan%C3%A7ado-de-autentica%C3%A7%C3%A3o/
+# Discord: https://www.nickuc.com/discord
+
+# Não altere o valor abaixo, para evitar problemas
+config-version: 1.0
+
+# Lista de todos os comandos disponíveis no nLogin
+comandos:
+    captcha:
+        ativar-comando: true
+        aliases: []
+        descricao: Comando para concluir o captcha.
+    discord:
+        ativar-comando: true
+        aliases: []
+        descricao: Comando para a confirmacao da senha temporaria.
+    dupeip:
+        ativar-comando: true
+        aliases: []
+        descricao: Comando para verificar ips.
+    email:
+        ativar-comando: true
+        aliases: []
+        descricao: Comando para a confirmacao de senha temporaria.
+    login:
+        ativar-comando: true
+        aliases: [logar]
+        descricao: Comando para logar no servidor.
+    mudarsenha:
+        ativar-comando: true
+        aliases: [changepass,changepassword,trocarsenha]
+        descricao: Comando para trocar a senha no servidor.
+    nlogin:
+        ativar-comando: true
+        aliases: []
+        descricao: Comando controle do plugin [Admins].
+    pin:
+        ativar-comando: true
+        aliases: []
+        descricao: Comando para recuperação da conta.
+    register:
+        ativar-comando: true
+        aliases: [registrar]
+        descricao: Comando para registrar no servidor.
+    twitter:
+        ativar-comando: true
+        aliases: []
+        descricao: Comando para a confirmacao da senha temporaria.
+    unregister:
+        ativar-comando: false
+        aliases: [desregistrar]
+        descricao: Comando para desregistrar.
+    verificar:
+        ativar-comando: true
+        aliases: [checkprofile]
+        descricao: Comando para verificar dados do jogador [Admins]. 

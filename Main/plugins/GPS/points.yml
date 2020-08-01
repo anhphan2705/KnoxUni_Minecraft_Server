@@ -1,0 +1,7 @@
+# This file stores all the GPS Points/Locations.
+# 
+# It is advised that you use the in-game configurator when editing your setup.
+# The in-game configurator lets you visually see what you are changing and avoids typing/input errors.
+
+
+Points: {}

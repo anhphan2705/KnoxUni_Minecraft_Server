@@ -1,0 +1,95 @@
+Settings:
+  PluginsInventory:
+    Title: '&aPlugins'
+    Plugin:
+      DisplayName: '&e%plugin%'
+      Lore:
+      - '&7Version&8: &d%plugin%'
+      Type:
+        Enabled: LEGACY_STAINED_CLAY
+        Disabled: LEGACY_STAINED_CLAY
+      MetaData:
+        Enabled: 5
+        Disabled: 14
+    Info:
+      DisplayName: '&6&lInfo'
+      Lore:
+      - '&7Leftclick a plugin to open it''s settings'
+      - '&7Rightclick a plugin to toggle it''s status'
+      Type: LEGACY_NETHER_STAR
+    Next:
+      DisplayName: '&8Next'
+      Lore:
+      - '&7Click here to go to the next page'
+      Type: LEGACY_ARROW
+    Back:
+      DisplayName: '&8Back'
+      Lore:
+      - '&7Click here to go to the previous page'
+      Type: LEGACY_ARROW
+  SettingsInventory:
+    Title: '&aPlugin-Settings&8: &e%plugin%'
+    UsePlaceHolders: true
+    PlaceHolder:
+      DisplayName: '&8&k,&r'
+      Type: LEGACY_STAINED_GLASS_PANE
+    Enable:
+      DisplayName: '&aEnable'
+      Lore:
+      - '&7Click here to enable the plugin'
+      Type: LEGACY_STAINED_CLAY
+      MetaData: 5
+    Disable:
+      DisplayName: '&cDisable'
+      Lore:
+      - '&7Click here to disable the plugin'
+      Type: LEGACY_STAINED_CLAY
+      MetaData: 14
+    Info:
+      DisplayName: '&6&l%plugin%'
+      Lore:
+      - '&7Version&8: &d%version%'
+      Type: LEGACY_NETHER_STAR
+    Back:
+      DisplayName: '&8Back'
+      Lore:
+      - '&7Click here to go back'
+      Type: LEGACY_ARROW
+Messages:
+  Prefix: '&a&lPluginManager &8» &7'
+  NoPerm: Unknown command. Type "/help" for help.
+  NotPlayer: '&cOnly players can perform this command'
+  NoMorePages: '&7There are &cno &7more pages'
+  AlreadyFirstPage: '&7You are &calready &7on the first page'
+  PluginNotFound: '&7The plugin &e%plugin% &7could &cnot &7be found'
+  PluginEnabled: '&7The plugin &e%plugin% &7has been &aenabled'
+  PluginDisabled: '&7The plugin &e%plugin% &7has been &cdisabled'
+  AllPluginsEnabled: '&7All plugins have been &aenabled'
+  AllPluginsDisabled: '&7All plugins have been &cdisabled'
+  PluginCanNotBeToggled: '&7The plugin &e%plugin% &7can &cnot &7be enabled/disabled'
+  PluginLoaded: '&7The plugin &e%plugin% &7has been &aloaded &7and &aenabled'
+  AllPluginsLoaded: '&7All plugins have been &aloaded &7and &aenabled'
+  PluginUnloaded: '&7The plugin &e%plugin% &7has been &cunloaded &7and &cdisabled'
+  AllPluginsUnloaded: '&7All plugins have been &cunloaded &7and &cdisabled'
+  PluginReloaded: '&7The plugin &e%plugin% &7has been &ereloaded &7and &aenabled'
+  AllPluginsReloaded: '&7All plugins have been &ereloaded &7and &aenabled'
+  PluginCanNotBeLoaded: '&7The plugin &e%plugin% &7could &cnot &7be loaded'
+  AllPlugins:
+    Header: '&8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ &aAll plugins &8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯'
+    Plugin: '%state%%name% &7(%version%)'
+    Footer: '&8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯'
+  PluginRestarted: '&7The plugin &e%plugin% &7has been &erestarted'
+  AllPluginsRestarted: '&7All plugins have been &erestarted'
+  PluginCommands:
+    Header: '&8⎯⎯⎯⎯⎯ &aAll commands of &e%plugin% &8⎯⎯⎯⎯⎯'
+    Command: '&a%name% &7(%usage%)'
+    Footer: '&8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯'
+  NoPluginCommands: '&7The plugin &e%plugin% &7has &cno &7commands'
+  CommandBelongsToPlugin: '&7The command &e%command% &7belongs to the plugin &a%plugin%'
+  CommandNotFound: '&7The command &e%command% &7does &cnot &7exist'
+  PluginAlreadyLoaded: '&7The plugin &e%plugin% &7is &calready &7loaded'
+  PluginInfo:
+  - '&8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ &a%name% &8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯'
+  - '&7Author(s)&8: &b%authors%'
+  - '&7Version&8: &d%version%'
+  - '&8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ &a%name% &8⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯'

@@ -1,0 +1,38 @@
+command:
+  no-permission: '&e[&bMC&amine&e]&f Bạn không có quyền sử dụng lệnh này.'
+  player-required: '&e[&bMC&amine&e]&f Không sử dụng trên cmd/No use cmd.'
+  player-invalid: '&e[&bMC&amine&e]&f Sai tên player.'
+  group-invalid: '&e[&bMC&amine&e]&f Sai tên file.'
+  see-help: '&e[&bMC&amine&e]&f Sử dụng &c/kb help để xem hướng dẫn lệnh.'
+  usage: '&e[&bMC&amine&e]&f Lệnh: &e/{label} {command} {args}'
+  unknown: '&e[&bMC&amine&e]&f Không có lệnh này'
+  help:
+    title: '&d&lHướng dẫn lệnh &f(Page &e&l{page} &7of &e&l{max_page}&f)'
+    format: '&b/{label} &e{command} &f{args}&f {description}'
+    description: Hiện hướng dẫn về lệnh KiteBoard.
+  toggle-off:
+    self: '&e[&bMC&amine&e]&f Đã tắt Board.'
+    other: '&e[&bMC&amine&e]&f Người chơi &e{player} đã được tắt Board.'
+    description: Tắt Board.
+  toggle:
+    'off':
+      other-no-permission: '&e[&bMC&amine&e]&f Bạn không có quyền tắt Board người khác.'
+    description: Bật/Tắt Board
+    other-no-permission: '&e[&bMC&amine&e]&f Bạn không có quyền.'
+    'on':
+      other-no-permission: '&e[&bMC&amine&e]&f Bạn không có quyền bật Board người khác.'
+  toggle-on:
+    self: '&e[&bMC&amine&e]&f Đã bật Board'
+    other: '&e[&bMC&amine&e]&f Người chơi &e{player} đã được bật Board'
+    description: Bật Board.
+  set-group:
+    self: '&e[&bMC&amine&e]&f Bạn đã chỉnh &e{group}.'
+    other: '&e[&bMC&amine&e]&f Đã chỉnh sửa &e{group} cho {player}.'
+    other-no-permission: '&e[&bMC&amine&e]&f Bạn không có quyền.'
+    description: Điều chỉnh file board cho người chơi.
+  reset-group:
+    self: '&e[&bMC&amine&e]&f Đã tải lại Board.'
+    other: '&e[&bMC&amine&e]&f Đã tải lại Board cho &e{player}.'
+    other-no-permission: '&cYou do not have permission to reset {players}''s scoreboard
+      group.'
+    description: Tải lại Board

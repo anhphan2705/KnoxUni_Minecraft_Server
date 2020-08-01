@@ -1,0 +1,24 @@
+# ServerListMotd Plugin by KennyTV
+# Version 1.2.1
+
+# The message shown in the multiplayer server list motd.
+# If you put in multiple entries, one of them will be chosen randomly on every ping.
+motds:
+  - "&r               &f&l✴ &6&l◆ &e&l❂&d&l⊰&b&lMC&a&lmine&d&l⊱&e&l❂ &6&l◆ &f&l✴\n&r       &e&l✦ &f|| &6Wizard&5-&aO&bn&cl&ei&2n&3e &f|| &b- &f|| &eVer &c1.14.4 &f|| &e&l✦"
+ #- "Another entry"
+
+# Is shown at the top right corner of the server in the serverlist,
+# where the playercount would normally be displayed.
+custom-playercountmessage: false
+playercountmessage: "&4Hoia!"
+# If set to false, only the given text will be shown without the playercount (requires custom-playercountmessage set to true).
+show-playercount: true
+
+# Is shown when you move your mouse above the text at the top right corner of the server in the serverlist,
+# where the playercount would normally be displayed.
+playercounthovermessage: "&cJoin%NEWLINE%&cplz"
+
+# If you don't want to be up to date, you can!
+update-checks: true
+
+no-permission-message: "&cYou do not have the permission to execute that command."
