@@ -47,10 +47,10 @@ disabled_commands:
 - disabledcommandhere
 servers:
   lobby:
-    address: 25.55.187.237:25566
+    address: 25.103.221.93:25566
     restricted: false
     motd: '&cNOTHING'
   Wizard:
     motd: '&cCAM VAO :))'
-    address: 25.55.187.237:25567
+    address: 25.103.221.93:25567
     restricted: false
