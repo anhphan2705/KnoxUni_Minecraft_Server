@@ -1,2285 +1,414 @@
-[15:48:08] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[15:48:08] [Server thread/INFO]: Loading properties
-[15:48:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-800b93f-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[15:48:08] [Server thread/INFO]: Debug logging is disabled
-[15:48:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
-
-[15:48:08] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:48:08] [Server thread/INFO]: Default game type: SURVIVAL
-[15:48:08] [Server thread/INFO]: Generating keypair
-[15:48:08] [Server thread/INFO]: Starting Minecraft server on 25.103.221.93:25567
-[15:48:08] [Server thread/INFO]: Using default channel type
-[15:48:17] [Server thread/WARN]: Plugin SimpleBossBar v0.1.4 does not specify an api-version.
-[15:48:17] [Server thread/WARN]: Plugin CommandSpy v1.4 does not specify an api-version.
-[15:48:18] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.116
-[15:48:18] [Server thread/INFO]: [LuckPerms] It is safe to ignore any warning printed following this message starting with 'WARNING: An illegal reflective access operation has occurred, Illegal reflective access by me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader'.
-[15:48:18] [Server thread/INFO]: [LuckPerms] This is intended, and will not have any impact on the operation of LuckPerms.
-[15:48:18] [Server thread/INFO]: [NoPlugins] Loading NoPlugins v7.2
-[15:48:18] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.2
-[15:48:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[15:48:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@60bbb97a]
-[15:48:18] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
-[15:48:18] [Server thread/INFO]: [SimpleBossBar] Loading SimpleBossBar v0.1.4
-[15:48:18] [Server thread/INFO]: [GPS] Loading GPS v2.18.2
-[15:48:18] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.5
-[15:48:18] [Server thread/INFO]: [PluginManager] Loading PluginManager v1.3
-[15:48:18] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.1
-[15:48:18] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
-[15:48:18] [Server thread/INFO]: [KiteBoard] Loading KiteBoard v3.0.8
-[15:48:18] [Server thread/INFO]: [CommandSpy] Loading CommandSpy v1.4
-[15:48:18] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[15:48:18] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.26-SNAPSHOT (build 1854)
-[15:48:18] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.9.2
-[15:48:18] [Server thread/INFO]: [Shopkeepers] Loading config.
-[15:48:18] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[15:48:18] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[15:48:18] [Server thread/INFO]: [BossShopPro] Loading BossShopPro v2.0.8
-[15:48:18] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
-[15:48:18] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
-[15:48:18] [Server thread/INFO]: [ArmorStandTools] Loading ArmorStandTools v3.5.1
-[15:48:18] [Server thread/INFO]: [ArmorStandTools] Registered custom WorldGuard flag: ast
-[15:48:18] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.2.0
-[15:48:18] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.1.3
-[15:48:18] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
-[15:48:18] [Server thread/INFO]: [Magic] Loading Magic v7.9.10-578c6b8
-[15:48:18] [Server thread/INFO]: [Magic] Found WorldGuard 7+
-[15:48:18] [Server thread/INFO]: [Magic] Pre-check for WorldGuard custom flag registration
-[15:48:18] [Server thread/INFO]: [Magic] Registered custom WorldGuard flags: allowed-spells, blocked-spells, allowed-spell-categories, blocked-spell-categories, allowed-wands, blocked-wands, spell-overrides, destructible, reflective, spawn-tags
-[15:48:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.116
-[15:48:18] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
-
-[15:48:18] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.0.116[m
-
-[15:48:18] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
-
-[15:48:18] [Server thread/INFO]: [m
-
-[15:48:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[15:48:18] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[15:48:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[15:48:19] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[15:48:19] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1008ms)
-[15:48:19] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[15:48:19] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[15:48:19] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[15:48:20] [Server thread/WARN]: [WorldEdit] ====================================================
-[15:48:20] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
-[15:48:20] [Server thread/WARN]: [WorldEdit]  as your server software. 
-[15:48:20] [Server thread/WARN]: [WorldEdit]   
-[15:48:20] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
-[15:48:20] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
-[15:48:20] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
-[15:48:20] [Server thread/WARN]: [WorldEdit]   
-[15:48:20] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[15:48:20] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
-[15:48:20] [Server thread/WARN]: [WorldEdit]   
-[15:48:20] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
-[15:48:20] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[15:48:20] [Server thread/WARN]: [WorldEdit]   
-[15:48:20] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[15:48:20] [Server thread/WARN]: [WorldEdit] ====================================================
-[15:48:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
-[15:48:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[15:48:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[15:48:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
-[15:48:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[15:48:20] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[15:48:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:48:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:48:20] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[15:48:20] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[15:48:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:48:20] [Server thread/INFO]: Preparing level "world"
-[15:48:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[15:48:21] [Server thread/INFO]: Loaded 6 recipes
-[15:48:21] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:48:21] [Server thread/INFO]: View Distance: 10
-[15:48:21] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:48:21] [Server thread/INFO]: Item Merge Radius: 3.5
-[15:48:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:48:21] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:48:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:48:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:48:21] [Server thread/INFO]: Mob Spawn Range: 3
-[15:48:21] [Server thread/INFO]: Experience Merge Radius: 6.0
-[15:48:21] [Server thread/INFO]: Cactus Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Cane Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Melon Growth Modifier: 20%
-[15:48:21] [Server thread/INFO]: Mushroom Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Pumpkin Growth Modifier: 20%
-[15:48:21] [Server thread/INFO]: Sapling Growth Modifier: 30%
-[15:48:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Wheat Growth Modifier: 35%
-[15:48:21] [Server thread/INFO]: NetherWart Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Vine Growth Modifier: 30%
-[15:48:21] [Server thread/INFO]: Cocoa Growth Modifier: 30%
-[15:48:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 2 / Tiv true
-[15:48:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[15:48:21] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 1 Hopper Amount: 3
-[15:48:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:48:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:48:21] [Server thread/INFO]: Max TNT Explosions: 100
-[15:48:21] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[15:48:21] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:48:21] [Server thread/INFO]: View Distance: 10
-[15:48:21] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:48:21] [Server thread/INFO]: Item Merge Radius: 3.5
-[15:48:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:48:21] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:48:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:48:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:48:21] [Server thread/INFO]: Mob Spawn Range: 3
-[15:48:21] [Server thread/INFO]: Experience Merge Radius: 6.0
-[15:48:21] [Server thread/INFO]: Cactus Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Cane Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Melon Growth Modifier: 20%
-[15:48:21] [Server thread/INFO]: Mushroom Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Pumpkin Growth Modifier: 20%
-[15:48:21] [Server thread/INFO]: Sapling Growth Modifier: 30%
-[15:48:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Wheat Growth Modifier: 35%
-[15:48:21] [Server thread/INFO]: NetherWart Growth Modifier: 40%
-[15:48:21] [Server thread/INFO]: Vine Growth Modifier: 30%
-[15:48:21] [Server thread/INFO]: Cocoa Growth Modifier: 30%
-[15:48:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:48:21] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 2 / Tiv true
-[15:48:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[15:48:21] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 1 Hopper Amount: 3
-[15:48:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:48:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:48:21] [Server thread/INFO]: Max TNT Explosions: 100
-[15:48:21] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[15:48:22] [Server thread/INFO]: Preparing spawn area: 0%
-[15:48:22] [Server thread/INFO]: Preparing spawn area: 0%
-[15:48:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:48:23] [Server thread/INFO]: Time elapsed: 1531 ms
-[15:48:23] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[15:48:24] [Server thread/INFO]: Preparing spawn area: 0%
-[15:48:24] [Server thread/INFO]: Preparing spawn area: 0%
-[15:48:24] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:48:24] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:48:25] [Server-Worker-1/INFO]: Preparing spawn area: 85%
-[15:48:25] [Server-Worker-1/INFO]: Preparing spawn area: 93%
-[15:48:26] [Server thread/INFO]: Time elapsed: 2683 ms
-[15:48:26] [Server thread/INFO]: [NoPlugins] Enabling NoPlugins v7.2
-[15:48:26] [Server thread/INFO]: [NoPlugins] Minecraft version: v1_15_R1
-[15:48:26] [Server thread/INFO]: [NoPlugins] --------------------------------
-[15:48:26] [Server thread/INFO]: [NoPlugins] New Version: 7.3
-[15:48:26] [Server thread/INFO]: [NoPlugins] Current Version: 7.2
-[15:48:26] [Server thread/INFO]: [NoPlugins] Download link: https://www.spigotmc.org/resources/12965
-[15:48:26] [Server thread/INFO]: [NoPlugins] This plugin is seriously recommended to update if you want to keep your plugins private.
-[15:48:26] [Server thread/INFO]: [NoPlugins] --------------------------------
-[15:48:26] [Server thread/INFO]: [NoPlugins] Successfully loaded.
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.2
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
-
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
-
-[15:48:26] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_15_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
-
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] -------------------------/Warning\-------------------------
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] This plugin is running in Bungee mode!
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] You have to do all configuration at config file
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] inside your Bungeecord server.
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] (Bungeecord-Server/plugins/SkinsRestorer/).
-[15:48:26] [Server thread/INFO]: [SkinsRestorer] -------------------------\Warning/-------------------------
-[15:48:26] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
-[15:48:26] [Server thread/INFO]: [SimpleBossBar] Enabling SimpleBossBar v0.1.4
-[15:48:26] [Server thread/INFO]: [GPS] Enabling GPS v2.18.2
-[15:48:26] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.5
-[15:48:26] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[15:48:26] [Server thread/INFO]: [PluginManager] Enabling PluginManager v1.3
-[15:48:26] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;32;1mENABLED[m
-
-[15:48:26] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.1
-[15:48:26] [Server thread/INFO]: [KiteBoard] Enabling KiteBoard v3.0.8
-[15:48:26] [Server thread/INFO]: [KiteBoard] Loading scoreboard groups...
-[15:48:26] [Server thread/INFO]: [KiteBoard] Loading scoreboard group join_server.yml.
-[15:48:26] [Server thread/INFO]: [KiteBoard] Loading scoreboard group main_board.yml.
-[15:48:26] [Server thread/INFO]: [KiteBoard] Loading tablist groups...
-[15:48:26] [Server thread/INFO]: [KiteBoard] Loading tablist group main_tab.yml.
-[15:48:26] [Server thread/INFO]: [KiteBoard] Registering placeholder hook Player Placeholders.
-[15:48:26] [Server thread/INFO]: [KiteBoard] Registering placeholder hook Event Trigger.
-[15:48:26] [Server thread/INFO]: [KiteBoard] Registering placeholder hook Placeholder API.
-[15:48:26] [Server thread/INFO]: [KiteBoard] bStats metrics is enabled.
-[15:48:26] [Server thread/INFO]: [CommandSpy] Enabling CommandSpy v1.4
-[15:48:27] [Server thread/INFO]: [CommandSpy]: Failed to connect to metrics service
-
-[15:48:27] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[15:48:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[15:48:27] [Server thread/INFO]: [WorldGuard] Loading region data...
-[15:48:27] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.26-SNAPSHOT (build 1854)
-[15:48:27] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.9.2
-[15:48:27] [Server thread/INFO]: [Shopkeepers] Citizens found, enabling NPC shopkeepers.
-[15:48:27] [Server thread/INFO]: [BossShopPro] Enabling BossShopPro v2.0.8
-[15:48:27] [Server thread/INFO]: [BossShopPro] Loading data...
-[15:48:27] [Server thread/INFO]: [BossShopPro] Hooked into PlaceholderAPI.
-[15:48:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
-[15:48:27] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[15:48:27] [Server thread/INFO]: No kits found to migrate.
-[15:48:27] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[15:48:27] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
-[15:48:28] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[15:48:28] [Server thread/INFO]: Loaded 21018 items from items.json.
-[15:48:28] [Server thread/INFO]: Using locale en_US
-[15:48:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[15:48:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[15:48:28] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
-[15:48:28] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[15:48:28] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
-[15:48:28] [Server thread/INFO]: [ArmorStandTools] Enabling ArmorStandTools v3.5.1
-[15:48:28] [Server thread/INFO]: [ArmorStandTools] Loading support for v1_15_R1
-[15:48:28] [Server thread/INFO]: [ArmorStandTools] PlotSquared plugin not found. Continuing without PlotSquared support.
-[15:48:28] [Server thread/INFO]: [ArmorStandTools] WorldGuard plugin found. WorldGuard support enabled.
-[15:48:28] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.2.0
-[15:48:28] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.1.3
-[15:48:28] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
-[15:48:28] [Server thread/INFO]: [SuperVanish] Hooked into PlaceholderAPI
-[15:48:28] [Server thread/INFO]: [SuperVanish] Hooked into Citizens
-[15:48:28] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
-[15:48:28] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
-[15:48:28] [Server thread/INFO]: [Magic] Enabling Magic v7.9.10-578c6b8
-[15:48:28] [Server thread/INFO]: [Magic] EffectLib initialized
-[15:48:28] [Server thread/INFO]: [Magic]  Using compatibility configs: examples/1.15/config.yml
-[15:48:28] [Server thread/INFO]: [Magic]  Using compatibility configs: examples/1.15/config.yml
-[15:48:29] [Server thread/INFO]: [Magic]  Using compatibility configs: examples/1.15/items.yml
-[15:48:29] [Server thread/INFO]: [Magic] Wand crafting is enabled
-[15:48:29] [Server thread/INFO]: [Magic] Skin-based spell icons disabled
-[15:48:29] [Server thread/INFO]: [Magic] Vault found, 'currency' cost types available
-[15:48:29] [Server thread/INFO]: [Magic] Loaded 0 attributes
-[15:48:29] [Server thread/INFO]: [Magic] Registered attributes: [health_max, bowpull, damage, damage_dealt, level, location_x, health, location_y, bowpower, moon, mana, location_z, xp, mana_max, time]
-[15:48:29] [Server thread/INFO]: [Magic] Registered currencies: item,mana,xp,health,currency,sp,levels,hunger
-[15:48:29] [Server thread/INFO]: [Magic] Loaded 6 effect lists
-[15:48:29] [Server thread/INFO]: [Magic] Loaded 398 items
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 449 spells
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 6 classes
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 1 classes
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 4 automata templates
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 12 progression paths
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 129 wands
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 22 mob templates
-[15:48:30] [Server thread/INFO]: [Magic] Loaded 20 crafting recipes
-[15:48:30] [Server thread/INFO]: [Magic] LibsDisguises not found, magic mob disguises will not be available
-[15:48:30] [Server thread/INFO]: [Magic] MobArena not found
-[15:48:30] [Server thread/INFO]: [Magic] LogBlock not found
-[15:48:30] [Server thread/INFO]: [Magic] Integrating with Essentials for vanish detection
-[15:48:30] [Server thread/INFO]: [Magic] Integrating with Essentials for Recall warps
-[15:48:30] [Server thread/INFO]: [Magic] Factions not found
-[15:48:30] [Server thread/INFO]: [Magic] WorldGuard found, will respect build permissions for construction spells
-[15:48:30] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
-[15:48:30] [Server thread/INFO]: [Magic] Lockette nor LockettePro found, will not integrate.
-[15:48:30] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
-[15:48:30] [Server thread/INFO]: [Magic] NoCheatPlus not found, will not integrate.
-[15:48:30] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
-[15:48:30] [Server thread/INFO]: [Magic] PlaceholderAPI integration enabled. Available placeholders:
-[15:48:30] [Server thread/INFO]: [Magic] magic_path, magic_class, magic_wand, magic_spell, magic_mana, magic_mana_max, magic_sp, magic_spell_count
-[15:48:30] [Server thread/INFO]: [Magic] LightAPI not found, Light action will not work
-[15:48:30] [Server thread/INFO]: [Magic] Activated BStats
-[15:48:30] [Server thread/INFO]: Magic checking resource pack for updates: [0;37;22mhttps://s3-us-west-2.amazonaws.com/elmakers/Magic/Magic-RP-1.15.zip[m
-
-[15:48:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:48:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[15:48:30] [Server thread/INFO]: Done (10.272s)! For help, type "help"
-[15:48:30] [Server thread/INFO]: [KiteBoard] Registered event PlayerJoinEvent trigger for group join_server.
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |  [0;33;1mBungee Mode[0;32;1m  |[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.2[m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
-
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-
-[15:48:31] [Server thread/INFO]: [Citizens] Loaded 3 NPCs.
-[15:48:31] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.10.8) is available at:
-[15:48:31] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
-[15:48:31] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.1.7'; Currently: '6.1.3'
-[15:48:31] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
-[15:48:31] [Craft Scheduler Thread - 2/INFO]: [PlaceholderAPI] 176 placeholder expansions are available on the cloud.
-[15:48:31] [Server thread/INFO]: [Magic] Essentials found, hooked up custom item handler
-[15:48:31] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
-[15:48:31] [Server thread/WARN]: [Magic] Failed to get map id 170 for key world|8,8|8,8|http://textures.minecraft.net/texture/8fb37ca996c35a1e2d36f43d6ef9e094a07759f692d97c79bde5e0ac9714c27f, disabled, use 'mmap fix' to re-enable
-[15:48:31] [Server thread/WARN]: [Magic] Failed to get map id 171 for key world|8,8|8,8|http://textures.minecraft.net/texture/e63f5264a79ce8f53795d0cdf153f5ea01875214198d9741509f3f503b17cf98, disabled, use 'mmap fix' to re-enable
-[15:48:31] [Server thread/INFO]: [Magic] Loaded 2 image maps
-[15:48:31] [Server thread/INFO]: [Magic] Finished loading data.
-[15:48:31] [Craft Scheduler Thread - 6/INFO]: [0;37;22m[[0;33;1mGPS[0;37;22m] [0;37;1mA new update is available at:[m
-
-[15:48:31] [Craft Scheduler Thread - 6/INFO]: [0;36;1mhttps://www.spigotmc.org/resources/53672/updates[m
-
-[15:48:31] [Server thread/INFO]: [0;32;1mResource pack has not changed, using hash KcHjy0ae/hpm2ELkrIxxuXqxNto= (1590615311000 <= 1590615311000)[m
-
-[15:48:31] [Craft Scheduler Thread - 1/INFO]: [BossShopPro] Loaded 11 Shops!
-[15:48:31] [Craft Scheduler Thread - 1/INFO]: [BossShopPro] Vault found.
-[15:48:31] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.4.3
-[15:48:31] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
-[15:48:31] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/projects/holographic-displays
-[15:48:31] [Craft Scheduler Thread - 0/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
-[15:48:31] [Craft Scheduler Thread - 0/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
-[15:48:43] [User Authenticator #1/INFO]: UUID of player blacksniper2705 is a2f2efd3-bca5-3863-9161-712789cbf098
-[15:48:43] [Server thread/INFO]: blacksniper2705[/25.103.221.93:49202] logged in with entity id 213 at ([world]-165.5, 85.0, -90.5)
-[15:48:43] [Server thread/INFO]: [KiteBoard] Using adapter version: Adapter_1_15_R1
-[15:48:59] [Server thread/INFO]: blacksniper2705 issued server command: /spawn hiemnguyno
-[15:49:55] [Server thread/INFO]: blacksniper2705 issued server command: /sit
-[15:49:58] [Server thread/INFO]: blacksniper2705 issued server command: /huongdan
-[15:50:08] [Server thread/INFO]: blacksniper2705 issued server command: /op
-[15:50:11] [Server thread/INFO]: blacksniper2705 issued server command: /open
-[15:50:24] [User Authenticator #2/INFO]: UUID of player hiemnguyno is 4d5778fb-7865-3891-83ed-fd26e2cd5d1d
-[15:50:25] [Server thread/INFO]: hiemnguyno[/25.55.187.237:49236] logged in with entity id 214 at ([world]-59.04376899108451, 101.41116608298206, -117.32806072516988)
-[15:50:26] [Server thread/WARN]: [Essentials] Permissions lag notice with (ModernVaultHandler). Response took 114.609000ms. Summary: Getting prefix for hiemnguyno
-[15:50:35] [Server thread/INFO]: blacksniper2705 issued server command: /spawn hiemnguyno
-[15:50:45] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> v;[m
-
-[15:50:48] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> backup à ;v[m
-
-[15:50:55] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> crash thêm phát ko =))[m
-
-[15:50:59] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> cc[m
-
-[15:51:02] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> crash làm soa[m
-
-[15:51:03] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> sao :\[m
-
-[15:51:08] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> có cái trong wurst ý ;v[m
-
-[15:51:18] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> lenh65 j[m
-
-[15:51:30] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> servercrasher đó v;[m
-
-[15:51:34] [User Authenticator #3/INFO]: UUID of player ThanhVNHC is f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
-[15:51:34] [Server thread/INFO]: ThanhVNHC[/25.94.17.215:49244] logged in with entity id 220 at ([world]-169.5, 80.0, -77.5)
-[15:51:36] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> đừng dùng djtme ;v[m
-
-[15:51:39] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> hello newbie[m
-
-[15:51:42] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> ti1 bấm[m
-
-[15:51:49] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> đừng[m
-
-[15:51:51] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> ;v[m
-
-[15:51:51] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> nó đang lag[m
-
-[15:51:53] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> lag =)[m
-
-[15:51:59] [Server thread/INFO]: ThanhVNHC lost connection: Timed out
-[15:51:59] [Server thread/INFO]: ThanhVNHC left the game
-[15:52:01] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> V;[m
-
-[15:52:01] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> ve1oo[m
-
-[15:52:02] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[15:52:07] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> 1 đấm véo =))[m
-
-[15:52:15] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> sao thành vẫn bị rela[m
-
-[15:52:16] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> relay[m
-
-[15:52:19] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> nó k change dc[m
-
-[15:52:23] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> hmm[m
-
-[15:52:31] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 1
-[15:52:54] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> kêu nó link này nè[m
-
-[15:52:57] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> 2018 ;v[m
-
-[15:52:58] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> ng vn ;v[m
-
-[15:53:01] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> https://youtu.be/HFRLbzdZPKI[m
-
-[15:53:48] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> [i][m
-
-[15:53:52] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> ko có đâu =))[m
-
-[15:53:58] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[15:54:01] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> làm wizard land nhóe ;v[m
-
-[15:54:03] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> die potion nhé :v[m
-
-[15:54:06] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> cak v;[m
-
-[15:54:11] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[15:54:26] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> lag djtme[m
-
-[15:55:14] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> ném là die ;v[m
-
-[15:55:19] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> nem1[m
-
-[15:55:20] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> creative cũng die thì phải ;v[m
-
-[15:55:25] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> :))[m
-
-[15:55:26] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> cak ;lv[m
-
-[15:55:29] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> tui éo die :))[m
-
-[15:55:38] [Server thread/INFO]: hiemnguyno issued server command: /god
-[15:55:43] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> god =))[m
-
-[15:55:47] [Server thread/INFO]: hiemnguyno issued server command: /god blac
-[15:55:53] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> die ko :))[m
-
-[15:55:55] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> cc[m
-
-[15:56:03] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> :|[m
-
-[15:56:04] [Server thread/INFO]: blacksniper2705 issued server command: /god
-[15:56:11] [Async Chat Thread - #0/INFO]: [m<[0;31;22mhiemnguyno[m> god xịn nhỉ ;v[m
-
-[15:56:13] [Async Chat Thread - #0/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[15:57:04] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[15:57:33] [Server thread/INFO]: blacksniper2705 issued server command: /god hiemnguyno
-[15:58:31] [Async Chat Thread - #1/INFO]: [m<[0;31;22mhiemnguyno[m> cc ;v[m
-
-[16:00:25] [Server thread/INFO]: blacksniper2705 issued server command: /give blacksniper2705 stick 1
-[16:00:49] [Server thread/INFO]: blacksniper2705 issued server command: /enchant knockback 124
-[16:01:03] [Server thread/INFO]: blacksniper2705 issued server command: /enchant knockback 2
-[16:01:07] [Async Chat Thread - #2/INFO]: [m<[0;31;22mhiemnguyno[m> restart cái hub phát[m
-
-[16:01:09] [Server thread/INFO]: hiemnguyno withered away
-[16:01:11] [Async Chat Thread - #2/INFO]: [m<[0;31;22mhiemnguyno[m> cak[m
-
-[16:01:12] [Async Chat Thread - #2/INFO]: [m<[0;31;22mblacksniper2705[m> :|[m
-
-[16:01:16] [Async Chat Thread - #2/INFO]: [m<[0;31;22mhiemnguyno[m> lag bome[m
-
-[16:01:21] [Async Chat Thread - #2/INFO]: [m<[0;31;22mhiemnguyno[m> cứ chết xong phải ăn load[m
-
-[16:02:28] [Server thread/INFO]: blacksniper2705 issued server command: /give blacksniper2705 stick 1 {enchant}
-[16:02:28] [Server thread/ERROR]: null
-com.mojang.brigadier.exceptions.CommandSyntaxException: Expected ':' at position 8: {enchant<--[HERE]
-[16:02:45] [Server thread/INFO]: blacksniper2705 issued server command: /give blacksniper2705 stick 1 0 {enchant}
-[16:02:45] [Server thread/ERROR]: null
-com.mojang.brigadier.exceptions.CommandSyntaxException: Expected ':' at position 8: {enchant<--[HERE]
-[16:03:36] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> e6 dm[m
-
-[16:03:37] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:38] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:39] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:40] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:40] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:40] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:41] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:41] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:41] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:42] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:03:49] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> ông có làm branch mới k v dm[m
-
-[16:04:01] [Async Chat Thread - #3/INFO]: [m<[0;31;22mhiemnguyno[m> có ;v[m
-
-[16:04:06] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> ok[m
-
-[16:04:10] [Async Chat Thread - #3/INFO]: [m<[0;31;22mhiemnguyno[m> cai1 captcha đó v;[m
-
-[16:04:10] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> tưởng k là ăn cut[m
-
-[16:04:13] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> đợi[m
-
-[16:04:22] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> upload cái đống mới nãy h vô[m
-
-[16:04:25] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> master[m
-
-[16:04:32] [Async Chat Thread - #3/INFO]: [m<[0;31;22mblacksniper2705[m> r ông merge cái git vô[m
-
-[16:04:37] [Async Chat Thread - #3/INFO]: [m<[0;31;22mhiemnguyno[m> v;[m
-
-[16:05:38] [Async Chat Thread - #4/INFO]: [m<[0;31;22mhiemnguyno[m> merge cho gọn ;))[m
-
-[16:06:10] [Async Chat Thread - #4/INFO]: [m<[0;31;22mblacksniper2705[m> cac[m
-
-[16:06:13] [User Authenticator #4/INFO]: UUID of player ThanhVNHC is f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
-[16:06:14] [Server thread/INFO]: ThanhVNHC[/25.94.17.215:49451] logged in with entity id 692 at ([world]-165.5, 85.0, -85.5)
-[16:06:32] [Async Chat Thread - #4/INFO]: [m<[0;31;22mblacksniper2705[m> co1 mấy file k push origin dc[m
-
-[16:06:33] [Async Chat Thread - #4/INFO]: [m<[0;31;22mblacksniper2705[m> sad[m
-
-[16:06:36] [Server thread/INFO]: blacksniper2705 issued server command: /fly ThanhVNHC
-[16:06:51] [Async Chat Thread - #4/INFO]: [m<ThanhVNHC[m> :|[m
-
-[16:09:03] [Server thread/INFO]: ThanhVNHC discovered the floor was lava
-[16:09:16] [Server thread/INFO]: hiemnguyno withered away
-[16:09:18] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> cak[m
-
-[16:09:22] [Async Chat Thread - #5/INFO]: [m<ThanhVNHC[m> :|[m
-
-[16:09:33] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> helu thành ;v[m
-
-[16:09:38] [Async Chat Thread - #5/INFO]: [m<ThanhVNHC[m> :|[m
-
-[16:09:39] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> hola =))[m
-
-[16:09:58] [Async Chat Thread - #5/INFO]: [m<ThanhVNHC[m> como esta[m
-
-[16:10:01] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> =)))))[m
-
-[16:10:05] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> PR O=))[m
-
-[16:10:26] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> muy bien[m
-
-[16:10:29] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> y tú[m
-
-[16:10:31] [Async Chat Thread - #5/INFO]: [m<ThanhVNHC[m> igualmente[m
-
-[16:10:48] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> gracias :v[m
-
-[16:11:09] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> Gracias dick[m
-
-[16:11:14] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> :|[m
-
-[16:11:17] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> hiemnguyno[m
-
-[16:11:18] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> dm[m
-
-[16:11:20] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> wut v;[m
-
-[16:11:28] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> thụy điển cc ;v[m
-
-[16:11:28] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> tui phải discard mấy cái file tui gửi[m
-
-[16:11:34] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> =))[m
-
-[16:11:34] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> k là nó k cho[m
-
-[16:11:37] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> :v[m
-
-[16:11:38] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> nay4 h change j[m
-
-[16:11:41] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> éo update dc :v[m
-
-[16:11:46] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> vailzo[m
-
-[16:11:56] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> mai change có tí[m
-
-[16:11:59] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> may v;[m
-
-[16:12:02] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:12:11] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> mấy cái file tui gửi trong fb[m
-
-[16:12:16] [Async Chat Thread - #5/INFO]: [m<[0;31;22mblacksniper2705[m> la2 nó éo cho merge[m
-
-[16:12:37] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> vl ;v[m
-
-[16:12:45] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> éo cho thì thôi =))[m
-
-[16:12:50] [Async Chat Thread - #5/INFO]: [m<[0;31;22mhiemnguyno[m> vẫn update dc là r[m
-
-[16:13:30] [Server thread/INFO]: hiemnguyno issued server command: /gm 1
-[16:14:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> xịn chưa :))[m
-
-[16:14:17] [Server thread/INFO]: blacksniper2705 issued server command: /effect clear ThanhVNHC
-[16:14:17] [Server thread/INFO]: [blacksniper2705: Removed every effect from ThanhVNHC]
-[16:14:20] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> :v[m
-
-[16:14:22] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:14:24] [Async Chat Thread - #6/INFO]: [m<ThanhVNHC[m> :|[m
-
-[16:14:57] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> có cái lầu xanh mà chưa xong =))[m
-
-[16:15:05] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> lầu xanh :))[m
-
-[16:15:06] [Server thread/INFO]: hiemnguyno issued server command: /warps
-[16:15:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> =))[m
-
-[16:15:14] [Async Chat Thread - #6/INFO]: [m<ThanhVNHC[m> :|[m
-
-[16:15:20] [Server thread/INFO]: blacksniper2705 issued server command: /invsee ThanhVNHC
-[16:15:27] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> thành nghiện mà ngại =))[m
-
-[16:15:29] [Server thread/INFO]: blacksniper2705 issued server command: /invsee ThanhVNHC
-[16:15:31] [Async Chat Thread - #6/INFO]: [m<ThanhVNHC[m> cc j v[m
-
-[16:15:40] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :)))[m
-
-[16:15:40] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> j ? ;v[m
-
-[16:15:43] [Server thread/INFO]: blacksniper2705 issued server command: /god hiemnguyno
-[16:15:47] [Server thread/INFO]: blacksniper2705 issued server command: /god hiemnguyno
-[16:15:49] [Server thread/INFO]: hiemnguyno issued server command: /god
-[16:16:10] [Server thread/INFO]: Made ThanhVNHC a server operator
-[16:16:21] [Server thread/INFO]: blacksniper2705 issued server command: /god hiemnguyno
-[16:16:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> cc :|[m
-
-[16:16:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> gm 3 đi coi map đi thành ;v[m
-
-[16:16:24] [Server thread/INFO]: hiemnguyno issued server command: /god
-[16:16:28] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:16:36] [Server thread/INFO]: ThanhVNHC issued server command: /tp hiemnguyno
-[16:16:37] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ok[m
-
-[16:16:41] [Server thread/INFO]: blacksniper2705 issued server command: /gm 3
-[16:16:43] [Server thread/INFO]: ThanhVNHC issued server command: /gm 3
-[16:16:49] [Server thread/INFO]: blacksniper2705 issued server command: /tp hiemnguyno
-[16:16:49] [Server thread/WARN]: blacksniper2705 moved too quickly! 49.2578943034774,-56.53058122675688,-54.26407650260213
-[16:16:53] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> đù[m
-
-[16:16:56] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> tui k biết[m
-
-[16:16:58] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> bên h[m
-
-[16:17:01] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> =))[m
-
-[16:17:02] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:17:05] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> sờ hịn chưa =))[m
-
-[16:17:05] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ben6 dưới warp pvp có cái này[m
-
-[16:17:15] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> xịn vc[m
-
-[16:17:22] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ủa chúa quỷ ? ;v[m
-
-[16:17:24] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> wtf :V/[m
-
-[16:17:27] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> npc loz j thế ;v[m
-
-[16:17:32] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> mặt troll vc :))))[m
-
-[16:17:38] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> t có create dell v;[m
-
-[16:17:38] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:17:39] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:17:40] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:17:41] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:17:43] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> => :|[m
-
-[16:17:46] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> đổi tên thành cô cúc đi[m
-
-[16:17:46] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> delete nó dùm t phát ;v[m
-
-[16:17:48] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> đổi tên thành cô cúc đi[m
-
-[16:17:48] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> đổi tên thành cô cúc đi[m
-
-[16:17:50] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> đổi tên thành cô cúc đi[m
-
-[16:17:54] [Server thread/INFO]: blacksniper2705 issued server command: /npc
-[16:17:56] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> cô thành =))[m
-
-[16:17:58] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> cc[m
-
-[16:18:00] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:18:08] [Server thread/INFO]: blacksniper2705 issued server command: /gm 1
-[16:18:23] [Server thread/INFO]: blacksniper2705 issued server command: /npc2
-[16:18:28] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> how[m
-
-[16:18:30] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> to[m
-
-[16:18:32] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> delete npc[m
-
-[16:18:37] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> npc sel[m
-
-[16:18:40] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> npc del[m
-
-[16:18:44] [Server thread/INFO]: hiemnguyno issued server command: /npc
-[16:18:44] [Server thread/INFO]: blacksniper2705 issued server command: /npc select
-[16:18:46] [Server thread/INFO]: hiemnguyno issued server command: /npc del
-[16:18:51] [Server thread/INFO]: blacksniper2705 issued server command: /npc delete
-[16:18:55] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> à dell có/[m
-
-[16:18:58] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> npc remove[m
-
-[16:19:00] [Server thread/INFO]: blacksniper2705 issued server command: /npc2 despawn
-[16:19:02] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> r[m
-
-[16:19:03] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> remove r[m
-
-[16:19:07] [Server thread/INFO]: blacksniper2705 issued server command: /tp ThanhVNHC
-[16:19:07] [Server thread/WARN]: blacksniper2705 moved too quickly! 20.073051933870474,-13.601121246548026,2.4110907504568786
-[16:19:08] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> nhìn sux vcl[m
-
-[16:19:08] [Server thread/INFO]: ThanhVNHC issued server command: /npc
-[16:19:14] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:19:26] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> hầm j đây[m
-
-[16:19:30] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> dungeon đấy ;v[m
-
-[16:19:30] [Server thread/INFO]: blacksniper2705 issued server command: /gm 3
-[16:19:35] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> đẹp[m
-
-[16:19:38] [Server thread/INFO]: blacksniper2705 issued server command: /tpa hiemnguyno
-[16:19:40] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> chua xong ;v[m
-
-[16:19:42] [Server thread/INFO]: blacksniper2705 issued server command: /tp hiemnguyno
-[16:19:42] [Server thread/WARN]: blacksniper2705 moved too quickly! -38.32334560018438,63.88557477417666,26.88324946944779
-[16:19:43] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> tp đi v;[m
-
-[16:19:45] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> tpa cc ;v[m
-
-[16:19:47] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:19:53] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:19:54] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> chorus block k :v?[m
-
-[16:19:59] [Server thread/INFO]: ThanhVNHC issued server command: /tp
-[16:20:01] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> kệ để nó suffer đi :v[m
-
-[16:20:02] [Server thread/INFO]: ThanhVNHC issued server command: /tp hiemnguyno
-[16:20:06] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ;v[m
-
-[16:20:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ko cần block v;[m
-
-[16:20:11] [Server thread/INFO]: ThanhVNHC issued server command: /tp hiemnguyno
-[16:20:19] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> vì có chorus dell =))[m
-
-[16:20:19] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> k biết chống chorus thì chịu :v[m
-
-[16:20:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> vc[m
-
-[16:20:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> t tắt mẹ end r =))[m
-
-[16:20:26] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> vl :))[m
-
-[16:20:34] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> chorus[m
-
-[16:20:35] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> chorus hộ =))))))))[m
-
-[16:20:36] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> la2 đồ[m
-
-[16:20:38] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> donate :v[m
-
-[16:20:41] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> :)))[m
-
-[16:20:42] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> kiếm money :v[m
-
-[16:20:45] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> vc ;v[m
-
-[16:20:53] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v?[m
-
-[16:20:56] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> hay mak :v[m
-
-[16:20:59] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> t tính làm theo dạng cốt truyện ;v[m
-
-[16:21:21] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:21:26] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> dell có sinh tồn đập block đâu ;v[m
-
-[16:21:33] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ẹc :v?[m
-
-[16:21:42] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> dùng gậy chưởng nhau thoi ;v[m
-
-[16:21:49] [Server thread/INFO]: ThanhVNHC issued server command: /gamemode 1
-[16:21:51] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> v phải nhiều sv :v[m
-
-[16:21:57] [Server thread/INFO]: ThanhVNHC issued server command: /gm 1
-[16:21:58] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> world ;v[m
-
-[16:22:03] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> chu71 cốt truyện chơi 1 lần là bỏ :v[m
-
-[16:22:05] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ừ world[m
-
-[16:22:06] [Server thread/INFO]: ThanhVNHC issued server command: /tphere hiemnguyno
-[16:22:09] [Server thread/INFO]: ThanhVNHC issued server command: /gm 1 hiemnguyno
-[16:22:16] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> lầu xanh ý =))[m
-
-[16:22:17] [Server thread/INFO]: blacksniper2705 issued server command: /god hiemnguyno
-[16:22:17] [Server thread/INFO]: ThanhVNHC issued server command: /godmode hiemnguyno off
-[16:22:18] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:22:19] [Server thread/INFO]: hiemnguyno issued server command: /gpod
-[16:22:20] [Server thread/INFO]: hiemnguyno issued server command: /god
-[16:22:22] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> dit[m
-
-[16:22:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:22:25] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> kiếm ra r à =))[m
-
-[16:22:26] [Server thread/INFO]: ThanhVNHC issued server command: /tphere hiemnguyno
-[16:22:28] [Server thread/INFO]: ThanhVNHC issued server command: /gm 1 hiemnguyno
-[16:22:31] [Server thread/INFO]: hiemnguyno issued server command: /god
-[16:22:32] [Server thread/INFO]: ThanhVNHC issued server command: /tp hiemnguyno
-[16:22:33] [Server thread/INFO]: hiemnguyno issued server command: /god
-[16:22:35] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:22:41] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> j thế =))[m
-
-[16:22:47] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:22:48] [Server thread/INFO]: ThanhVNHC issued server command: /tp hiemnguyno
-[16:22:49] [Server thread/INFO]: ThanhVNHC issued server command: /gm 1 hiemnguyno
-[16:22:50] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:22:51] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:22:51] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:22:53] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:22:55] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:22:56] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> cc[m
-
-[16:22:57] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:22:58] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:22:59] [Server thread/INFO]: hiemnguyno issued server command: /tp blac
-[16:23:00] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> ahahaah[m
-
-[16:23:05] [Server thread/INFO]: ThanhVNHC issued server command: /gm 0 hiemnguyno
-[16:23:05] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:23:06] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:23:08] [Server thread/INFO]: blacksniper2705 issued server command: /gamemode 0 hiemnguyno
-[16:23:08] [Server thread/INFO]: ThanhVNHC issued server command: /tp hiemnguyno
-[16:23:08] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:23:09] [Server thread/INFO]: blacksniper2705 issued server command: /god hiemnguyno
-[16:23:11] [Server thread/INFO]: ThanhVNHC issued server command: /gm 1 hiemnguyno
-[16:23:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> :))[m
-
-[16:23:12] [Server thread/INFO]: ThanhVNHC issued server command: /tp hiemnguyno
-[16:23:15] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :|[m
-
-[16:23:16] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> cka ;v[m
-
-[16:23:17] [Server thread/INFO]: hiemnguyno issued server command: /god
-[16:23:23] [Server thread/INFO]: blacksniper2705 issued server command: /spawn
-[16:23:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :V[m
-
-[16:23:31] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:23:32] [Server thread/INFO]: hiemnguyno issued server command: /od
-[16:23:34] [Server thread/INFO]: blacksniper2705 issued server command: /gm 1
-[16:23:35] [Server thread/INFO]: hiemnguyno issued server command: /god
-[16:23:44] [Server thread/INFO]: ThanhVNHC issued server command: /flyspeed 3
-[16:23:48] [Server thread/INFO]: ThanhVNHC issued server command: /flyspeed 10
-[16:23:52] [Server thread/INFO]: ThanhVNHC issued server command: /flyspeed 5
-[16:23:54] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> con rồng xịn nhất quả đất =))[m
-
-[16:23:55] [Server thread/INFO]: ThanhVNHC issued server command: /flyspeed 3
-[16:23:59] [Server thread/INFO]: blacksniper2705 issued server command: /tp hiemnguyno
-[16:24:03] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> vl :))[m
-
-[16:24:08] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:24:17] [Server thread/INFO]: ThanhVNHC issued server command: /flyspeed 3
-[16:24:22] [Server thread/INFO]: ThanhVNHC issued server command: /flyspeed 1
-[16:24:24] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> hiemnguyno[m
-
-[16:24:27] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> sao man ;v[m
-
-[16:24:35] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> ông làm hướng dẫn viên du lịch[m
-
-[16:24:39] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ;v[m
-
-[16:24:42] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> uk đúng r đó :v[m
-
-[16:24:43] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> cho tụi tui ik :v[m
-
-[16:24:51] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> giới thiệu qua các building coi :v[m
-
-[16:24:54] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> wellcome to lầu xanh ??:)[m
-
-[16:25:03] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ý là đi vòng vòng[m
-
-[16:25:03] [Server thread/INFO]: hiemnguyno issued server command: /gm 1
-[16:25:07] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> thích gm mấy =))[m
-
-[16:25:09] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> chi3 xem building nào[m
-
-[16:25:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> làm j[m
-
-[16:25:14] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> gm 3 đi[m
-
-[16:25:16] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> cho nhanh[m
-
-[16:25:18] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[16:25:31] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> này là k phải faction phải k[m
-
-[16:25:35] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ừa ;v[m
-
-[16:25:45] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> faction + cái plg này lag tung loz ;v[m
-
-[16:25:53] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> mix cái faction của tui vô[m
-
-[16:25:53] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> mix cái faction của tui vô[m
-
-[16:25:54] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> mix cái faction của tui vô[m
-
-[16:25:59] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> lag lắm ;v[m
-
-[16:26:07] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> máy tui lag :v[m
-
-[16:26:09] [Server thread/INFO]: ThanhVNHC issued server command: /gamemode 1
-[16:26:10] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> k phải ông lag ":v[m
-
-[16:26:16] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> sv lag ng chơi lag ;v[m
-
-[16:26:19] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:26:24] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> sao lag :|[m
-
-[16:26:34] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ko tin ông đi chơi 1 sv lỏm đi[m
-
-[16:26:46] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> khi nào test[m
-
-[16:26:47] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> đợi tốc độ nó dowload thông tin về mấy hết giờ[m
-
-[16:26:48] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> dm[m
-
-[16:26:52] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> giới thiệu coi[m
-
-[16:27:01] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> thấy hết r =))[m
-
-[16:27:04] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ông tính cốt truyện thế nào ?[m
-
-[16:27:07] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> giởi thiệu j nữa :))[m
-
-[16:27:13] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ông có coi anime ko =))[m
-
-[16:27:18] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> thấy nhưng k hiểu mục đích[m
-
-[16:27:20] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> k ;v[m
-
-[16:27:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> bru hv;[m
-
-[16:27:36] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> warp pvp nhìn là biết r nhỉ ;v[m
-
-[16:27:41] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> uh :v[m
-
-[16:27:49] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> t nghĩ khu này làm khu kinh đô thôi ;v[m
-
-[16:27:50] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> giải cứu công chúa :| ?[m
-
-[16:27:53] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :))[m
-
-[16:27:58] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> chịch công chúa thì dc[m
-
-[16:28:02] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> chứ giải cứu j :)[m
-
-[16:28:15] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> v[m
-
-[16:28:19] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> sv có kiếm tiền k v :v[m
-
-[16:28:19] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> t thề là cài warp trade[m
-
-[16:28:30] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> nhìn như hạch[m
-
-[16:28:34] [Server thread/INFO]: blacksniper2705 issued server command: /tp hiemnguyno
-[16:28:37] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:43] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> do nó là thứ dc build đầu tiên trong sv ;v[m
-
-[16:28:50] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:51] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:28:53] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:54] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:54] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:55] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:55] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:56] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:28:56] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :|[m
-
-[16:28:59] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :V[m
-
-[16:29:01] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ;v[m
-
-[16:29:08] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ông đang spam chat t đấy :))[m
-
-[16:29:56] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:56] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:56] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:29:56] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:57] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:57] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:57] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:29:57] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:58] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:58] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:29:58] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:59] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:29:59] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:59] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:29:59] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:00] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:00] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:00] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:30:01] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:01] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:30:01] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:01] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:01] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:30:02] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:02] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:30:02] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:02] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:03] [Server thread/INFO]: ThanhVNHC issued server command: /msg hiemnguyno cô cúcccccc
-[16:30:03] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> co1 anti spam r[m
-
-[16:30:03] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:03] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:04] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:04] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:04] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:05] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> cc[m
-
-[16:30:06] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:06] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:06] [Server thread/INFO]: blacksniper2705 issued server command: /msg hiemnguyno cocucccccc
-[16:30:07] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:30:08] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> cc[m
-
-[16:30:12] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> thoải mái con gà mái ;))[m
-
-[16:30:18] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> wurst hack à[m
-
-[16:30:19] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ban[m
-
-[16:30:21] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> =))[m
-
-[16:30:22] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ban chetme owner[m
-
-[16:30:26] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> =)))[m
-
-[16:30:33] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> coi cốt truyện ko[m
-
-[16:30:37] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> ok[m
-
-[16:30:39] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> đưa link mail[m
-
-[16:30:40] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> giới thiệu đi[m
-
-[16:30:45] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> 2 ông phụ t cốt truyện với[m
-
-[16:30:50] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> t ngu văn từ nhỏ[m
-
-[16:30:54] [Server thread/INFO]: ThanhVNHC issued server command: /godmode blacksniper2705 off
-[16:30:55] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> đạo đức giả từ trứng ;v[m
-
-[16:31:02] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:31:05] [Server thread/INFO]: blacksniper2705 issued server command: /god
-[16:31:14] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> lap65 group fb[m
-
-[16:31:15] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> gui763 đi[m
-
-[16:31:18] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> mail ;v[m
-
-[16:31:20] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> 2 admin[m
-
-[16:31:22] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> GIMME MAIL v;[m
-
-[16:31:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> 1 owner :v[m
-
-[16:31:25] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ok ;v[m
-
-[16:31:26] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> fb dc k ;v[m
-
-[16:31:29] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> dc ;v[m
-
-[16:31:32] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> tạo group đi[m
-
-[16:31:38] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> báo trc nhé[m
-
-[16:31:44] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> mem hỏi sv có owner ko[m
-
-[16:31:49] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ai chủ thì bảo dell nhé[m
-
-[16:31:57] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> nó spam fb thì anloz[m
-
-[16:32:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> kiểu anh ơi cho em đò đi[m
-
-[16:32:20] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ko cho thì bảo djtme thk keo kiệt ad như cak[m
-
-[16:32:21] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> :))[m
-
-[16:33:00] [Server thread/INFO]: blacksniper2705 issued server command: /kill ThanhVNHC
-[16:33:00] [Server thread/INFO]: ThanhVNHC died
-[16:33:02] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ;v[m
-
-[16:33:08] [Server thread/INFO]: ThanhVNHC issued server command: /gm 3
-[16:33:09] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:33:10] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> cac[m
-
-[16:33:16] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ko phải t ..-..[m
-
-[16:33:18] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:33:26] [Server thread/INFO]: ThanhVNHC issued server command: /gm 1
-[16:33:40] [Server thread/INFO]: blacksniper2705 issued server command: /gm 3
-[16:33:41] [Server thread/INFO]: ThanhVNHC issued server command: /godmode blacksniper2705 off
-[16:33:46] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:33:49] [Server thread/INFO]: hiemnguyno issued server command: /vanish
-[16:33:51] [Server thread/INFO]: ThanhVNHC issued server command: /v
-[16:33:52] [Server thread/INFO]: hiemnguyno issued server command: /vanish
-[16:33:53] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ;v[m
-
-[16:33:59] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> tui cũng thấy ;v[m
-
-[16:34:04] [Async Chat Thread - #6/INFO]: [m<[0;31;22mhiemnguyno[m> ừ ;v[m
-
-[16:34:05] [Server thread/INFO]: blacksniper2705 issued server command: /helpop chat admin nek :v
-[16:34:05] [Server thread/INFO]: §4[HelpOp]§r §6§4blacksniper2705§r:§r chat admin nek :v
-[16:34:06] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:34:07] [Server thread/INFO]: blacksniper2705 issued server command: /helpop chat admin nek :v
-[16:34:07] [Server thread/INFO]: §4[HelpOp]§r §6§4blacksniper2705§r:§r chat admin nek :v
-[16:34:08] [Server thread/INFO]: blacksniper2705 issued server command: /helpop chat admin nek :v
-[16:34:08] [Server thread/INFO]: §4[HelpOp]§r §6§4blacksniper2705§r:§r chat admin nek :v
-[16:34:08] [Server thread/INFO]: blacksniper2705 issued server command: /helpop chat admin nek :v
-[16:34:08] [Server thread/INFO]: §4[HelpOp]§r §6§4blacksniper2705§r:§r chat admin nek :v
-[16:34:18] [Server thread/INFO]: hiemnguyno issued server command: /helpop ? ;v
-[16:34:18] [Server thread/INFO]: §4[HelpOp]§r §6§4hiemnguyno§r:§r ? ;v
-[16:34:27] [Server thread/INFO]: ThanhVNHC issued server command: /nickname ThanhVNHC CôCúccc
-[16:34:29] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~CôCúccc[m> :|[m
-
-[16:34:35] [Server thread/INFO]: hiemnguyno issued server command: /nick dpuoi
-[16:34:36] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~CôCúccc[m> nói gì đấy[m
-
-[16:34:36] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~dpuoi[m> ;[m
-
-[16:34:45] [Server thread/INFO]: hiemnguyno issued server command: /nick ThanhVNHC
-[16:34:48] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :|[m
-
-[16:34:48] [Server thread/INFO]: hiemnguyno issued server command: /nick ThanhVNHC.
-[16:34:50] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~ThanhVNHC.[m> =))[m
-
-[16:34:56] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~CôCúccc[m> :|[m
-
-[16:35:07] [Server thread/INFO]: blacksniper2705 issued server command: /nickname blacksniper2705 Bow :|
-[16:35:09] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Bow[m> :|[m
-
-[16:35:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~ThanhVNHC.[m> t là thành =))[m
-
-[16:35:15] [Server thread/INFO]: ThanhVNHC issued server command: /nickname ThanhVNHC Snykkk
-[16:35:17] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Snykkk[m> :|[m
-
-[16:35:22] [Server thread/INFO]: blacksniper2705 issued server command: /nickname blacksniper2705 hiemnguyno
-[16:35:24] [Server thread/INFO]: hiemnguyno issued server command: /nick Pikachubutlers
-[16:35:26] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Pikachubutlers[m> j ?v;[m
-
-[16:35:27] [Server thread/INFO]: blacksniper2705 issued server command: /nickname blacksniper2705 hiemnguyno
-[16:35:28] [Server thread/INFO]: ThanhVNHC issued server command: /nickname ThanhVNHC TrungDuc
-[16:35:30] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~TrungDuc[m> :)))[m
-
-[16:35:34] [Server thread/INFO]: blacksniper2705 issued server command: /nickname hiemnguyno
-[16:35:35] [Server thread/INFO]: blacksniper2705 issued server command: /nickname hiemnguyno
-[16:35:38] [Server thread/INFO]: hiemnguyno issued server command: /nick Akina2004
-[16:35:41] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Akina2004[m> ?:)[m
-
-[16:35:53] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Bow[m> :|[m
-
-[16:35:58] [Server thread/INFO]: blacksniper2705 issued server command: /nickname clear
-[16:36:00] [Server thread/INFO]: ThanhVNHC issued server command: /nickname clear
-[16:36:00] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~clear[m> :|[m
-
-[16:36:05] [Server thread/INFO]: blacksniper2705 issued server command: /nickname
-[16:36:07] [Server thread/INFO]: ThanhVNHC issued server command: /nickname ThanhVNHC
-[16:36:09] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> :|[m
-
-[16:36:15] [Server thread/INFO]: blacksniper2705 issued server command: /nickname blacksniper2705 hiemnguyno
-[16:36:19] [Server thread/INFO]: blacksniper2705 issued server command: /nickname blacksniper2705 off
-[16:36:22] [Server thread/INFO]: hiemnguyno issued server command: /nick salamander
-[16:36:23] [Server thread/INFO]: blacksniper2705 issued server command: /tp ThanhVNHC
-[16:36:23] [Server thread/WARN]: blacksniper2705 moved too quickly! -90.39369404250579,-44.10541614366613,27.874677164734948
-[16:36:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~salamander[m> ? :v[m
-
-[16:36:33] [Server thread/INFO]: ThanhVNHC issued server command: /gm 1 blacksniper2705
-[16:36:34] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:36:43] [Server thread/INFO]: ThanhVNHC issued server command: /godmode blacksniper2705 off
-[16:36:57] [Server thread/INFO]: hiemnguyno issued server command: /nick Sam_Pro
-[16:36:58] [Server thread/INFO]: blacksniper2705 issued server command: /kill ThanhVNHC
-[16:36:58] [Server thread/INFO]: ThanhVNHC died
-[16:37:02] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Sam_Pro[m> ko nhớ cho lắm ;v[m
-
-[16:37:08] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:37:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> sampvp[m
-
-[16:37:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> 123 :v[m
-
-[16:37:17] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> :v[m
-
-[16:37:21] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Sam_Pro[m> pvp khác ;v[m
-
-[16:37:23] [Server thread/INFO]: ThanhVNHC issued server command: /clear
-[16:37:25] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Sam_Pro[m> 2 đứa khác nhau ;v[m
-
-[16:37:25] [Async Chat Thread - #6/INFO]: [m<[0;31;22mblacksniper2705[m> à[m
-
-[16:37:32] [Server thread/INFO]: blacksniper2705 issued server command: /nickname KnoxUni
-[16:37:38] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> SamSung[m
-
-[16:37:41] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Sam_Pro[m> = ))[m
-
-[16:37:43] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni[m> fac mấy chú tuoilon vs Knox[m
-
-[16:37:45] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Sam_Pro[m> gửi t gmail đi thành[m
-
-[16:37:47] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Sam_Pro[m> =)))))[m
-
-[16:37:48] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni[m> fac mấy chú tuoilon vs Knox[m
-
-[16:37:55] [Server thread/INFO]: hiemnguyno issued server command: /nick KnoxUni2
-[16:37:57] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> =))[m
-
-[16:37:57] [Async Chat Thread - #6/INFO]: [m<[0;31;22mThanhVNHC[m> letruongvinhthanh@gmail.com[m
-
-[16:37:59] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> dma8 ba +))[m
-
-[16:38:11] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni[m> ây hiemnguyno[m
-
-[16:38:19] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni[m> ông tính cho chúng nó cày quốc thế nào[m
-
-[16:38:20] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> sao man ;v[m
-
-[16:38:30] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> chưa nghĩ đến ;v[m
-
-[16:38:33] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[16:38:40] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> giết quái ? /v;[m
-
-[16:38:43] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> def thành ? ;v[m
-
-[16:39:02] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> ko phải thành này mà là tower ý =))[m
-
-[16:39:04] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni[m> thường thì phải có cày quốc survival mới có tiền chạy máy vpn[m
-
-[16:39:13] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> yep[m
-
-[16:39:20] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> 1 số skill[m
-
-[16:39:23] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~KnoxUni2[m> donate =))[m
-
-[16:40:27] [Server thread/INFO]: blacksniper2705 issued server command: /clear ThanhVNHC
-[16:40:48] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> hiemnguyno đâu r[m
-
-[16:40:51] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni2[m> nè ;v[m
-
-[16:41:10] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni2[m> t mới share phần cốt truyện r[m
-
-[16:41:15] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> ok[m
-
-[16:41:16] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni2[m> hmm[m
-
-[16:41:16] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[16:41:21] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:41:24] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni2[m> mỗi quest ko thì nhọc lắm[m
-
-[16:41:33] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> hmm[m
-
-[16:41:42] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni2[m> nan giải ;v[m
-
-[16:41:43] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> từ từ[m
-
-[16:41:45] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> đợi[m
-
-[16:41:48] [Server thread/INFO]: ThanhVNHC issued server command: /godmode blacksniper2705 off
-[16:41:49] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> hỏi lại pháp[m
-
-[16:41:54] [Server thread/INFO]: blacksniper2705 issued server command: /effect cklear
-[16:41:56] [Server thread/INFO]: blacksniper2705 issued server command: /kill ThanhVNHC
-[16:41:56] [Server thread/INFO]: ThanhVNHC died
-[16:42:01] [Server thread/INFO]: blacksniper2705 issued server command: /effect clear
-[16:42:01] [Server thread/INFO]: [blacksniper2705: Removed every effect from blacksniper2705]
-[16:42:09] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni[m> k hiểu ý ông lắm[m
-
-[16:42:44] [Async Chat Thread - #7/INFO]: [m<[0;31;22m~KnoxUni2[m> đọc xong phần đầu cốt truyện chưa[m
-
-[16:44:01] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> đọc r :v[m
-
-[16:44:32] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> là sao :v[m
-
-[16:44:39] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> hmm[m
-
-[16:44:45] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> ông cho người chơi cày quốc[m
-
-[16:44:47] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> kiếm tiền[m
-
-[16:45:00] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> r đi raid lại đất cũ :v?[m
-
-[16:45:07] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> bây giờ tính kiểu sơ sơ là sẽ có 2 team đối lập[m
-
-[16:45:15] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> gồm wizard and dark wizard[m
-
-[16:45:32] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> wizard v.s. witch :V?[m
-
-[16:45:37] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> yea[m
-
-[16:45:38] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> :v[m
-
-[16:45:55] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ban đâu main ( ng chơi ) té ghế chết chuyển sinh xe tông chết chuyển sinh lạc trôi hay j đó bla bla[m
-
-[16:46:09] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> tới world này[m
-
-[16:46:22] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> r ban đầu là trung lap965[m
-
-[16:46:27] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> theo phe tốt trc[m
-
-[16:46:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> nhưng trong quest sẽ có drama[m
-
-[16:46:46] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> và sẽ có 1 nhánh[m
-
-[16:47:03] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ai ghét team tốt do trogn tốt cũng có 1 số loại cẩu[m
-
-[16:47:11] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> r chuyển thành witch[m
-
-[16:47:26] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> tính mới tới đó ;v[m
-
-[16:47:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> lập document đi[m
-
-[16:47:41] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> cho dễ hiểu combo dễ nhớ[m
-
-[16:47:42] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> do tập chung vào skill[m
-
-[16:47:44] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> :v[m
-
-[16:47:59] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> nên chưa biết phần cày là cày j đây[m
-
-[16:48:03] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> v có cho nó tự survival để kiếm đồ choạng nhau k ?[m
-
-[16:48:11] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ko lỗi lắm ;v[m
-
-[16:48:16] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cái này + survival bá vcl v;[m
-
-[16:48:33] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> coi nè[m
-
-[16:48:34] [Server thread/INFO]: hiemnguyno issued server command: /gm 1
-[16:48:35] [Server thread/INFO]: hiemnguyno issued server command: /wand
-[16:48:40] [Server thread/INFO]: hiemnguyno issued server command: /wand blast
-[16:48:45] [Server thread/INFO]: hiemnguyno issued server command: /wand add blast
-[16:48:56] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> vứt tui 1 cây :v[m
-
-[16:48:56] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> dm mana[m
-
-[16:49:00] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> dùng lệnh j v[m
-
-[16:49:02] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cái này sida r[m
-
-[16:49:08] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> này cấp yếu[m
-
-[16:49:10] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> skill có cấp[m
-
-[16:49:19] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> skill là phải add = cmd[m
-
-[16:49:28] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> how :v[m
-
-[16:49:38] [Server thread/INFO]: CONSOLE issued server command: /bc hiemnguyno skill sida
-[16:49:41] [Server thread/INFO]: hiemnguyno issued server command: /wand add blast|4
-[16:49:45] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cái này sida ko ? ;[m
-
-[16:49:47] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> nhìn nè[m
-
-[16:49:53] [Server thread/WARN]: ThanhVNHC moved too quickly! -32.87530945780057,-2.024424088213692,2.5291645084708847
-[16:49:54] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> ditconme :|[m
-
-[16:49:56] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ? ?[m
-
-[16:50:00] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cái này là bthg nhá[m
-
-[16:50:03] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> đợi tí[m
-
-[16:50:09] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> nó auto hồi à[m
-
-[16:50:21] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> hiemnguyno[m
-
-[16:50:23] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[16:50:30] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> đù[m
-
-[16:50:30] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> sao ? ;v[m
-
-[16:50:32] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> cho coi lại[m
-
-[16:50:32] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> hay vc[m
-
-[16:50:40] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> plugin ông làm ?[m
-
-[16:50:45] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> hợp tác[m
-
-[16:50:49] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> hay vc[m
-
-[16:50:49] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> giờ thành plg mở mẹ r[m
-
-[16:50:50] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> again :v[m
-
-[16:50:56] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cái này skill cùi mà ;v[m
-
-[16:51:02] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> kaboom ez hơn :v[m
-
-[16:51:03] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> coi nè ;v[m
-
-[16:51:19] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> đợi t mò lại lệnh đã ;v[m
-
-[16:51:21] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> lâu quá r[m
-
-[16:51:22] [Server thread/WARN]: ThanhVNHC moved too quickly! -12.829195160995994,-0.16250013588330603,-3.7083491475099635
-[16:51:24] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> piku thích cái này lắm[m
-
-[16:51:35] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> piku bay màu :v?[m
-
-[16:51:41] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> u72[m
-
-[16:51:44] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> nên chưa phụ dc[m
-
-[16:51:48] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[16:51:52] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> ket5 cmnr[m
-
-[16:51:54] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ;v[m
-
-[16:51:56] [Server thread/INFO]: blacksniper2705 issued server command: /top
-[16:52:10] [Server thread/INFO]: hiemnguyno issued server command: /wand uprade
-[16:52:14] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:15] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:16] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:16] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:18] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:18] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:18] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:21] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:21] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:21] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:22] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:22] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:22] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:22] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[16:52:23] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:24] [Server thread/INFO]: hiemnguyno issued server command: /wand enchantt
-[16:52:25] [Server thread/INFO]: hiemnguyno issued server command: /wand enchantt
-[16:52:38] [Server thread/INFO]: blacksniper2705 issued server command: /invsee hiemnguyno
-[16:52:50] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:50] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:52] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:52] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:53] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:54] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:54] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:55] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:55] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:56] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:56] [Server thread/INFO]: blacksniper2705 issued server command: /invsee ThanhVNHC
-[16:52:56] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:57] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:59] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:52:59] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:00] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:00] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:02] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:03] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:08] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> nó còn có từng skin riêng[m
-
-[16:53:11] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:12] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:12] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:13] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:14] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:14] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:14] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> sao invsee[m
-
-[16:53:15] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:15] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:16] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:16] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:18] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:18] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:20] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> k nhét đồ hay lấy đồ dc[m
-
-[16:53:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:21] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:21] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:22] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:22] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:23] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:24] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:24] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:25] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:25] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:27] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:28] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:28] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:29] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:29] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ông ko sài max skill của t dc đâu ;v[m
-
-[16:53:41] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> do skill theo player mà ;v[m
-
-[16:53:44] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ko theo wand ;v[m
-
-[16:53:45] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:46] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:46] [Server thread/WARN]: ThanhVNHC moved too quickly! -0.8209697220572139,-3.3680968600179995,-14.52734846597032
-[16:53:47] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:47] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:48] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:48] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:49] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:49] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> dm[m
-
-[16:53:50] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:50] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:51] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> làm file[m
-
-[16:53:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:52] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:53:56] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> instruction đi[m
-
-[16:54:02] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> admin còn k hiểu mod chạy thế nào[m
-
-[16:54:07] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> mem hỏi trả lời thế nào :v[m
-
-[16:54:15] [Server thread/INFO]: hiemnguyno issued server command: /mgive appearance_conduit
-[16:54:27] [Server thread/INFO]: blacksniper2705 issued server command: /pv 1
-[16:54:29] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> :v[m
-
-[16:54:33] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> t đang lục lại[m
-
-[16:54:37] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> để chỉ mấy ông sài ;v[m
-
-[16:54:39] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> chứ làm mẹ j ;v[m
-
-[16:54:42] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> v nó cày cuốc[m
-
-[16:54:46] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> lên wand[m
-
-[16:54:48] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> = cách nào[m
-
-[16:55:02] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> t đang nghĩ là nên làm menu up skill = lệnh[m
-
-[16:55:03] [Server thread/WARN]: ThanhVNHC moved too quickly! 1.7977765162839034,12.796304661986227,43.68837371841394
-[16:55:07] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> hay = trade đây này ;v[m
-
-[16:55:14] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> trade sợ loạn ;v[m
-
-[16:55:24] [Server thread/INFO]: hiemnguyno issued server command: /mgive appearance_claw
-[16:55:26] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> coi nè ;))[m
-
-[16:55:29] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> xịn ko :))[m
-
-[16:55:49] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> làm = cubik studio đó .-.[m
-
-[16:55:50] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> thấy j âu[m
-
-[16:55:57] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> có cái rsp ko thế ?[m
-
-[16:56:00] [Server thread/INFO]: ThanhVNHC issued server command: /clear ThanhVNHC
-[16:56:00] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> k :v[m
-
-[16:56:03] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cak ;v[m
-
-[16:56:12] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cái đi[m
-
-[16:56:15] [Server thread/INFO]: blacksniper2705 lost connection: Disconnected
-[16:56:15] [Server thread/INFO]: blacksniper2705 left the game
-[16:56:15] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ông có cài ko thành ?[m
-
-[16:56:20] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> :V[m
-
-[16:56:25] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> có[m
-
-[16:56:26] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> resourpack ý[m
-
-[16:56:31] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ngon nghẻ ko =))[m
-
-[16:56:34] [User Authenticator #5/INFO]: UUID of player blacksniper2705 is a2f2efd3-bca5-3863-9161-712789cbf098
-[16:56:34] [Server thread/INFO]: blacksniper2705[/25.103.221.93:50160] logged in with entity id 1049 at ([world]-173.13597490875028, 80.0, -111.84432414144055)
-[16:56:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> ngon vl ra[m
-
-[16:56:39] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:56:39] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:56:41] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> mỗi tội[m
-
-[16:56:43] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:56:45] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:56:47] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> adu[m
-
-[16:56:47] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:56:48] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:56:49] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> vlon[m
-
-[16:56:51] [Async Chat Thread - #8/INFO]: [m<[0;31;22mThanhVNHC[m> ứng dụng ntn[m
-
-[16:56:51] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> gậy[m
-
-[16:56:55] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> =))[m
-
-[16:57:02] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> mỗi gậy có skin riêng mà[m
-
-[16:57:08] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> hay vc[m
-
-[16:57:15] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> đợi t lục tí[m
-
-[16:57:17] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> à[m
-
-[16:57:33] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> bây h ứng dụng sao :v[m
-
-[16:57:33] [Server thread/INFO]: hiemnguyno issued server command: /mgive thanh wand
-[16:57:42] [Server thread/INFO]: hiemnguyno issued server command: /mgive black wand
-[16:57:45] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> cc[m
-
-[16:57:46] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> vứt cây ông cầm đi thành[m
-
-[16:57:51] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> thấy cái cây sida ko[m
-
-[16:57:53] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> éo làm fairytale đâu[m
-
-[16:57:57] [Server thread/INFO]: ThanhVNHC issued server command: /give blacksniper2705
-[16:57:58] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> spam /wand enchant[m
-
-[16:58:05] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> do lệnh max là j t quên mẹ r ;v[m
-
-[16:58:26] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> 1 số cái ko biết đừng dọc ngu nhé[m
-
-[16:58:31] [Server thread/INFO]: blacksniper2705 issued server command: /warp enchant
-[16:58:35] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[16:58:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> có mấy cái cho editor dùng[m
-
-[16:58:38] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[16:58:38] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[16:58:39] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[16:58:39] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[16:58:42] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> phá hỏng ko chỉnh lại dc đâu[m
-
-[16:58:44] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:58:44] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:58:46] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:58:47] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:58:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:58:52] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:58:54] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:59:11] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> chuột phải mở thanh skill[m
-
-[16:59:17] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> E để mở kho skill[m
-
-[16:59:22] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> sao k phá dc world như ông :v[m
-
-[16:59:24] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> chuột phải r mới E nhá[m
-
-[16:59:32] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> do nãy skill cấp cao[m
-
-[16:59:39] [Server thread/INFO]: ThanhVNHC issued server command: /tpa blacksniper2705
-[16:59:41] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:59:41] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[16:59:43] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[16:59:44] [Server thread/INFO]: ThanhVNHC issued server command: /tpacancel
-[16:59:50] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> skill này cấp yếu[m
-
-[16:59:59] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> enchant max chưa[m
-
-[17:00:00] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:00:00] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:00:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:00:05] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> enchant max sao[m
-
-[17:00:08] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:09] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:10] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> enchant max sao[m
-
-[17:00:10] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> enchant max sao[m
-
-[17:00:11] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> enchant max sao[m
-
-[17:00:12] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cứ spam wand enchant thôi =))[m
-
-[17:00:12] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:13] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:13] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:13] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:14] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:14] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:14] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:15] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:15] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:16] [Server thread/INFO]: blacksniper2705 issued server command: /
-[17:00:17] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> t quên lệnh max r =))[m
-
-[17:00:19] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:20] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:21] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:21] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:22] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:22] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:23] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:23] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:24] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:24] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:25] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:25] [Server thread/INFO]: ThanhVNHC issued server command: /wand enchant
-[17:00:25] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:26] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:26] [Server thread/INFO]: ThanhVNHC issued server command: /wand enchant
-[17:00:26] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:27] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:27] [Server thread/INFO]: ThanhVNHC issued server command: /wand enchant
-[17:00:27] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:27] [Server thread/INFO]: ThanhVNHC issued server command: /wand enchant
-[17:00:27] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:28] [Server thread/INFO]: ThanhVNHC issued server command: /wand enchant
-[17:00:28] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:28] [Server thread/INFO]: ThanhVNHC issued server command: /wand enchant
-[17:00:28] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:29] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:29] [Server thread/INFO]: ThanhVNHC issued server command: /wand enchant
-[17:00:29] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:30] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:31] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:31] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:31] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:32] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:32] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:33] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:33] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:34] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:34] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:35] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:35] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:36] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> tiếp đi v;[m
-
-[17:00:36] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:37] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:37] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:38] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:38] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:00:38] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:38] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:00:39] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:39] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:40] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:40] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:41] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:41] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:42] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:42] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:42] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:43] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> đó ;v[m
-
-[17:00:43] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:43] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:44] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> nè ;v[m
-
-[17:00:44] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:45] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:45] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:46] [Server thread/INFO]: blacksniper2705 issued server command: /wand enchant
-[17:00:46] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:00:59] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ? ;v[m
-
-[17:01:02] [Server thread/WARN]: ThanhVNHC moved too quickly! 2.9135526952875637,0.10096113632783954,-9.813322429576473
-[17:01:03] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cánh bướm =))[m
-
-[17:01:03] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:01:15] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> cc[m
-
-[17:01:16] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[17:01:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:01:19] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> cc[m
-
-[17:01:21] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[17:01:26] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> nó có hồi k :|[m
-
-[17:01:30] [Server thread/INFO]: hiemnguyno issued server command: /god ThanhVNHC
-[17:01:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> 1 số skill dell đâu[m
-
-[17:01:37] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> 1 số skill dell đâu[m
-
-[17:01:39] [Server thread/INFO]: hiemnguyno issued server command: /god ThanhVNHC
-[17:01:43] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> hồi nek[m
-
-[17:01:46] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> 1 số[m
-
-[17:01:57] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:01:58] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:01:58] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:01:59] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:01:59] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:02:05] [Server thread/INFO]: ThanhVNHC issued server command: /tp blacksniper2705
-[17:02:07] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> thế ms bảo pl này lag lắm[m
-
-[17:02:28] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> plugin hay vc[m
-
-[17:02:40] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> có thể sắp xếp skill ấy[m
-
-[17:02:59] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ấn Q lúc chuột phải r để cuộn thanh skill[m
-
-[17:03:02] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:18] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:20] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> ông[m
-
-[17:03:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:21] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> làm[m
-
-[17:03:22] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:22] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:23] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> document[m
-
-[17:03:24] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:26] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:26] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:27] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> google doc[m
-
-[17:03:27] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:28] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:30] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:30] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> gửi group[m
-
-[17:03:30] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:31] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:32] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:33] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:33] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:34] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:03:34] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> nói hồi quên[m
-
-[17:03:39] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> dễ mà ;[m
-
-[17:04:09] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> hmm[m
-
-[17:04:14] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> h áp dụng cho mem sao[m
-
-[17:04:20] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> thế ms nan giải[m
-
-[17:04:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:04:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:04:21] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:04:29] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> ông tính[m
-
-[17:04:31] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:04:33] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> cho chúng nó đánh nhau ?[m
-
-[17:04:34] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:04:37] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:04:39] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:04:55] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> có j ra đất trống mà test[m
-
-[17:04:59] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> 1 số skill dell hồi dc đâu[m
-
-[17:05:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:02] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:05] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> TU72 TƯ82[m
-
-[17:05:06] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:09] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> tui cẩn hiêu73[m
-
-[17:05:13] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> la mem cày[m
-
-[17:05:14] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> ntn[m
-
-[17:05:16] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:19] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> đang suy nghĩ[m
-
-[17:05:22] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> hmm[m
-
-[17:05:26] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> chả lẽ mỗi quái + exp[m
-
-[17:05:26] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> k có survival[m
-
-[17:05:27] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:29] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:31] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> kho1[m
-
-[17:05:35] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> quái vs exp[m
-
-[17:05:36] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> thành im re ;v[m
-
-[17:05:37] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:37] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:38] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:39] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:39] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:05:40] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> dễ chán[m
-
-[17:05:56] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> quái + quest cũng dễ chán[m
-
-[17:06:11] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> cho chúng nó đi quest vs nhau[m
-
-[17:06:16] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> mấy cái icon đẹp đẽ skill mấy ông thấy[m
-
-[17:06:20] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni[m> giựt đồ nhau[m
-
-[17:06:28] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> thật ra là mấy cái đồ kc thôi =))[m
-
-[17:06:29] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:06:29] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:06:44] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> rìu kc v;[m
-
-[17:06:45] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:06:45] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:06:48] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:06:49] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> dm ;v[m
-
-[17:06:54] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> đừng test trong này ;v[m
-
-[17:06:59] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~KnoxUni2[m> ra đất trống mà test ;v[m
-
-[17:07:08] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:07:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:07:53] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:07:54] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:07:55] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:08:06] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:08:21] [Async Chat Thread - #9/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[17:08:23] [Async Chat Thread - #9/INFO]: [m<[0;31;22m~KnoxUni2[m> hasagi ';v[m
-
-[17:08:26] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:08:30] [Async Chat Thread - #9/INFO]: [m<[0;31;22m~KnoxUni2[m> à nhầm skill v[m
-
-[17:08:32] [Async Chat Thread - #9/INFO]: [m<[0;31;22m~KnoxUni2[m> djt v;[m
-
-[17:08:33] [Server thread/INFO]: blacksniper2705 issued server command: /top
-[17:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5818ms or 116 ticks behind
-[17:10:03] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:03] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:04] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:04] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:04] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:05] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:05] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:06] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:06] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:07] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:07] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:07] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:24] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:36] [Server thread/INFO]: blacksniper2705 issued server command: /tp hiemnguyno blacksniper2705
-[17:10:47] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:47] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:47] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:49] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:49] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:50] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:53] [Async Chat Thread - #10/INFO]: [m<[0;31;22m~KnoxUni2[m> dm lag[m
-
-[17:10:53] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:54] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:56] [Async Chat Thread - #10/INFO]: [m<[0;31;22m~KnoxUni2[m> đừng[m
-
-[17:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5218ms or 104 ticks behind
-[17:10:58] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:10:58] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:00] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:02] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:02] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:04] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:04] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:05] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:06] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:09] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:09] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:10] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:14] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:14] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:15] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:11:16] [Async Chat Thread - #10/INFO]: [m<[0;31;22m~KnoxUni[m> lag[m
-
-[17:11:23] [Async Chat Thread - #10/INFO]: [m<[0;31;22m~KnoxUni[m> lag thật :v[m
-
-[17:11:34] [Server thread/WARN]: ThanhVNHC moved too quickly! 15.00551817184089,-1.0021082084554678,-2.9676537434444654
-[17:11:44] [Server thread/INFO]: hiemnguyno lost connection: Timed out
-[17:11:44] [Server thread/INFO]: hiemnguyno left the game
-[17:12:45] [User Authenticator #6/INFO]: UUID of player hiemnguyno is 4d5778fb-7865-3891-83ed-fd26e2cd5d1d
-[17:12:46] [Server thread/INFO]: hiemnguyno[/25.55.187.237:50271] logged in with entity id 2273 at ([world]-237.5, 72.0, -6.5)
-[17:13:08] [Server thread/INFO]: hiemnguyno issued server command: /gm 3
-[17:13:09] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:13:12] [Server thread/INFO]: hiemnguyno issued server command: /gm 1
-[17:13:27] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[17:13:35] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni2[m> hasagi ;v[m
-
-[17:13:35] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:13:35] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:13:44] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni[m> bây h k có survial[m
-
-[17:13:48] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:13:48] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni[m> thi2 n1o cày = cách nào khác[m
-
-[17:13:57] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni2[m> đang mệt chỗ đó[m
-
-[17:14:03] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni2[m> survi dễ lag nát lắm[m
-
-[17:14:06] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni2[m> nó spam là anloz[m
-
-[17:14:07] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:07] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:11] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:12] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:16] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~KnoxUni2[m> biết yasou ko v;[m
-
-[17:14:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:49] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:50] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:14:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:15:44] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[17:15:45] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> k[m
-
-[17:15:47] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> :|[m
-
-[17:16:31] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> ông ko có biết lol à ?[m
-
-[17:16:34] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:34] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:36] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> k chơi :v[m
-
-[17:16:38] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:38] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:39] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:39] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:40] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:40] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:41] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:41] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:44] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:44] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:45] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:47] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> biết nhưng k chơi :v[m
-
-[17:16:48] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> lag đó[m
-
-[17:16:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:51] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:54] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> cày sao ta[m
-
-[17:16:55] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:16:55] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> dm[m
-
-[17:17:03] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> t sẽ hạn chế 1 số skill gây lag[m
-
-[17:17:14] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> vd như skill loz này[m
-
-[17:17:18] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> coi nè[m
-
-[17:17:18] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> :v[m
-
-[17:17:20] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> vui mà :))[m
-
-[17:17:27] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> :)))[m
-
-[17:17:28] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> đẹp vl[m
-
-[17:17:29] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> lag ko ? ;v[m
-
-[17:17:32] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> khon6g :v[m
-
-[17:17:36] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> 95fps :v[m
-
-[17:17:46] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:17:46] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:00] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:00] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:11] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> coi lag ko nè ;v[m
-
-[17:18:12] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:12] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:13] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:26] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:27] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> 72fps :v[m
-
-[17:18:30] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> có tụt fps :v[m
-
-[17:18:37] [Server thread/INFO]: hiemnguyno issued server command: /wand add nuke|2
-[17:18:41] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> update nó đã =))[m
-
-[17:18:42] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> nhưng k lag :v[m
-
-[17:18:44] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> r ok ;))[m
-
-[17:18:45] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:45] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:46] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:18:57] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> ko lag lắm nhỉ ;v[m
-
-[17:19:02] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> 30fps :v[m
-
-[17:19:04] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> :v[m
-
-[17:19:06] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:19:20] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni[m> cho mem cày thế nào[m
-
-[17:19:23] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:19:28] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> hỏi thành thử xem ;v[m
-
-[17:19:29] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:19:29] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:19:30] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:19:31] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:19:37] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> ngoài quest ra ;v[m
-
-[17:19:37] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:19:44] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> quest chắc chắn có r ;v[m
-
-[17:20:00] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> săn boss ?V;[m
-
-[17:20:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:01] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:02] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:03] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:04] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:04] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:05] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:05] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:06] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:07] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:08] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:14] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~KnoxUni2[m> boss dùng dc mấy skill này nè =))[m
-
-[17:20:15] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:15] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:16] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:17] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:18] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:20:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:22:10] [Async Chat Thread - #13/INFO]: [m<[0;31;22m~KnoxUni[m> tui offf[m
-
-[17:22:14] [Async Chat Thread - #13/INFO]: [m<[0;31;22m~KnoxUni[m> phai3 đi ăn tối[m
-
-[17:22:16] [Async Chat Thread - #13/INFO]: [m<[0;31;22m~KnoxUni[m> tẹo lên[m
-
-[17:22:19] [Async Chat Thread - #13/INFO]: [m<[0;31;22m~KnoxUni2[m> đi đi ;v[m
-
-[17:22:20] [Server thread/INFO]: blacksniper2705 lost connection: Disconnected
-[17:22:20] [Server thread/INFO]: blacksniper2705 left the game
-[17:22:21] [Async Chat Thread - #13/INFO]: [m<[0;31;22m~KnoxUni2[m> à[m
-
-[17:22:23] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:22:24] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:22:37] [Server thread/INFO]: hiemnguyno issued server command: /wand add superkill
-[17:23:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:23:19] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:23:21] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:23:25] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:23:37] [Server thread/INFO]: hiemnguyno issued server command: /mgive hiemnguyno magicsword
-[17:24:03] [Server thread/INFO]: hiemnguyno issued server command: /mgive hiemnguyno magictorch
-[17:24:16] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:24:20] [Server thread/INFO]: hiemnguyno issued server command: /wand enchant
-[17:25:20] [Server thread/INFO]: hiemnguyno issued server command: /mgive hiemnguyno magichat
-[17:26:16] [Server thread/INFO]: hiemnguyno issued server command: /hat
-[17:26:24] [Server thread/INFO]: hiemnguyno issued server command: /hat
-[17:26:46] [Server thread/INFO]: hiemnguyno issued server command: /hat
-[17:26:54] [Server thread/INFO]: hiemnguyno issued server command: /ec
-[17:26:58] [Server thread/INFO]: hiemnguyno issued server command: /clear
-[17:27:04] [Server thread/INFO]: hiemnguyno issued server command: /hat
-[17:27:11] [Server thread/INFO]: hiemnguyno issued server command: /pv 2
-[17:27:21] [Server thread/INFO]: hiemnguyno issued server command: /mgive hiemnguyno magicitemshop
-[17:27:54] [Server thread/INFO]: hiemnguyno issued server command: /mgive masterattack
-[17:28:11] [Server thread/INFO]: hiemnguyno issued server command: /mgive mastersword
-[17:28:31] [Server thread/INFO]: hiemnguyno issued server command: /summon pig
-[17:28:31] [Server thread/INFO]: [hiemnguyno: Summoned new Pig]
-[18:26:38] [Server thread/INFO]: hiemnguyno issued server command: /tp ThanhVNHC
-[18:26:46] [Server thread/INFO]: hiemnguyno issued server command: /pv 2
-[18:26:48] [Server thread/INFO]: hiemnguyno issued server command: /ec
-[18:26:59] [Server thread/INFO]: hiemnguyno issued server command: /openinv ThanhVNHC
-[18:58:46] [Server thread/INFO]: CONSOLE issued server command: /bc :|
-[18:58:49] [Server thread/INFO]: CONSOLE issued server command: /bc co j hot :v
-[18:58:57] [Server thread/INFO]: Không Có Lệnh. Ghi "/huongdan" để biết thêm.[m
-
-[18:59:00] [Server thread/INFO]: CONSOLE issued server command: /list 
-[18:59:00] [Server thread/INFO]: [0;33;22mThere are [0;31;1m1[0;33;22m/[0;31;1m1[0;33;22m out of maximum [0;31;1m30[0;33;22m players online.[m
-
-[18:59:00] [Server thread/INFO]: [0;33;22mdefault[m: [0;37;22m[AFK][m[0;37;22m[HIDDEN][mThanhVNHC[0;37;1m, [0;37;22m[AFK][m[0;31;22m~KnoxUni2[m[0;37;1m[m
-
-[19:01:51] [Server thread/INFO]: Stopping the server
-[19:01:51] [Server thread/INFO]: Stopping server
-[19:01:51] [Server thread/INFO]: [Magic] Disabling Magic v7.9.10-578c6b8
-[19:01:51] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
-[19:01:51] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.1.3
-[19:01:51] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.17.2.0
-[19:01:51] [Server thread/INFO]: [ArmorStandTools] Disabling ArmorStandTools v3.5.1
-[19:01:51] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
-[19:01:51] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[19:01:51] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
-[19:01:51] [pool-29-thread-1/INFO]: 
-[19:01:51] [Server thread/INFO]: [BossShopPro] Disabling BossShopPro v2.0.8
-[19:01:51] [Server thread/INFO]: [BossShopPro] Disabling... bye!
-[19:01:51] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.9.2
-[19:01:51] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.26-SNAPSHOT (build 1854)
-[19:01:51] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
-[19:01:51] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[19:01:51] [Server thread/INFO]: [CommandSpy] Disabling CommandSpy v1.4
-[19:01:51] [Server thread/INFO]: [KiteBoard] Disabling KiteBoard v3.0.8
-[19:01:51] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
-[19:01:51] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[19:01:51] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.1
-[19:01:51] [Server thread/INFO]: [PluginManager] Disabling PluginManager v1.3
-[19:01:51] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;31;1mDISABLED[m
-
-[19:01:51] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.5
-[19:01:51] [Server thread/INFO]: [GPS] Disabling GPS v2.18.2
-[19:01:51] [Server thread/INFO]: [SimpleBossBar] Disabling SimpleBossBar v0.1.4
-[19:01:51] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
-[19:01:51] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[19:01:51] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[19:01:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.2
-[19:01:51] [Server thread/INFO]: [NoPlugins] Disabling NoPlugins v7.2
-[19:01:51] [Server thread/INFO]: [NoPlugins] disabled.
-[19:01:51] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.116
-[19:01:51] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:01:51] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:01:51] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:01:51] [Server thread/INFO]: Saving players
-[19:01:51] [Server thread/INFO]: ThanhVNHC lost connection: Server Đã Đóng
-[19:01:51] [Server thread/INFO]: ThanhVNHC left the game
-[19:01:51] [Server thread/INFO]: hiemnguyno lost connection: Server Đã Đóng
-[19:01:51] [Server thread/INFO]: hiemnguyno left the game
-[19:01:51] [Server thread/INFO]: Saving worlds
-[19:01:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:01:52] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[19:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:15:00] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:15:00] [Server thread/INFO]: Loading properties
+[20:15:01] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-800b93f-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[20:15:01] [Server thread/INFO]: Debug logging is disabled
+[20:15:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[20:15:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:15:01] [Server thread/INFO]: Default game type: SURVIVAL
+[20:15:01] [Server thread/INFO]: Generating keypair
+[20:15:01] [Server thread/INFO]: Starting Minecraft server on 25.103.221.93:25567
+[20:15:01] [Server thread/INFO]: Using default channel type
+[20:15:15] [Server thread/WARN]: Plugin SimpleBossBar v0.1.4 does not specify an api-version.
+[20:15:15] [Server thread/WARN]: Plugin CommandSpy v1.4 does not specify an api-version.
+[20:15:15] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.116
+[20:15:15] [Server thread/INFO]: [LuckPerms] It is safe to ignore any warning printed following this message starting with 'WARNING: An illegal reflective access operation has occurred, Illegal reflective access by me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader'.
+[20:15:15] [Server thread/INFO]: [LuckPerms] This is intended, and will not have any impact on the operation of LuckPerms.
+[20:15:15] [Server thread/INFO]: [NoPlugins] Loading NoPlugins v7.2
+[20:15:15] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.2
+[20:15:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[20:15:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@78e7b737]
+[20:15:16] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[20:15:16] [Server thread/INFO]: [SimpleBossBar] Loading SimpleBossBar v0.1.4
+[20:15:16] [Server thread/INFO]: [GPS] Loading GPS v2.18.2
+[20:15:16] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.5
+[20:15:16] [Server thread/INFO]: [PluginManager] Loading PluginManager v1.3
+[20:15:16] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.1
+[20:15:16] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[20:15:16] [Server thread/INFO]: [KiteBoard] Loading KiteBoard v3.0.8
+[20:15:16] [Server thread/INFO]: [CommandSpy] Loading CommandSpy v1.4
+[20:15:16] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[20:15:16] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.26-SNAPSHOT (build 1854)
+[20:15:16] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.9.2
+[20:15:16] [Server thread/INFO]: [Shopkeepers] Loading config.
+[20:15:16] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[20:15:16] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[20:15:16] [Server thread/INFO]: [BossShopPro] Loading BossShopPro v2.0.8
+[20:15:16] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[20:15:16] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[20:15:16] [Server thread/INFO]: [ArmorStandTools] Loading ArmorStandTools v3.5.1
+[20:15:16] [Server thread/INFO]: [ArmorStandTools] Registered custom WorldGuard flag: ast
+[20:15:16] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.2.0
+[20:15:16] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.1.3
+[20:15:16] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[20:15:16] [Server thread/INFO]: [Magic] Loading Magic v7.9.10-578c6b8
+[20:15:17] [Server thread/INFO]: [Magic] Found WorldGuard 7+
+[20:15:17] [Server thread/INFO]: [Magic] Pre-check for WorldGuard custom flag registration
+[20:15:17] [Server thread/INFO]: [Magic] Registered custom WorldGuard flags: allowed-spells, blocked-spells, allowed-spell-categories, blocked-spell-categories, allowed-wands, blocked-wands, spell-overrides, destructible, reflective, spawn-tags
+[20:15:17] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.116
+[20:15:17] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+
+[20:15:17] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.0.116[m
+
+[20:15:17] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+
+[20:15:17] [Server thread/INFO]: [m
+
+[20:15:17] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:15:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:15:18] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:15:18] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:15:18] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1227ms)
+[20:15:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[20:15:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:15:18] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[20:15:18] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:15:18] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[20:15:18] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[20:15:18] [Server thread/WARN]: [WorldEdit]   
+[20:15:18] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[20:15:18] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[20:15:18] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[20:15:18] [Server thread/WARN]: [WorldEdit]   
+[20:15:18] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[20:15:18] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[20:15:18] [Server thread/WARN]: [WorldEdit]   
+[20:15:18] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[20:15:18] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[20:15:18] [Server thread/WARN]: [WorldEdit]   
+[20:15:18] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[20:15:18] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:15:18] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[20:15:18] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[20:15:18] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:15:18] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[20:15:18] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[20:15:18] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:15:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:15:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:15:18] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[20:15:18] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[20:15:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:15:18] [Server thread/INFO]: Preparing level "world"
+[20:15:19] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:15:19] [Server thread/INFO]: Loaded 6 recipes
+[20:15:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:15:19] [Server thread/INFO]: View Distance: 10
+[20:15:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:15:19] [Server thread/INFO]: Item Merge Radius: 3.5
+[20:15:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:15:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:15:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:15:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:15:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:15:19] [Server thread/INFO]: Max TNT Explosions: 100
+[20:15:19] [Server thread/INFO]: Experience Merge Radius: 6.0
+[20:15:19] [Server thread/INFO]: Cactus Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Cane Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Melon Growth Modifier: 20%
+[20:15:19] [Server thread/INFO]: Mushroom Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Pumpkin Growth Modifier: 20%
+[20:15:19] [Server thread/INFO]: Sapling Growth Modifier: 30%
+[20:15:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Wheat Growth Modifier: 35%
+[20:15:19] [Server thread/INFO]: NetherWart Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Vine Growth Modifier: 30%
+[20:15:19] [Server thread/INFO]: Cocoa Growth Modifier: 30%
+[20:15:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Mob Spawn Range: 3
+[20:15:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:15:19] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 2 / Tiv true
+[20:15:19] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 1 Hopper Amount: 3
+[20:15:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:15:19] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:15:19] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:15:19] [Server thread/INFO]: View Distance: 10
+[20:15:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:15:19] [Server thread/INFO]: Item Merge Radius: 3.5
+[20:15:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:15:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:15:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:15:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:15:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:15:19] [Server thread/INFO]: Max TNT Explosions: 100
+[20:15:19] [Server thread/INFO]: Experience Merge Radius: 6.0
+[20:15:19] [Server thread/INFO]: Cactus Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Cane Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Melon Growth Modifier: 20%
+[20:15:19] [Server thread/INFO]: Mushroom Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Pumpkin Growth Modifier: 20%
+[20:15:19] [Server thread/INFO]: Sapling Growth Modifier: 30%
+[20:15:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Wheat Growth Modifier: 35%
+[20:15:19] [Server thread/INFO]: NetherWart Growth Modifier: 40%
+[20:15:19] [Server thread/INFO]: Vine Growth Modifier: 30%
+[20:15:19] [Server thread/INFO]: Cocoa Growth Modifier: 30%
+[20:15:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:15:19] [Server thread/INFO]: Mob Spawn Range: 3
+[20:15:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:15:19] [Server thread/INFO]: Entity Activation Range: An 6 / Mo 16 / Ra 48 / Mi 2 / Tiv true
+[20:15:19] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 1 Hopper Amount: 3
+[20:15:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:15:20] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[20:15:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:20] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:21] [Server thread/INFO]: Preparing spawn area: 56%
+[20:15:21] [Server thread/INFO]: Time elapsed: 1109 ms
+[20:15:21] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[20:15:21] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:21] [Server-Worker-2/INFO]: Preparing spawn area: 6%
+[20:15:22] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[20:15:22] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[20:15:23] [Server-Worker-6/INFO]: Preparing spawn area: 94%
+[20:15:23] [Server thread/INFO]: Time elapsed: 2208 ms
+[20:15:23] [Server thread/INFO]: [NoPlugins] Enabling NoPlugins v7.2
+[20:15:23] [Server thread/INFO]: [NoPlugins] Minecraft version: v1_15_R1
+[20:15:23] [Server thread/INFO]: [NoPlugins] --------------------------------
+[20:15:23] [Server thread/INFO]: [NoPlugins] New Version: 7.3
+[20:15:23] [Server thread/INFO]: [NoPlugins] Current Version: 7.2
+[20:15:23] [Server thread/INFO]: [NoPlugins] Download link: https://www.spigotmc.org/resources/12965
+[20:15:23] [Server thread/INFO]: [NoPlugins] This plugin is seriously recommended to update if you want to keep your plugins private.
+[20:15:23] [Server thread/INFO]: [NoPlugins] --------------------------------
+[20:15:23] [Server thread/INFO]: [NoPlugins] Successfully loaded.
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.2
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
+
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+
+[20:15:23] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_15_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] -------------------------/Warning\-------------------------
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] This plugin is running in Bungee mode!
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] You have to do all configuration at config file
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] inside your Bungeecord server.
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] (Bungeecord-Server/plugins/SkinsRestorer/).
+[20:15:23] [Server thread/INFO]: [SkinsRestorer] -------------------------\Warning/-------------------------
+[20:15:23] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[20:15:23] [Server thread/INFO]: [SimpleBossBar] Enabling SimpleBossBar v0.1.4
+[20:15:23] [Server thread/INFO]: [GPS] Enabling GPS v2.18.2
+[20:15:23] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.5
+[20:15:23] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:15:23] [Server thread/INFO]: [PluginManager] Enabling PluginManager v1.3
+[20:15:23] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;32;1mENABLED[m
+
+[20:15:23] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.1
+[20:15:23] [Server thread/INFO]: [KiteBoard] Enabling KiteBoard v3.0.8
+[20:15:23] [Server thread/INFO]: [KiteBoard] Loading scoreboard groups...
+[20:15:23] [Server thread/INFO]: [KiteBoard] Loading scoreboard group join_server.yml.
+[20:15:23] [Server thread/INFO]: [KiteBoard] Loading scoreboard group main_board.yml.
+[20:15:23] [Server thread/INFO]: [KiteBoard] Loading tablist groups...
+[20:15:23] [Server thread/INFO]: [KiteBoard] Loading tablist group main_tab.yml.
+[20:15:23] [Server thread/INFO]: [KiteBoard] Registering placeholder hook Player Placeholders.
+[20:15:23] [Server thread/INFO]: [KiteBoard] Registering placeholder hook Event Trigger.
+[20:15:23] [Server thread/INFO]: [KiteBoard] Registering placeholder hook Placeholder API.
+[20:15:23] [Server thread/INFO]: [KiteBoard] bStats metrics is enabled.
+[20:15:23] [Server thread/INFO]: [CommandSpy] Enabling CommandSpy v1.4
+[20:15:24] [Server thread/INFO]: [CommandSpy]: Failed to connect to metrics service
+
+[20:15:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[20:15:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[20:15:24] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:15:24] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.26-SNAPSHOT (build 1854)
+[20:15:24] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.9.2
+[20:15:24] [Server thread/INFO]: [Shopkeepers] Citizens found, enabling NPC shopkeepers.
+[20:15:25] [Server thread/INFO]: [BossShopPro] Enabling BossShopPro v2.0.8
+[20:15:25] [Server thread/INFO]: [BossShopPro] Loading data...
+[20:15:25] [Server thread/INFO]: [BossShopPro] Hooked into PlaceholderAPI.
+[20:15:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[20:15:25] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[20:15:25] [Server thread/INFO]: No kits found to migrate.
+[20:15:25] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[20:15:25] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[20:15:25] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[20:15:25] [Server thread/INFO]: Loaded 21018 items from items.json.
+[20:15:25] [Server thread/INFO]: Using locale en_US
+[20:15:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:15:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:15:25] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[20:15:25] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[20:15:25] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[20:15:25] [Server thread/INFO]: [ArmorStandTools] Enabling ArmorStandTools v3.5.1
+[20:15:25] [Server thread/INFO]: [ArmorStandTools] Loading support for v1_15_R1
+[20:15:25] [Server thread/INFO]: [ArmorStandTools] PlotSquared plugin not found. Continuing without PlotSquared support.
+[20:15:25] [Server thread/INFO]: [ArmorStandTools] WorldGuard plugin found. WorldGuard support enabled.
+[20:15:25] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.2.0
+[20:15:25] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.1.3
+[20:15:25] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[20:15:25] [Server thread/INFO]: [SuperVanish] Hooked into PlaceholderAPI
+[20:15:25] [Server thread/INFO]: [SuperVanish] Hooked into Citizens
+[20:15:25] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[20:15:25] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[20:15:25] [Server thread/INFO]: [Magic] Enabling Magic v7.9.10-578c6b8
+[20:15:25] [Server thread/INFO]: [Magic] EffectLib initialized
+[20:15:25] [Server thread/INFO]: [Magic]  Using compatibility configs: examples/1.15/config.yml
+[20:15:25] [Server thread/INFO]: [Magic]  Using compatibility configs: examples/1.15/config.yml
+[20:15:26] [Server thread/INFO]: [Magic]  Using compatibility configs: examples/1.15/items.yml
+[20:15:26] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[20:15:26] [Server thread/INFO]: [Magic] Skin-based spell icons disabled
+[20:15:26] [Server thread/INFO]: [Magic] Vault found, 'currency' cost types available
+[20:15:26] [Server thread/INFO]: [Magic] Loaded 0 attributes
+[20:15:26] [Server thread/INFO]: [Magic] Registered attributes: [health_max, bowpull, damage, damage_dealt, level, location_x, health, location_y, bowpower, moon, mana, location_z, xp, mana_max, time]
+[20:15:26] [Server thread/INFO]: [Magic] Registered currencies: item,mana,xp,health,currency,sp,levels,hunger
+[20:15:26] [Server thread/INFO]: [Magic] Loaded 6 effect lists
+[20:15:26] [Server thread/INFO]: [Magic] Loaded 398 items
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 449 spells
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 6 classes
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 1 classes
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 4 automata templates
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 12 progression paths
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 129 wands
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 22 mob templates
+[20:15:27] [Server thread/INFO]: [Magic] Loaded 20 crafting recipes
+[20:15:27] [Server thread/INFO]: [Magic] LibsDisguises not found, magic mob disguises will not be available
+[20:15:27] [Server thread/INFO]: [Magic] MobArena not found
+[20:15:27] [Server thread/INFO]: [Magic] LogBlock not found
+[20:15:27] [Server thread/INFO]: [Magic] Integrating with Essentials for vanish detection
+[20:15:27] [Server thread/INFO]: [Magic] Integrating with Essentials for Recall warps
+[20:15:27] [Server thread/INFO]: [Magic] Factions not found
+[20:15:27] [Server thread/INFO]: [Magic] WorldGuard found, will respect build permissions for construction spells
+[20:15:27] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[20:15:27] [Server thread/INFO]: [Magic] Lockette nor LockettePro found, will not integrate.
+[20:15:27] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
+[20:15:27] [Server thread/INFO]: [Magic] NoCheatPlus not found, will not integrate.
+[20:15:27] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[20:15:27] [Server thread/INFO]: [Magic] PlaceholderAPI integration enabled. Available placeholders:
+[20:15:27] [Server thread/INFO]: [Magic] magic_path, magic_class, magic_wand, magic_spell, magic_mana, magic_mana_max, magic_sp, magic_spell_count
+[20:15:27] [Server thread/INFO]: [Magic] LightAPI not found, Light action will not work
+[20:15:27] [Server thread/INFO]: [Magic] Activated BStats
+[20:15:27] [Server thread/INFO]: Magic checking resource pack for updates: [0;37;22mhttps://s3-us-west-2.amazonaws.com/elmakers/Magic/Magic-RP-1.15.zip[m
+
+[20:15:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:15:27] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:15:27] [Server thread/INFO]: Done (8.777s)! For help, type "help"
+[20:15:27] [Server thread/INFO]: [KiteBoard] Registered event PlayerJoinEvent trigger for group join_server.
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |  [0;33;1mBungee Mode[0;32;1m  |[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.2[m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+
+[20:15:28] [Server thread/INFO]: [Citizens] Loaded 3 NPCs.
+[20:15:28] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.10.8) is available at:
+[20:15:28] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[20:15:28] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.1.7'; Currently: '6.1.3'
+[20:15:28] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[20:15:28] [Craft Scheduler Thread - 2/INFO]: [PlaceholderAPI] 176 placeholder expansions are available on the cloud.
+[20:15:28] [Craft Scheduler Thread - 6/INFO]: [0;37;22m[[0;33;1mGPS[0;37;22m] [0;37;1mA new update is available at:[m
+
+[20:15:28] [Craft Scheduler Thread - 6/INFO]: [0;36;1mhttps://www.spigotmc.org/resources/53672/updates[m
+
+[20:15:28] [Server thread/INFO]: [Magic] Essentials found, hooked up custom item handler
+[20:15:28] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
+[20:15:28] [Server thread/INFO]: [Magic] Loaded 2 image maps
+[20:15:28] [Server thread/INFO]: [Magic] Finished loading data.
+[20:15:28] [Craft Scheduler Thread - 6/INFO]: [BossShopPro] Loaded 11 Shops!
+[20:15:28] [Craft Scheduler Thread - 6/INFO]: [BossShopPro] Vault found.
+[20:15:28] [Server thread/INFO]: [0;32;1mResource pack has not changed, using hash KcHjy0ae/hpm2ELkrIxxuXqxNto= (1590615311000 <= 1590615311000)[m
+
+[20:15:28] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.4.3
+[20:15:28] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[20:15:28] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/projects/holographic-displays
+[20:15:28] [Craft Scheduler Thread - 0/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[20:15:28] [Craft Scheduler Thread - 0/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
+[21:15:27] [Craft Scheduler Thread - 0/WARN]: [Magic] Backup file is larger than current map file, you may want to restore or delete it? C:\Users\black\Documents\GitHub\KnoxUni\Main\plugins\Magic\data\imagemaps.yml.bak
+[21:42:58] [User Authenticator #1/INFO]: UUID of player ThanhVNHC is f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
+[21:42:59] [Server thread/INFO]: ThanhVNHC[/25.94.17.215:54150] logged in with entity id 211 at ([world]-161.5, 80.0, -82.5)
+[21:42:59] [Server thread/INFO]: [KiteBoard] Using adapter version: Adapter_1_15_R1
+[21:45:13] [Server thread/INFO]: ThanhVNHC issued server command: /wand add
+[21:45:16] [Server thread/INFO]: ThanhVNHC issued server command: /wand add
+[21:45:19] [Server thread/INFO]: ThanhVNHC issued server command: /wand
+[21:45:23] [Server thread/INFO]: ThanhVNHC issued server command: /wand 2
+[21:45:27] [Server thread/INFO]: ThanhVNHC issued server command: /wand
+[21:45:28] [Server thread/INFO]: ThanhVNHC issued server command: /wand
+[21:49:10] [Server thread/WARN]: ThanhVNHC moved too quickly! -0.926501886861189,-3.9031272476744903,20.77360215886432
+[21:49:53] [Server thread/INFO]: ThanhVNHC lost connection: Disconnected
+[22:08:40] [User Authenticator #2/INFO]: UUID of player hiemnguyno is 4d5778fb-7865-3891-83ed-fd26e2cd5d1d
+[22:08:41] [Server thread/INFO]: hiemnguyno[/25.55.187.237:54642] logged in with entity id 339 at ([world]-59.04376899108451, 101.41116608298206, -117.32806072516988)
+[22:08:41] [Craft Scheduler Thread - 38/WARN]: [Magic] [33m Failed to save wand state for wand to : ItemStack{STICK x 0}[0m
+[22:11:49] [Server thread/INFO]: hiemnguyno lost connection: Disconnected
+[22:11:49] [Server thread/INFO]: hiemnguyno left the game
+[22:15:28] [Craft Scheduler Thread - 45/WARN]: [Magic] Backup file is larger than current map file, you may want to restore or delete it? C:\Users\black\Documents\GitHub\KnoxUni\Main\plugins\Magic\data\imagemaps.yml.bak
+[23:15:27] [Craft Scheduler Thread - 45/WARN]: [Magic] Backup file is larger than current map file, you may want to restore or delete it? C:\Users\black\Documents\GitHub\KnoxUni\Main\plugins\Magic\data\imagemaps.yml.bak
+[23:43:27] [User Authenticator #3/INFO]: UUID of player blacksniper2705 is a2f2efd3-bca5-3863-9161-712789cbf098
+[23:43:28] [Server thread/INFO]: blacksniper2705[/25.103.221.93:56053] logged in with entity id 340 at ([world]-168.5, 85.0, -91.5)
+[23:43:28] [pool-29-thread-1/INFO]: Creating empty config: C:\Users\black\Documents\GitHub\KnoxUni\Main\plugins\Essentials\userdata\a2f2efd3-bca5-3863-9161-712789cbf098.yml
+[23:43:43] [Server thread/INFO]: blacksniper2705 issued server command: /fly
+[23:43:50] [Server thread/INFO]: blacksniper2705 lost connection: Disconnected
+[23:43:50] [Server thread/INFO]: blacksniper2705 left the game
+[23:47:26] [Server thread/INFO]: Stopping the server
+[23:47:26] [Server thread/INFO]: Stopping server
+[23:47:26] [Server thread/INFO]: [Magic] Disabling Magic v7.9.10-578c6b8
+[23:47:26] [Server thread/WARN]: [Magic] Backup file is larger than current map file, you may want to restore or delete it? C:\Users\black\Documents\GitHub\KnoxUni\Main\plugins\Magic\data\imagemaps.yml.bak
+[23:47:26] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[23:47:26] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.1.3
+[23:47:26] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.17.2.0
+[23:47:26] [Server thread/INFO]: [ArmorStandTools] Disabling ArmorStandTools v3.5.1
+[23:47:26] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[23:47:26] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[23:47:26] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[23:47:26] [Server thread/INFO]: [BossShopPro] Disabling BossShopPro v2.0.8
+[23:47:26] [Server thread/INFO]: [BossShopPro] Disabling... bye!
+[23:47:26] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.9.2
+[23:47:26] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.26-SNAPSHOT (build 1854)
+[23:47:26] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[23:47:26] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[23:47:26] [Server thread/INFO]: [CommandSpy] Disabling CommandSpy v1.4
+[23:47:26] [Server thread/INFO]: [KiteBoard] Disabling KiteBoard v3.0.8
+[23:47:26] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[23:47:26] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[23:47:26] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.1
+[23:47:26] [Server thread/INFO]: [PluginManager] Disabling PluginManager v1.3
+[23:47:26] [Server thread/INFO]: [0;32;1m[21mPluginManager [0;30;1m» [0;37;22m[0;37;22mThe plugin has been[0;30;1m: [0;31;1mDISABLED[m
+
+[23:47:26] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.5
+[23:47:26] [Server thread/INFO]: [GPS] Disabling GPS v2.18.2
+[23:47:26] [Server thread/INFO]: [SimpleBossBar] Disabling SimpleBossBar v0.1.4
+[23:47:26] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.0.8
+[23:47:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[23:47:26] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:47:26] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.2
+[23:47:26] [Server thread/INFO]: [NoPlugins] Disabling NoPlugins v7.2
+[23:47:26] [Server thread/INFO]: [NoPlugins] disabled.
+[23:47:26] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.116
+[23:47:26] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[23:47:26] [Server thread/INFO]: [LuckPerms] Closing storage...
+[23:47:26] [Server thread/INFO]: [LuckPerms] Goodbye!
+[23:47:26] [Server thread/INFO]: Saving players
+[23:47:26] [Server thread/INFO]: Saving worlds
+[23:47:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:47:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:26] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[23:47:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

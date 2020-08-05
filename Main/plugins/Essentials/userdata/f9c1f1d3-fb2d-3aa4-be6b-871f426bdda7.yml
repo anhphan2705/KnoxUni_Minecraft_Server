@@ -1,23 +1,23 @@
 lastAccountName: ThanhVNHC
 timestamps:
-  login: 1596312374134
-  logout: 1596314030699
+  login: 1596332579304
+  logout: 0
   lastteleport: 1596315725132
 ipAddress: 25.94.17.215
 lastlocation:
   world: world
-  x: -116.69999998807906
-  y: 84.89449572833041
-  z: -31.61536787112444
-  yaw: -251.96068
-  pitch: 15.899934
+  x: -161.5
+  y: 80.0
+  z: -82.5
+  yaw: 2.2708783
+  pitch: 0.0
 logoutlocation:
   world: world
-  x: -165.5
-  y: 85.0
-  z: -85.5
-  yaw: -116.39786
-  pitch: 87.15012
+  x: -149.73730313766362
+  y: 81.0
+  z: -49.86250001192093
+  yaw: -0.84768677
+  pitch: 37.140488
 nickname: ThanhVNHC
 godmode: false
-afk: true
+afk: false

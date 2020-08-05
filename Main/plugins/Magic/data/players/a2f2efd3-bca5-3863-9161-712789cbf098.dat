@@ -393,7 +393,7 @@ wands:
             amount: 10.0
             name: Equipment Modifier
             slot: HAND
-            uuid: b996acc3-5d5b-4bfe-9732-53e60e0d3340
+            uuid: 9a5dd4f2-eee3-483d-9d4c-62badbe889c1
             operation: 0
         ItemFlags:
         - HIDE_ENCHANTS
@@ -495,7 +495,7 @@ properties:
   version: 7
 classes:
   caster:
-    mana_timestamp: 1596316940547
+    mana_timestamp: 1596339830506
     mana: 250.0
     spells:
     - arrow

@@ -44,7 +44,7 @@ farm:
   cast_count: 0
   last_cast: 0
 fire:
-  cast_count: 1
+  cast_count: 6
   last_cast: 0
 wandbuffshop:
   cast_count: 0
@@ -311,7 +311,7 @@ blind:
   cast_count: 0
   last_cast: 0
 boon:
-  cast_count: 1
+  cast_count: 2
   last_cast: 0
 axeshop:
   cast_count: 0
@@ -614,7 +614,7 @@ gatling:
   cast_count: 0
   last_cast: 0
 peek:
-  cast_count: 0
+  cast_count: 1
   last_cast: 0
 piggyback:
   cast_count: 0

@@ -1,16 +1,16 @@
 lastAccountName: hiemnguyno
 timestamps:
-  login: 1595965159617
-  logout: 1595965403323
+  login: 1596334009877
+  logout: 1596334121086
   lastteleport: 1585920241924
 ipAddress: 25.55.187.237
 logoutlocation:
   world: world
-  x: 1751.9264558087837
+  x: 1752.217567896367
   y: 8.5
-  z: 909.0147458713399
+  z: 911.6497056444093
   yaw: -90.0
-  pitch: 6.000585
+  pitch: -2.2494297
 afk: false
 lastlocation:
   world: world

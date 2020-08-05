@@ -42,7 +42,7 @@ npc:
       owner:
         owner: emlacobedamdang
         uuid: 2343e106-252e-3dba-9aa3-bb171b3a8a89
-    traitnames: spawned,scoreboardtrait,gravity,inventory,type,lookclose,mounttrait,owner,location,equipment
+    traitnames: spawned,equipment,lookclose,location,inventory,type,gravity,owner,scoreboardtrait,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -72,7 +72,7 @@ npc:
           '0': 0.0
           '1': 360.0
       location:
-        headYaw: 99.57803
+        headYaw: 0.0
         world: world
         x: '-42.3232'
         y: '33.0625'
@@ -84,7 +84,7 @@ npc:
       owner:
         owner: emlacobedamdang
         uuid: 2343e106-252e-3dba-9aa3-bb171b3a8a89
-    traitnames: spawned,scoreboardtrait,gravity,inventory,type,lookclose,mounttrait,owner,location,equipment
+    traitnames: equipment,spawned,lookclose,location,inventory,type,gravity,owner,scoreboardtrait,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -125,7 +125,7 @@ npc:
       owner:
         owner: emlacobedamdang
         uuid: 2343e106-252e-3dba-9aa3-bb171b3a8a89
-    traitnames: spawned,scoreboardtrait,gravity,inventory,type,lookclose,mounttrait,owner,location,anchors,equipment
+    traitnames: spawned,equipment,lookclose,location,inventory,type,gravity,owner,scoreboardtrait,mounttrait,anchors
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

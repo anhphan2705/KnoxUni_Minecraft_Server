@@ -477,39 +477,6 @@ spells:
     last_earn: 0
     cooldown_expiration: 0
 wands:
-  magicsword:
-    item:
-      ==: org.bukkit.inventory.ItemStack
-      v: 2230
-      type: AIR
-      amount: 0
-      meta:
-        ==: ItemMeta
-        meta-type: UNSPECIFIC
-        display-name: §3Magic Sword
-        lore:
-        - §o§a§7Warrior §rMagic Sword
-        - §3§oBound to ~KnoxUni2
-        - Knows 11 Spells
-        - '§eMana: 250'
-        - '§eMana Regeneration: 50/s'
-        - §2Physical Protection II
-        attribute-modifiers:
-          GENERIC_ATTACK_DAMAGE:
-          - ==: org.bukkit.attribute.AttributeModifier
-            amount: 6.0
-            name: Equipment Modifier
-            uuid: cd138a92-1631-4958-a4f1-15fadc84944e
-            operation: 0
-        ItemFlags:
-        - HIDE_ATTRIBUTES
-        - HIDE_UNBREAKABLE
-        - HIDE_DESTROYS
-        - HIDE_PLACED_ON
-        - HIDE_POTION_EFFECTS
-        Unbreakable: true
-        Damage: 8
-        internal: H4sIAAAAAAAAAE2QQVODMBCFF6EtRUf/hOOpzACVAv4Fz56ZkGxqxpBkEih68be7cPL27b6372WSAUSQfCG6KINkYUakkE44Os0mhGxkV8XDYj2td3Yx6OH4+27s94dRFTm3Va8EPL+KumlaOeRNe6nzc9uVeXtGkUtRXbDiohYlZTyglMinnlttPbyUhZRd0XVdLdhJouwoQfJGFKf/SgqJ4tbA49Vqgabf3vPWxnC4oQ+KFIBDBk/Boda9Mjc0k/U/MSRu1prEjKwepaZmmu5i2A1aGbGexbB3VoUt40gC894uxEAsvQ3rQUznowpBaaQpoVyp/Io7Qj5vGG1t4ZNwH0O6Gga2lafrD9/PRnjrHBs0RvAHuc1GHXUBAAA=
   wand:
     item:
       ==: org.bukkit.inventory.ItemStack
@@ -531,7 +498,7 @@ wands:
             amount: 10.0
             name: Equipment Modifier
             slot: HAND
-            uuid: 56c5c79b-e67c-429a-a06b-9176358188cf
+            uuid: b001e953-0013-4237-b70a-af2a646ccf72
             operation: 0
         ItemFlags:
         - HIDE_ENCHANTS
@@ -657,7 +624,7 @@ wands:
           - ==: org.bukkit.attribute.AttributeModifier
             amount: 10.0
             name: Equipment Modifier
-            uuid: 852ae119-9ff4-4272-a23b-073b04bc0761
+            uuid: 76900fa0-6762-4532-95d3-ef33d6d7db0b
             operation: 0
         ItemFlags:
         - HIDE_ATTRIBUTES
@@ -667,14 +634,14 @@ wands:
         - HIDE_POTION_EFFECTS
         Unbreakable: true
         Damage: 1
-        internal: H4sIAAAAAAAAAB2PzY7CMBCDp6KI8qN9CsSJSp2UNoFX2POeqyQzQRUlqUKhnPbZibja/mx5A5BBfmMesw3ks/ZUQDHxfRz0xLC968fE8TGHmPRlmD1HWP//+vD+870oIO9t8PBzDQOx7765Cy5g9UpQnxyAVer7cl1PsD9RI6VyppSqbcpanbFUNVPpSLQsLDWEaWjHzrGdOhuGEOGAlTO6VZWoDR4dG7aoBEpTHZUkqk8VImmXfmyfnmIYR20GzuADqWUAhNsAAAA=
+        internal: H4sIAAAAAAAAAB2PS47CMBBEOyKI8NGcArEiUtohseEKs551ZLvbKCLYkQmE1Zwdi+2rUunVBiCD/MY8ZhvIZ+2pgGLi+zjoiWF714+J42MOMfFlmD1HWP//+vD+871I1S/qeoL9iRoplTOlVG1T1uqMpaqZSkeiZWGpIUwbO3aO7dTZMIQIB6yc0a2qRG3w6NiwRSVQmuqoJFF9qhBJuwLy3gYPP9cwEPvu63PBBaxeSa5PCcAq/dg+PcUwjtoMnMEHQOiOaNsAAAA=
     wand:
       template: mastersword
       owner: ~KnoxUni2
-      icon: golden_sword:1
-      version: 7
       owner_id: 4d5778fb-7865-3891-83ed-fd26e2cd5d1d
       effect_color: 10fba68023b1,febec18217b0,87dd34011daf
+      icon: golden_sword:1
+      version: 7
 open_wand: false
 gave_welcome_wand: false
 data:
@@ -683,7 +650,7 @@ properties:
   version: 7
 classes:
   caster:
-    mana_timestamp: 1596322911070
+    mana_timestamp: 1596334309257
     mana: 250.0
     spells:
     - cluster

@@ -1,16 +1,16 @@
 lastAccountName: hiemnguyno
 timestamps:
-  login: 1596316366253
-  logout: 1596316304559
+  login: 1596334121391
+  logout: 1596334309359
   lastteleport: 1596320798497
 ipAddress: 25.55.187.237
 logoutlocation:
   world: world
-  x: -237.5
-  y: 72.0
-  z: -6.5
-  yaw: 109.34369
-  pitch: 90.0
+  x: -55.43934103508728
+  y: 92.0
+  z: -121.43286470545375
+  yaw: -242.37671
+  pitch: 31.199903
 lastlocation:
   world: world
   x: -207.09081944950105
@@ -18,6 +18,6 @@ lastlocation:
   z: -75.78121789998956
   yaw: -343.95508
   pitch: 2.3999805
-afk: true
+afk: false
 godmode: false
 nickname: KnoxUni2

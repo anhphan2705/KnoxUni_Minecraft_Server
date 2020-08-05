@@ -1,7 +1,7 @@
 id: f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
 name: ThanhVNHC
 created: 1596309041608
-last_cast: 1596316254338
+last_cast: 1596332990749
 cooldown_expiration: 0
 last_death_location: -217.66097391260715,117.87107447124336,-63.99247843885075,world,26.999695,28.650145
 fall_protection_count: 0
@@ -18,13 +18,13 @@ undo:
 spells:
   blind:
     cast_count: 0
-    last_cast: 0
+    last_cast: 1596332990750
     last_earn: 0
-    cooldown_expiration: 0
+    cooldown_expiration: 1596333000750
   boon:
-    cast_count: 0
-    last_cast: 0
-    last_earn: 0
+    cast_count: 1
+    last_cast: 1596332754559
+    last_earn: 1596332754559
     cooldown_expiration: 0
   frost:
     cast_count: 0
@@ -33,28 +33,28 @@ spells:
     cooldown_expiration: 0
   missile:
     cast_count: 0
-    last_cast: 1596316254338
+    last_cast: 1596332792197
     last_earn: 0
     cooldown_expiration: 0
   fire:
-    cast_count: 0
-    last_cast: 0
-    last_earn: 0
+    cast_count: 5
+    last_cast: 1596332950753
+    last_earn: 1596332743114
     cooldown_expiration: 0
   torch:
     cast_count: 3
     last_cast: 1596316092504
     last_earn: 1596315785939
-    cooldown_expiration: 1596316102504
+    cooldown_expiration: 0
   fireball:
     cast_count: 0
     last_cast: 0
     last_earn: 0
     cooldown_expiration: 0
   peek:
-    cast_count: 0
-    last_cast: 0
-    last_earn: 0
+    cast_count: 1
+    last_cast: 1596332836659
+    last_earn: 1596332836659
     cooldown_expiration: 0
 wands:
   wand:
@@ -65,7 +65,7 @@ wands:
       meta:
         ==: ItemMeta
         meta-type: UNSPECIFIC
-        display-name: §6Torch§f (§3Wand§f)
+        display-name: §6Blind§f (§3Wand§f)
         lore:
         - §o§a§7Beginner §rMagic Wand
         - §3§oBound to ThanhVNHC
@@ -78,7 +78,7 @@ wands:
             amount: 10.0
             name: Equipment Modifier
             slot: HAND
-            uuid: dd1f2e42-692b-46af-93d9-d9084423d119
+            uuid: 87ff8304-06bd-4830-ab76-b3532611f1f3
             operation: 0
         ItemFlags:
         - HIDE_ENCHANTS
@@ -89,35 +89,34 @@ wands:
         - HIDE_POTION_EFFECTS
         Unbreakable: true
         Damage: 1
-        internal: H4sIAAAAAAAAADVQy07DMBDc4ISGUMRPIE6NVOddrlw4cUJcIz/WilXXjpK0FX/PpoLbzuxoZnYzgAjiI+IYZRBfhdcppAueRicW/CeScPU4wcPXIPzw/fnxnsJWqMVesJ9HdA6SJUxqIBaNQbX0KrgwwWt7aBTvyr3kVb0rtKyLQjX7Q9fual7KUqmqq3lBgTf/3mp4MQfFDddlbmSh81KIKpfYyLxruamKRmot2hRiq4KH7TUEjb4fAr5xBk/oFRVc089+AYANg80Fp9mSllAGz7e2vfUX9NT4h0EinfWatgmDWIab8J5oM4V5tYjI4mTn2TokBCQydlpHxv6OpvmOQbrSUtArAGJSjYjHNXP97uPZ6ymMo5AOI/gFnV0bzXEBAAA=
+        internal: H4sIAAAAAAAAADWQT0+EMBDFBwEXkcQvYTwthwKhrFcvnjwZr6R/pqHZbktKhfjtLURvL29+eW9mSoAEsivinJSQbczKAoqAt9mwgP9G7jaLHh4+J2anr4/3twIqJoJecVxmNAZybvQOVqgUijAKZ5yHl2GgF9LhIBGbM1JUREhBWtmdSUcbJLSjnPWx8MgftYRndRFEEdnWijeybhnrao49rwdKVNf0XEpGC8i0cBaqzTmJdpwcvpIUTiv6RUcf4FTC07HZqO2KNjj/k/4tGaeQQsbdASbRVt4tIeq7GHHTy6IN7kyElPa7zCIUI8QUdZ5CsducxbMB7iM1I173zv2Tj99WejfPjBtM4BfstdILXQEAAA==
     wand:
       template: wand
       owner: ThanhVNHC
-      active_spell: torch
-      effect_color: 796c1830b145,2db522c60987,513b3cc48512
+      active_spell: blind
+      effect_color: 887914e8dee2,e7ef1cdc13d4,1472e1747ba6
       owner_id: f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
       icon: wooden_hoe:1
-      enchant_count: 7
       version: 7
       spell_inventory:
-        blind: 5
-        boon: 6
-        frost: 1
-        missile: 0
-        fire: 3
-        torch: 2
-        fireball: 4
+        blind: 0
+        boon: 1
+        frost: 2
+        missile: 3
+        fire: 4
+        torch: 5
+        fireball: 6
         peek: 7
 open_wand: false
 gave_welcome_wand: false
 data:
-  sp: 2
+  sp: 17
 properties:
   version: 7
 classes:
   caster:
-    mana_timestamp: 1596322911070
-    mana: 50.0
+    mana_timestamp: 1596332993256
+    mana: 18.75
     spells:
     - blind
     - boon

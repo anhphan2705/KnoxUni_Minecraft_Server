@@ -65,7 +65,7 @@ wands:
       meta:
         ==: ItemMeta
         meta-type: UNSPECIFIC
-        display-name: §6Torch§f (§3Wand§f)
+        display-name: §6Magic Missile§f (§3Wand§f)
         lore:
         - §o§a§7Beginner §rMagic Wand
         - §3§oBound to ThanhVNHC
@@ -78,7 +78,7 @@ wands:
             amount: 10.0
             name: Equipment Modifier
             slot: HAND
-            uuid: dd1f2e42-692b-46af-93d9-d9084423d119
+            uuid: 92774bfb-adb9-4c52-9e55-e683b220ba3c
             operation: 0
         ItemFlags:
         - HIDE_ENCHANTS
@@ -89,25 +89,14 @@ wands:
         - HIDE_POTION_EFFECTS
         Unbreakable: true
         Damage: 1
-        internal: H4sIAAAAAAAAADVQy07DMBDc4ISGUMRPIE6NVOddrlw4cUJcIz/WilXXjpK0FX/PpoLbzuxoZnYzgAjiI+IYZRBfhdcppAueRicW/CeScPU4wcPXIPzw/fnxnsJWqMVesJ9HdA6SJUxqIBaNQbX0KrgwwWt7aBTvyr3kVb0rtKyLQjX7Q9fual7KUqmqq3lBgTf/3mp4MQfFDddlbmSh81KIKpfYyLxruamKRmot2hRiq4KH7TUEjb4fAr5xBk/oFRVc089+AYANg80Fp9mSllAGz7e2vfUX9NT4h0EinfWatgmDWIab8J5oM4V5tYjI4mTn2TokBCQydlpHxv6OpvmOQbrSUtArAGJSjYjHNXP97uPZ6ymMo5AOI/gFnV0bzXEBAAA=
+        internal: H4sIAAAAAAAAADWOwQqCQBRFn2Rk5WdEqwRnNB3btmnVKtrKvHlvULIZMcvfT4JWFy6He+4GIIDwwdwHGwgn7SiCaORn3+mR/0XYGu8gnrwndnXj+SQiWPrJ8QDrW6Ndc79ezgtYfXh4tTMKsIogZmvZjLXxnR9gr5Ti1FRFXkp5YCUkWqmyI4qDyMsiPSLSnLP9t1u3BDtbGWEFZYlFSUmmdZ4gF5ioUthcFkiky/n+9u1o8H2vseMAvkfz+RjSAAAA
     wand:
       template: wand
-      owner: ThanhVNHC
-      active_spell: torch
-      effect_color: 796c1830b145,2db522c60987,513b3cc48512
-      owner_id: f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
       icon: wooden_hoe:1
-      enchant_count: 7
+      owner: ThanhVNHC
       version: 7
-      spell_inventory:
-        blind: 5
-        boon: 6
-        frost: 1
-        missile: 0
-        fire: 3
-        torch: 2
-        fireball: 4
-        peek: 7
+      effect_color: 888e0c964722,e812bf2835b1,147605bbd476
+      owner_id: f9c1f1d3-fb2d-3aa4-be6b-871f426bdda7
 open_wand: false
 gave_welcome_wand: false
 data:
@@ -116,7 +105,7 @@ properties:
   version: 7
 classes:
   caster:
-    mana_timestamp: 1596322911070
+    mana_timestamp: 1596332728008
     mana: 50.0
     spells:
     - blind
