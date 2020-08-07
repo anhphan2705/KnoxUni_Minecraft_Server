@@ -4,7 +4,11 @@
 register:
   required: true
   # When enabled, users need to enter a captcha upon registration.
+<<<<<<< HEAD
   captcha: false
+=======
+  captcha: true
+>>>>>>> anvil
   # When enabled, requires users to enter their password twice upon registration.
   confirm-password: false
 login:
@@ -19,10 +23,17 @@ join:
   blindness: true
   # Temporarily login location until player has logged in.
   # Available options: DEFAULT, SPAWN, RANDOM
+<<<<<<< HEAD
   location: DEFAULT
   # Hides the player's inventory until they log in.
   # The inventory is never lost, even after reboot or crash.
   hide-inventory: true
+=======
+  location: SPAWN
+  # Hides the player's inventory until they log in.
+  # The inventory is never lost, even after reboot or crash.
+  hide-inventory: false
+>>>>>>> anvil
 username:
   # Remove special characters like @ and # from the username.
   # Disabling this can be a security risk!
@@ -31,7 +42,11 @@ username:
   max-length: 16
 # Shortcut that can be used as alternative to login/register command. Does not replace the defaults
 command-shortcut:
+<<<<<<< HEAD
   enabled: false
+=======
+  enabled: true
+>>>>>>> anvil
   login: /l
   register: /reg
 updater:
